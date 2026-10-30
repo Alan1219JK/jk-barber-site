@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="nb">
+<head>
+<meta charset="utf-8">
+<title>Blogg: Guider fra barbererne</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Manrope:wght@400;500;600;700&display=swap">
+<style>
+body{margin:0;background:#121110;font-family:Manrope,system-ui,sans-serif;color:#F3EDE4}
+a{color:#C9A45C}a:hover{color:#E2C27A}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:0 26px;border-radius:4px;font-weight:600;font-size:15px;text-decoration:none}
+.btn-p{background:#C9A45C;color:#121110}
+.btn-s{border:1px solid #C9A45C;color:#F3EDE4;background:transparent}
+.card{background:#1B1917;border:1px solid #2A2724;border-radius:6px}
+.eyebrow{font-size:12px;letter-spacing:2.4px;text-transform:uppercase;color:#C9A45C;font-weight:600}
+h1,h2,h3{font-family:Fraunces,Georgia,serif;font-weight:500;margin:0}
+.ph{background:#232019;border:1px dashed #4A4336;color:#8F8678;display:flex;align-items:center;justify-content:center;font-size:12px;letter-spacing:1px;text-transform:uppercase;text-align:center;padding:12px}
+.muted{color:#A39A8C}
+.wrap{max-width:1240px;margin:0 auto;padding:0 40px}
+nav a.n{color:#F3EDE4;text-decoration:none;font-size:15px;font-weight:500}
+.row{display:flex;justify-content:space-between;padding:12px 0;border-top:1px solid #2A2724;font-size:15px}
+.chip{display:inline-flex;align-items:center;min-height:40px;padding:0 18px;border-radius:999px;border:1px solid #2A2724;color:#F3EDE4;font-size:14px;font-weight:500;text-decoration:none;background:#1B1917}
+.chip-on{background:#C9A45C;color:#121110;border-color:#C9A45C;font-weight:600}
+.art{display:flex;flex-direction:column;overflow:hidden;padding:0}
+.art .ph{height:190px;border:none;border-bottom:1px dashed #4A4336}
+.art .body{padding:20px 22px 24px;display:flex;flex-direction:column;gap:10px;flex:1}
+.art h3{font-size:19px;line-height:1.3}
+.tag{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#C9A45C;font-weight:600}
+</style>
+</helmet>
+
+<div style="width:100%;box-sizing:border-box;display:flex;flex-direction:column">
+
+<!-- Header -->
+<header style="border-bottom:1px solid #2A2724;background:#121110">
+  <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap;min-height:76px">
+    <a href="#" style="display:flex;align-items:center;gap:14px;font-family:Fraunces,serif;font-size:22px;color:#F3EDE4;text-decoration:none;letter-spacing:.5px"><img src="./jk-barber-logo-messing-600.png" alt="J&amp;K Barber Shop logo" style="height:56px;width:auto;display:block"><span>J&amp;K <span style="color:#C9A45C">Barber Shop</span></span></a>
+    <nav style="display:flex;gap:24px;flex-wrap:wrap;align-items:center">
+      <a class="n" href="#">Avdelinger</a><a class="n" href="#">Tjenester og priser</a><a class="n" href="#">Appen</a><a class="n" href="#">Gavekort</a><a class="n" href="#">Produkter</a><a class="n" href="#">Om oss</a><a class="n" href="#" style="color:#C9A45C">Blogg</a>
+    </nav>
+    <a class="btn btn-p" href="#">Bestill time</a>
+  </div>
+</header>
+
+<div class="wrap muted" style="font-size:13px;padding-top:18px;padding-bottom:0">Hjem · <span style="color:#F3EDE4">Blogg</span></div>
+
+<!-- Hero -->
+<section style="padding:40px 0 48px">
+  <div class="wrap" style="display:flex;flex-direction:column;gap:28px">
+    <div style="display:flex;flex-direction:column;gap:18px;max-width:820px">
+      <div class="eyebrow">Blogg</div>
+      <h1 style="font-size:52px;line-height:1.05">Guider fra barbererne</h1>
+      <p style="margin:0;font-size:18px;line-height:1.55;color:#D9D1C4">Her svarer vi på det kundene spør om i stolen: hva en skin fade egentlig er, hvilket stylingprodukt som passer håret ditt, hvor ofte du bør klippe deg, og hva det koster. Skrevet av barbererne våre, uten fagprat du ikke trenger.</p>
+    </div>
+    <!-- Kategorifilter -->
+    <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center">
+      <a class="chip chip-on" href="#">Alle</a>
+      <a class="chip" href="#">Guider</a>
+      <a class="chip" href="#">Skjegg</a>
+      <a class="chip" href="#">Hår og styling</a>
+      <a class="chip" href="#">Produkter</a>
+      <a class="chip" href="#">Barbershop-livet</a>
+    </div>
+  </div>
+</section>
+
+<!-- Fremhevet artikkel -->
+<section style="padding:0 0 80px">
+  <div class="wrap">
+    <div class="card" style="padding:0;overflow:hidden;display:grid;grid-template-columns:minmax(0, 1.25fr) minmax(0, 1fr);border-color:#C9A45C">
+      <div class="ph" style="min-height:420px;border:none;border-right:1px dashed #4A4336">Bilde: barberer viser prislisten eller klipper skin fade, bredt format (jk-barber-blogg-prisguide-2026.jpg)</div>
+      <div style="padding:44px 48px;display:flex;flex-direction:column;gap:16px;justify-content:center">
+        <div style="display:flex;gap:14px;align-items:center"><span class="tag">Guider</span><span class="muted" style="font-size:13px">Fremhevet · 7 min lesetid</span></div>
+        <h2 style="font-size:34px;line-height:1.15">Hva koster herreklipp og skin fade i 2026? Prisguide for Follo, Bærum og Romerike</h2>
+        <p class="muted" style="margin:0;font-size:16px;line-height:1.6">Vi går gjennom hva en klassisk herreklipp, skin fade, skjeggtrim og kombo koster hos oss og i området rundt, hvorfor prisen avhenger av barberens nivå (Lærling, Junior, Barber, Senior), og hvordan du får hver 10. klipp gratis med appen.</p>
+        <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:6px"><a class="btn btn-p" href="#">Les prisguiden</a><a class="btn btn-s" href="#">Se alle priser</a></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Guider for din avdeling -->
+<section style="padding:80px 0;background:#1B1917;border-top:1px solid #2A2724;border-bottom:1px solid #2A2724">
+  <div class="wrap" style="display:flex;flex-direction:column;gap:32px">
+    <div style="display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:16px">
+      <div style="display:flex;flex-direction:column;gap:10px;max-width:760px"><div class="eyebrow">Lokalt</div><h2 style="font-size:38px;line-height:1.1">Guider for din avdeling</h2><p class="muted" style="margin:0;font-size:16px;line-height:1.6">Hvor i senteret vi ligger, hvor du parkerer, og hva du kan bestille hos barbereren nær deg. Én guide per sted.</p></div>
+      <a href="#" style="font-size:15px">Se alle avdelinger</a>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(3, minmax(0, 1fr));gap:20px">
+      <div class="card art" style="background:#121110"><div class="ph">Bilde: inngang Ski Storsenter (jk-barber-ski-blogg.jpg)</div><div class="body"><span class="tag">Ski</span><h3>Barbershop i Ski: herreklipp og skin fade på Ski Storsenter og i Åsenveien</h3><p class="muted" style="margin:0;font-size:14px;line-height:1.55">To avdelinger i Ski: på brugangen mot Telia i senteret, og i Åsenveien 3 der det hele startet.</p><a href="#" style="font-size:15px;margin-top:auto">Les guiden</a></div></div>
+      <div class="card art" style="background:#121110"><div class="ph">Bilde: salongen ved Vinmonopolet, Kolbotn Torg (jk-barber-kolbotn-blogg.jpg)</div><div class="body"><span class="tag">Kolbotn</span><h3>Frisør i Kolbotn? Slik er herreklipp og skin fade hos barbereren på Kolbotn Torg</h3><p class="muted" style="margin:0;font-size:14px;line-height:1.55">Ved Vinmonopolet på Kolbotn Torg, med 2 timer gratis parkering.</p><a href="#" style="font-size:15px;margin-top:auto">Les guiden</a></div></div>
+      <div class="card art" style="background:#121110"><div class="ph">Bilde: J&amp;K i Kjørbokollen, Sandvika (jk-barber-sandvika-blogg-kjorbokollen.jpg)</div><div class="body"><span class="tag">Sandvika</span><h3>Barbershop i Sandvika Storsenter: slik finner du J&amp;K i Kjørbokollen</h3><p class="muted" style="margin:0;font-size:14px;line-height:1.55">Inngang, parkering og hva du kan bestille hos barbereren ved siden av Cewe Japan Photo.</p><a href="#" style="font-size:15px;margin-top:auto">Les guiden</a></div></div>
+      <div class="card art" style="background:#121110"><div class="ph">Bilde: 1. etasje mot Lindex, Jessheim Storsenter (jk-barber-jessheim-blogg.jpg)</div><div class="body"><span class="tag">Jessheim</span><h3>Barbershop på Jessheim: skin fade, skjegg og herreklipp på Jessheim Storsenter</h3><p class="muted" style="margin:0;font-size:14px;line-height:1.55">I 1. etasje mot Lindex. Det du trenger å vite før første besøk.</p><a href="#" style="font-size:15px;margin-top:auto">Les guiden</a></div></div>
+      <div class="card art" style="background:#121110"><div class="ph">Bilde: mellom Fransa og Gullfunn, Strømmen Storsenter (jk-barber-strommen-blogg.jpg)</div><div class="body"><span class="tag">Strømmen</span><h3>Herrefrisør på Strømmen Storsenter</h3><p class="muted" style="margin:0;font-size:14px;line-height:1.55">I den eldste delen av senteret, 1. etasje mellom Fransa og Gullfunn.</p><a href="#" style="font-size:15px;margin-top:auto">Les guiden</a></div></div>
+      <div class="card art" style="background:#121110"><div class="ph">Bilde: 1. etasje Rykkinn Senter (jk-barber-rykkinn-blogg.jpg)</div><div class="body"><span class="tag">Rykkinn</span><h3>Frisør på Rykkinn Senter: herreklipp og skjegg uten å dra til Sandvika</h3><p class="muted" style="margin:0;font-size:14px;line-height:1.55">Vår nyeste avdeling i Bærum, i 1. etasje på Rykkinn Senter.</p><a href="#" style="font-size:15px;margin-top:auto">Les guiden</a></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- Alle guider -->
+<section style="padding:80px 0">
+  <div class="wrap" style="display:flex;flex-direction:column;gap:32px">
+    <div style="display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:16px">
+      <div style="display:flex;flex-direction:column;gap:10px"><div class="eyebrow">Alle guider</div><h2 style="font-size:38px;line-height:1.1">Det kundene spør om i stolen</h2></div>
+      <div class="muted" style="font-size:14px">Viser 12 av 20 artikler</div>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(4, minmax(0, 1fr));gap:20px">
+      <div class="card art"><div class="ph">Bilde: low, mid og high fade side om side (jk-blogg-fade-forskjell.jpg)</div><div class="body"><span class="tag">Guider</span><h3>Skin fade, taper fade, low, mid og high: forskjellen forklart</h3><a href="#" style="font-size:15px;margin-top:auto">Les guiden</a></div></div>
+      <div class="card art"><div class="ph">Bilde: barn i stolen med kappe (jk-blogg-barneklipp.jpg)</div><div class="body"><span class="tag">Guider</span><h3>Barneklipp første gang: 7 tips fra barbereren</h3><a href="#" style="font-size:15px;margin-top:auto">Les guiden</a></div></div>
+      <div class="card art"><div class="ph">Bilde: saks og maskin på benken (jk-blogg-frisor-eller-barber.jpg)</div><div class="body"><span class="tag">Guider</span><h3>Herrefrisør eller barber: hva er forskjellen?</h3><a href="#" style="font-size:15px;margin-top:auto">Les guiden</a></div></div>
+      <div class="card art"><div class="ph">Bilde: kort pixie eller fade på kvinne (jk-blogg-herreklipp-kvinner.jpg)</div><div class="body"><span class="tag">Guider</span><h3>Herreklipp for kvinner: kort hår, pixie og skin fade hos barberer</h3><a href="#" style="font-size:15px;margin-top:auto">Les guiden</a></div></div>
+      <div class="card art"><div class="ph">Bilde: skjeggtrim med trimmer (jk-blogg-skjegg-ansiktsform.jpg)</div><div class="body"><span class="tag">Skjegg</span><h3>Skjeggtrim: slik former du skjegget etter ansiktsformen</h3><a href="#" style="font-size:15px;margin-top:auto">Les guiden</a></div></div>
+      <div class="card art"><div class="ph">Bilde: skjeggolje og kam (jk-blogg-style-skjegget.jpg)</div><div class="body"><span class="tag">Skjegg</span><h3>Slik styler du skjegget: trinn for trinn</h3><a href="#" style="font-size:15px;margin-top:auto">Les guiden</a></div></div>
+      <div class="card art"><div class="ph">Bilde: hodebarbering med kniv (jk-blogg-hodebarbering.jpg)</div><div class="body"><span class="tag">Hår og styling</span><h3>Hodebarbering: slik tar du den helt ned</h3><a href="#" style="font-size:15px;margin-top:auto">Les guiden</a></div></div>
+      <div class="card art"><div class="ph">Bilde: pomade, voks, leire og saltspray på rekke (jk-blogg-stylingprodukt.jpg)</div><div class="body"><span class="tag">Produkter</span><h3>Pomade, voks, leire eller saltspray: velg riktig stylingprodukt</h3><a href="#" style="font-size:15px;margin-top:auto">Les guiden</a></div></div>
+      <div class="card art"><div class="ph">Bilde: ventesone i salongen (jk-blogg-drop-in.jpg)</div><div class="body"><span class="tag">Barbershop-livet</span><h3>Drop-in eller bestilt time hos barber?</h3><a href="#" style="font-size:15px;margin-top:auto">Les guiden</a></div></div>
+      <div class="card art"><div class="ph">Bilde: stempelkortet i appen på mobil (jk-blogg-stempelkort.jpg)</div><div class="body"><span class="tag">Barbershop-livet</span><h3>Hver 10. klipp gratis: slik fungerer stempelkortet i J&amp;K-appen</h3><a href="#" style="font-size:15px;margin-top:auto">Les guiden</a></div></div>
+      <div class="card art"><div class="ph">Bilde: knivbarbering med varmt håndkle (jk-blogg-knivbarbering.jpg)</div><div class="body"><span class="tag">Guider</span><h3>Knivbarbering: hva skjer, hvor lang tid tar det?</h3><a href="#" style="font-size:15px;margin-top:auto">Les guiden</a></div></div>
+      <div class="card art"><div class="ph">Bilde: kalender eller utvokst klipp (jk-blogg-hvor-ofte.jpg)</div><div class="body"><span class="tag">Hår og styling</span><h3>Hvor ofte bør menn klippe seg?</h3><a href="#" style="font-size:15px;margin-top:auto">Les guiden</a></div></div>
+    </div>
+    <div style="display:flex;justify-content:center;gap:12px;flex-wrap:wrap"><a class="btn btn-s" href="#">Vis flere guider</a></div>
+  </div>
+</section>
+
+<!-- Nyhetsbrev / app -->
+<section style="padding:72px 0;background:#17150F;border-top:1px solid #2A2724;border-bottom:1px solid #2A2724">
+  <div class="wrap" style="display:grid;grid-template-columns:repeat(2, minmax(0, 1fr));gap:24px">
+    <div class="card" style="padding:36px;display:flex;flex-direction:column;gap:14px;background:#121110">
+      <div class="eyebrow">Nyhetsbrev</div>
+      <h2 style="font-size:28px;line-height:1.15">Få de nye guidene på e-post</h2>
+      <p class="muted" style="margin:0;font-size:15px;line-height:1.6">Vi sender en kort e-post når vi har skrevet noe nytt, pluss beskjed om nye avdelinger og tilbud. Ikke oftere enn du vil ha det.</p>
+      <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:6px"><div style="flex:1;min-width:220px;min-height:48px;border:1px solid #2A2724;border-radius:4px;background:#1B1917;display:flex;align-items:center;padding:0 16px;color:#8F8678;font-size:15px">Din e-postadresse</div><a class="btn btn-p" href="#">Meld meg på</a></div>
+      <div class="muted" style="font-size:12px">Du kan melde deg av når som helst.</div>
+    </div>
+    <div class="card" style="padding:36px;display:flex;gap:24px;align-items:center;border-color:#C9A45C">
+      <div style="display:flex;flex-direction:column;gap:14px;flex:1">
+        <div class="eyebrow">J&amp;K-appen</div>
+        <h2 style="font-size:28px;line-height:1.15">Hver 10. klipp gratis</h2>
+        <p class="muted" style="margin:0;font-size:15px;line-height:1.6">Last ned appen, bestill time og samle stempler. Fire stempelkort: klassisk klipp, skin fade, skjegg og kombo. Barbereren registrerer stempelet i salongen.</p>
+        <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:6px"><a class="btn btn-p" href="#">Last ned appen</a><a class="btn btn-s" href="#">Slik fungerer det</a></div>
+      </div>
+      <div class="ph" style="width:150px;height:260px;border-radius:12px;flex-shrink:0">Skjermbilde: stempelkort i appen</div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section style="padding:72px 0">
+  <div class="wrap" style="display:flex;flex-direction:column;gap:28px">
+    <div class="card" style="padding:40px;display:flex;justify-content:space-between;align-items:center;gap:24px;flex-wrap:wrap;border-color:#C9A45C"><div><h2 style="font-size:30px">Heller spørre barbereren direkte?</h2><p class="muted" style="margin:6px 0 0;font-size:15px">Bestill time i en av sju avdelinger. Konsultasjon først, så klipper vi. Avbestilling senest 24 timer før.</p></div><a class="btn btn-p" href="#">Bestill time</a></div>
+    <div class="muted" style="font-size:14px;line-height:1.8">Kategorier: <a href="#">Guider</a> · <a href="#">Skjegg</a> · <a href="#">Hår og styling</a> · <a href="#">Produkter</a> · <a href="#">Barbershop-livet</a></div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer style="padding:64px 0 40px;background:#0C0B0A;border-top:1px solid #2A2724">
+  <div class="wrap" style="display:grid;grid-template-columns:repeat(4, minmax(0, 1fr));gap:32px;font-size:14px;line-height:1.7">
+    <div style="display:flex;flex-direction:column;gap:12px"><img src="./jk-barber-logo-messing-600.png" alt="J&amp;K Barber Shop logo" style="height:120px;width:auto;display:block"><div style="font-family:Fraunces,serif;font-size:20px">J&amp;K <span style="color:#C9A45C">Barber Shop</span></div><div class="muted">Barbershop og herrefrisør siden 2018, for både menn og kvinner, i Follo, Bærum og Romerike.<br>Org.nr. 932 372 614<br>Åsenveien 3, 1400 Ski<br>Tlf 90 80 00 86 (felles for alle avdelinger)<br>post@j-kbarber.no</div></div>
+    <div class="muted"><div style="color:#F3EDE4;font-weight:600;margin-bottom:6px">Avdelinger</div>Sandvika Storsenter<br>Ski Storsenter<br>Åsenveien 3, Ski<br>Kolbotn Torg<br>Jessheim Storsenter<br>Strømmen Storsenter<br>Rykkinn Senter</div>
+    <div class="muted"><div style="color:#F3EDE4;font-weight:600;margin-bottom:6px">Tjenester</div>Herreklipp<br>Skin fade<br>Skjeggtrim<br>Knivbarbering<br>Barneklipp<br>Kombo<br>Hjemmebarbering</div>
+    <div class="muted"><div style="color:#F3EDE4;font-weight:600;margin-bottom:6px">J&amp;K</div>Appen og stempelkort<br>Gavekort<br>Produkter<br>Om oss<br>Jobb og franchise<br>Blogg<br>Personvern</div>
+  </div>
+</footer>
+
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":4600}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>

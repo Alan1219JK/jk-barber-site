@@ -1,0 +1,499 @@
+/* J&K Barber Shop, j-kbarber.no. Mobil først, brytpunkt 720 og 1080. */
+:root{
+  --bg:#121110;--flate:#1B1917;--kant:#2A2724;--messing:#C9A45C;--messing-h:#E2C27A;--tekst:#F3EDE4;
+  --dempet:#A39A8C;--lys:#D9D1C4;--mork:#17150F;--footer:#0C0B0A;--ph:#232019;--ph-kant:#4A4336;--ph-tekst:#8F8678;
+  --serif:Fraunces,Georgia,"Times New Roman",serif;--sans:Manrope,system-ui,-apple-system,"Segoe UI",sans-serif;
+  --gutter:20px;--maks:1240px;--radius:6px;--sticky-h:66px;
+}
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;scroll-padding-top:16px}
+body{margin:0;background:var(--bg);color:var(--tekst);font-family:var(--sans);font-size:16px;line-height:1.55;overflow-x:hidden}
+img,svg{max-width:100%;height:auto;display:block}
+a{color:var(--messing);text-decoration:none}
+a:hover{color:var(--messing-h);text-decoration:underline}
+a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px solid var(--messing-h);outline-offset:3px}
+h1,h2,h3,h4{font-family:var(--serif);font-weight:500;margin:0;line-height:1.12;color:var(--tekst);font-variation-settings:"opsz" 96}
+h1{font-size:clamp(32px,7.5vw,60px);line-height:1.05;letter-spacing:-.01em}
+h2{font-size:clamp(26px,4.5vw,40px);line-height:1.1}
+h3{font-size:clamp(19px,2.6vw,22px);line-height:1.25}
+h2 a,h3 a{color:inherit}
+p{margin:0 0 1em}
+p:last-child{margin-bottom:0}
+ul,ol{margin:0 0 1em;padding-left:1.2em}
+.muted{color:var(--dempet)}
+.small{font-size:14px}
+.brass{color:var(--messing)}
+.wrap{max-width:var(--maks);margin:0 auto;padding:0 var(--gutter)}
+.skip{position:absolute;left:-999px;top:8px;background:var(--messing);color:var(--bg);padding:10px 16px;border-radius:4px;z-index:200;font-weight:600}
+.skip:focus{left:8px}
+
+/* Knapper */
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:0 24px;border-radius:4px;font-weight:600;font-size:15px;letter-spacing:.2px;text-decoration:none;border:1px solid transparent;cursor:pointer;font-family:var(--sans);line-height:1.2;text-align:center;transition:background .15s,color .15s,border-color .15s}
+.btn:hover{text-decoration:none}
+.btn-p{background:var(--messing);color:var(--bg)}
+.btn-p:hover{background:var(--messing-h);color:var(--bg)}
+.btn-s{border-color:var(--messing);color:var(--tekst);background:transparent}
+.btn-s:hover{border-color:var(--messing-h);color:var(--messing-h)}
+.btn-sm{min-height:44px;padding:0 18px;font-size:14px}
+.knapper{display:flex;gap:12px;flex-wrap:wrap;margin-top:6px}
+.knapper .btn{flex:1 1 auto}
+.lenke-under{display:inline-block;margin-top:10px;font-size:15px}
+
+/* Kort og seksjoner */
+.card{background:var(--flate);border:1px solid var(--kant);border-radius:var(--radius)}
+.sec{padding:48px 0}
+.sec-flate{background:var(--flate);border-top:1px solid var(--kant);border-bottom:1px solid var(--kant)}
+.sec-mork{background:var(--mork);border-top:1px solid var(--kant);border-bottom:1px solid var(--kant)}
+.sec-flate + .sec-flate,.sec-mork + .sec-mork{border-top:0}
+.sec-flate .card,.sec-mork .card{background:var(--bg)}
+.sec-hero{padding-top:28px}
+.sec-head{display:flex;flex-direction:column;gap:10px;max-width:760px;margin-bottom:28px}
+.sec-head-stor{max-width:820px}
+.sec-head:last-child{margin-bottom:0}
+.sec-head .lead{font-size:16px;line-height:1.6}
+.sec-head-rad{display:flex;flex-direction:column;gap:12px;margin-bottom:28px}
+.sec-head-rad .sec-head{margin-bottom:0}
+.sec-head-rad > a,.sec-head-rad > .btn{align-self:flex-start}
+.eyebrow{font-size:12px;letter-spacing:2.4px;text-transform:uppercase;color:var(--messing);font-weight:600}
+.eyebrow-m{color:var(--dempet)}
+.h2-bred{max-width:820px;margin-bottom:28px}
+.split{display:grid;grid-template-columns:minmax(0,1fr);gap:32px}
+.split-center{align-items:center}
+.split-start{align-items:start}
+.split .sec-head{margin-bottom:0}
+.rad-mellom{display:flex;flex-direction:column;gap:20px}
+.rad-mellom .sec-head{margin-bottom:0}
+.rad-mellom .btn{align-self:flex-start}
+
+/* Grid og repeater */
+.grid{display:grid;grid-template-columns:minmax(0,1fr);gap:16px}
+.grid-4.stempel{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.grid + .small,.grid + p{margin-top:20px}
+.grid + .grid{margin-top:16px}
+.grid + .knapper,.merker + .knapper{margin-top:24px}
+
+/* Hero forside */
+.hero{position:relative;min-height:560px;display:flex;align-items:flex-end;background:var(--mork) center/cover no-repeat;isolation:isolate}
+.hero-overlay{position:absolute;inset:0;background:linear-gradient(180deg,rgba(18,17,16,.15) 0%,rgba(18,17,16,.86) 65%,var(--bg) 100%)}
+.hero-inner{position:relative;display:flex;flex-direction:column;gap:14px;padding-top:120px;padding-bottom:30px;width:100%}
+.hero h1{max-width:720px}
+.hero-ingress{font-size:16px;line-height:1.55;color:var(--lys);max-width:620px;margin:0}
+.hero .knapper .btn{flex:1 1 100%}
+.tillit{display:flex;gap:10px 18px;flex-wrap:wrap;font-size:13px}
+.stars{color:var(--messing);letter-spacing:2px}
+
+/* Hero på undersider (split med bilde) */
+.hero-split{gap:24px}
+.hero-tekst{display:flex;flex-direction:column;gap:16px}
+.hero-tekst .knapper{margin-top:4px}
+.hero-bilde{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:8px}
+.ph.hero-bilde{aspect-ratio:4/3;height:auto;min-height:260px}
+.regel0{margin:0;font-size:15px;line-height:1.55;color:var(--lys);border-left:2px solid var(--messing);padding-left:14px}
+.pris-stor{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+.pris-tall{font-family:var(--serif);font-size:30px;color:var(--messing)}
+
+/* Plassholder */
+.ph{background:var(--ph);border:1px dashed var(--ph-kant);color:var(--ph-tekst);display:flex;align-items:center;justify-content:center;font-size:11px;letter-spacing:1px;text-transform:uppercase;text-align:center;padding:12px;min-height:120px;border-radius:var(--radius);line-height:1.4}
+.ph span{max-width:36ch}
+
+/* Avdelingskort, tjenestekort, bloggkort */
+.avd-kort,.tj-kort,.blogg-kort{display:flex;flex-direction:column;overflow:hidden;padding:0}
+.kort-bilde{width:100%;height:170px;object-fit:cover;border-radius:0}
+.ph.kort-bilde{min-height:150px;height:150px;border-radius:0;border-width:0 0 1px}
+.kort-innhold{padding:20px;display:flex;flex-direction:column;gap:8px;flex:1}
+.kort-innhold p{margin:0}
+.kort-handling{display:flex;gap:14px;align-items:center;margin-top:8px;flex-wrap:wrap}
+.kort-bunn{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-top:auto;padding-top:8px;flex-wrap:wrap}
+.pris{color:var(--messing);font-weight:600}
+.tj-kort .pris{font-size:15px}
+.kort-stor{padding:26px;display:flex;flex-direction:column;gap:10px}
+.kort-stor h2{font-size:24px}
+.kort-stor p{margin:0}
+.grunner{gap:22px 20px}
+.grunn{border-top:2px solid var(--messing);padding-top:16px;display:flex;flex-direction:column;gap:8px}
+.grunn h3{font-size:20px}
+.grunn p{margin:0;font-size:15px}
+
+/* Nivåkort */
+.niva-kort{padding:20px;display:flex;flex-direction:column;gap:6px}
+.niva-kort p{margin:0;font-size:14px}
+.niva-senior{border-color:var(--messing)}
+
+/* Anmeldelser */
+.review{padding:24px;display:flex;flex-direction:column;gap:12px;margin:0}
+.review blockquote{margin:0}
+.review blockquote p{font-family:var(--serif);font-size:16px;line-height:1.6;margin:0;font-variation-settings:"opsz" 14}
+.review blockquote p::before{content:"\201C"}
+.review blockquote p::after{content:"\201D"}
+.review figcaption{font-size:13px}
+
+/* App */
+.app-bilde{width:100%;height:260px;object-fit:cover;border-radius:8px}
+.ph.app-bilde{height:220px}
+.stempel-kort{padding:12px 10px;text-align:center;font-size:13px;font-weight:600}
+
+/* Merker */
+.merker{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.merke{display:flex;align-items:center;justify-content:center;min-height:64px;padding:10px;background:var(--ph);border:1px dashed var(--ph-kant);border-radius:var(--radius);color:var(--tekst);font-size:13px;font-weight:600;text-align:center;letter-spacing:.3px}
+.merke:hover{border-color:var(--messing);color:var(--messing-h);text-decoration:none}
+.merke-alle{border-style:solid;color:var(--messing)}
+
+/* Prisrader og tabeller */
+.row{display:flex;justify-content:space-between;gap:14px;padding:12px 0;border-top:1px solid var(--kant);font-size:15px;align-items:baseline}
+.row > span:first-child a{color:var(--tekst);font-weight:600}
+.row .pris{white-space:nowrap}
+.row-last{border-bottom:1px solid var(--kant)}
+.rows .row:first-child{border-top:0}
+.rows .row:last-child{border-bottom:1px solid var(--kant)}
+.pristabell-kort{padding:4px 20px}
+.pristabell-kort .row:first-child{border-top:0}
+.pristabell-kort .row-last{border-bottom:0}
+.tabell-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:0 calc(-1 * var(--gutter)) 24px;padding:0 var(--gutter)}
+table{border-collapse:collapse;width:100%;min-width:720px;font-size:14px}
+th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--kant);vertical-align:top}
+th{font-weight:600;color:var(--dempet);font-size:12px;letter-spacing:1px;text-transform:uppercase;background:var(--flate);position:sticky;top:0}
+td:not(:first-child),th:not(:first-child){text-align:right;white-space:nowrap}
+td:first-child{min-width:220px}
+tbody tr:hover td{background:rgba(201,164,92,.06)}
+.h3-tabell{margin:32px 0 12px;font-size:20px}
+.sec h3 + .tabell-wrap,.sec h3 + p + .tabell-wrap{margin-top:12px}
+.sec > .wrap > h3{margin-top:28px;font-size:22px}
+.pris-kort{padding:18px;display:flex;flex-direction:column;gap:4px}
+.pris-kort-navn{font-weight:600}
+.pris-kort-tall{color:var(--messing);font-family:var(--serif);font-size:26px}
+.pris-kort a{font-size:14px}
+.prisnivaer{margin:20px 0 24px;max-width:820px;color:var(--dempet);font-size:15px}
+.info-kort{padding:20px;display:flex;flex-direction:column;gap:6px}
+.info-kort p{margin:0;font-size:14px}
+.info-kort a{font-size:14px}
+.info-tittel{font-weight:600;font-size:17px}
+.info-messing{border-color:var(--messing)}
+
+/* NAP, kart, galleri */
+.nap .kort-stor h2{font-size:24px}
+.nap p{font-size:15px;line-height:1.6}
+.kart{display:flex;flex-direction:column;gap:12px}
+.kart-ph{min-height:260px;flex:1}
+.kart-alle{min-height:220px;margin-top:8px}
+.kart .btn{align-self:flex-start}
+.galleri{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:20px 0 40px}
+.galleri-bilde{width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:var(--radius)}
+.ph.galleri-bilde{aspect-ratio:1/1;height:auto;min-height:0;padding:10px}
+
+/* Steg og inkludert */
+.steg-liste{display:flex;flex-direction:column;gap:18px}
+.steg{display:flex;gap:16px;align-items:flex-start}
+.steg-num{width:40px;height:40px;border-radius:50%;border:1px solid var(--messing);color:var(--messing);display:flex;align-items:center;justify-content:center;font-family:var(--serif);font-size:18px;flex-shrink:0}
+.steg-tittel{font-weight:600;margin-bottom:4px}
+.steg p{margin:0;font-size:15px}
+.inkludert ul.hake{list-style:none;padding:0;margin:0 0 12px}
+.inkludert ul.hake li{padding:11px 28px 11px 0;border-top:1px solid var(--kant);position:relative;font-size:15px}
+.inkludert ul.hake li::after{content:"\2713";color:var(--messing);position:absolute;right:0;top:11px}
+.inkludert ul.hake li:last-child{border-bottom:1px solid var(--kant)}
+.inkludert p{margin:14px 0 4px;font-size:15px}
+.inkludert p strong{font-weight:600}
+
+/* Prosa (lengre tekst fra CMS) */
+.prosa p{color:var(--lys);font-size:16px;line-height:1.65;margin:0 0 1em}
+.prosa h2{margin-bottom:14px}
+.prosa h3{margin:0 0 10px;font-size:22px}
+.prosa ul,.prosa ol{color:var(--lys);line-height:1.6}
+.prosa-grid{margin-top:8px}
+
+/* FAQ */
+.faq-grid{display:grid;grid-template-columns:minmax(0,1fr);gap:20px}
+.faq-grid .sec-head{margin-bottom:0}
+.faq-liste{display:flex;flex-direction:column}
+.faq{border-top:1px solid var(--kant)}
+.faq:last-child{border-bottom:1px solid var(--kant)}
+.faq summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;gap:16px;padding:16px 0;font-weight:600;font-size:16px;min-height:44px;align-items:center}
+.faq summary::-webkit-details-marker{display:none}
+.faq-ikon{position:relative;width:16px;height:16px;flex-shrink:0}
+.faq-ikon::before,.faq-ikon::after{content:"";position:absolute;background:var(--messing);left:0;top:7px;width:16px;height:2px}
+.faq-ikon::after{transform:rotate(90deg);transition:transform .2s}
+.faq[open] .faq-ikon::after{transform:rotate(0)}
+.faq-svar{padding:0 0 18px;color:var(--dempet);font-size:15px;line-height:1.55;max-width:680px}
+.faq-svar p{margin:0 0 .6em}
+.faq-svar p:last-child{margin:0}
+
+/* CTA-boks, guide, blogg bred */
+.cta-box{padding:28px 22px;display:flex;flex-direction:column;gap:18px;border-color:var(--messing);margin-bottom:20px}
+.cta-box h2{font-size:26px}
+.cta-box p{margin:6px 0 0;font-size:15px}
+.cta-box .btn{align-self:flex-start}
+.blogg-bred{display:flex;flex-direction:column;overflow:hidden;padding:0;margin-bottom:20px}
+.blogg-bilde{width:100%;height:200px;object-fit:cover}
+.ph.blogg-bilde{height:180px;min-height:0;border-radius:0;border-width:0 0 1px}
+.blogg-bred .kort-innhold{padding:24px}
+.blogg-bred h2{font-size:22px;line-height:1.25}
+.guide-boks{padding:26px 22px;display:flex;flex-direction:column;gap:10px;margin-bottom:20px}
+.guide-boks h2{font-size:22px;line-height:1.25}
+.guide-boks p{margin:0;font-size:15px}
+.guide-boks .btn{align-self:flex-start;margin-top:6px}
+.andre-avd{line-height:1.9}
+.produkt-kort{padding:18px;display:flex;flex-direction:column;gap:8px}
+.produkt-kort p{margin:0;font-size:14px}
+.produkt-ph{min-height:110px;font-size:10px}
+
+/* Skjema */
+.skjema{display:flex;flex-direction:column;gap:16px;max-width:640px}
+.felt{display:flex;flex-direction:column;gap:6px}
+.felt label{font-weight:600;font-size:15px}
+.felt .hint{font-size:13px;color:var(--dempet)}
+input[type=text],input[type=email],input[type=tel],input[type=url],input[type=date],select,textarea{width:100%;background:var(--flate);border:1px solid var(--kant);border-radius:4px;color:var(--tekst);padding:12px 14px;font:inherit;min-height:48px}
+textarea{min-height:140px;resize:vertical}
+input::placeholder,textarea::placeholder{color:var(--ph-tekst)}
+.felt-rad{display:flex;flex-direction:column;gap:12px}
+.valg{display:flex;flex-direction:column;gap:8px}
+.valg label{display:flex;gap:10px;align-items:flex-start;font-weight:400;font-size:15px;min-height:44px;cursor:pointer}
+.valg input{width:20px;height:20px;margin-top:2px;accent-color:var(--messing);flex-shrink:0}
+.samtykke{display:flex;gap:10px;align-items:flex-start;font-size:14px;color:var(--dempet)}
+.samtykke input{width:20px;height:20px;margin-top:2px;accent-color:var(--messing);flex-shrink:0}
+.skjema button.btn{align-self:flex-start;min-width:200px}
+.skjema-status{font-size:15px;min-height:1.5em}
+.skjema-status.feil{color:#E89A8A}
+.skjema-takk{display:none;padding:26px;border-color:var(--messing)}
+.skjema.sendt{display:none}
+.skjema.sendt + .skjema-takk{display:block}
+.felt.ugyldig input,.felt.ugyldig textarea,.felt.ugyldig select{border-color:#E89A8A}
+
+/* Header */
+.site-header{border-bottom:1px solid var(--kant);background:var(--bg);position:relative;z-index:50}
+.header-inner{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:72px;padding-top:10px;padding-bottom:10px}
+.brand{display:flex;align-items:center;gap:10px;font-family:var(--serif);font-size:19px;color:var(--tekst);letter-spacing:.4px;white-space:nowrap}
+.brand:hover{text-decoration:none;color:var(--tekst)}
+.brand img{height:40px;width:auto}
+.header-cta{display:flex;align-items:center;gap:10px}
+.header-cta > .btn{display:none}
+.meny-knapp{width:44px;height:44px;background:transparent;border:1px solid var(--kant);border-radius:4px;color:var(--tekst);display:flex;align-items:center;justify-content:center;cursor:pointer;padding:0}
+.meny-strek,.meny-strek::before,.meny-strek::after{display:block;width:20px;height:2px;background:var(--tekst);position:relative;transition:transform .2s,opacity .2s;content:""}
+.meny-strek::before{position:absolute;top:-6px}
+.meny-strek::after{position:absolute;top:6px}
+.meny-knapp[aria-expanded=true] .meny-strek{background:transparent}
+.meny-knapp[aria-expanded=true] .meny-strek::before{transform:translateY(6px) rotate(45deg)}
+.meny-knapp[aria-expanded=true] .meny-strek::after{transform:translateY(-6px) rotate(-45deg)}
+.nav{display:none;position:absolute;left:0;right:0;top:100%;background:var(--bg);border-bottom:1px solid var(--kant);padding:8px var(--gutter) 20px;box-shadow:0 20px 40px rgba(0,0,0,.4)}
+.nav.apen{display:block}
+.nav ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column}
+.nav a.n{display:block;color:var(--tekst);font-size:17px;font-weight:500;padding:13px 0;border-bottom:1px solid var(--kant);min-height:44px}
+.nav a.n:hover,.nav a.n-aktiv{color:var(--messing-h);text-decoration:none}
+.nav-mobil-ekstra{display:flex;gap:18px;padding-top:16px;font-size:15px}
+body.meny-apen{overflow:hidden}
+
+/* Breadcrumbs */
+.brod{font-size:13px;color:var(--dempet);padding-top:16px;padding-bottom:0;display:flex;gap:6px;flex-wrap:wrap}
+.brod a{color:var(--dempet)}
+.brod span[aria-current]{color:var(--tekst)}
+
+/* Footer */
+.site-footer{padding:48px 0 calc(28px + var(--sticky-h));background:var(--footer);border-top:1px solid var(--kant);font-size:14px;line-height:1.7}
+.footer-grid{display:grid;grid-template-columns:minmax(0,1fr);gap:28px}
+.footer-om{display:flex;flex-direction:column;gap:10px}
+.footer-om img{height:80px;width:auto}
+.footer-om p,.footer-om address{margin:0;font-style:normal}
+.footer-navn{font-family:var(--serif);font-size:20px}
+.footer-app{display:flex;gap:10px;flex-wrap:wrap;margin-top:6px}
+.footer-sosial{margin-top:4px}
+.footer-kol h2{font-family:var(--sans);font-size:14px;font-weight:600;margin:0 0 6px;color:var(--tekst)}
+.footer-kol ul{list-style:none;margin:0;padding:0}
+.footer-kol li{padding:3px 0}
+.footer-kol a{color:var(--dempet)}
+.footer-kol a:hover{color:var(--messing-h)}
+.footer-soster{margin-top:12px}
+.footer-bunn{margin-top:32px;padding-top:20px;border-top:1px solid var(--kant);font-size:13px}
+.footer-bunn a{color:var(--dempet)}
+
+/* Sticky bunnlinje (mobil) */
+.sticky-cta{position:fixed;left:0;right:0;bottom:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;padding:10px 12px calc(10px + env(safe-area-inset-bottom));background:var(--footer);border-top:1px solid var(--kant);z-index:40;transform:translateY(110%);transition:transform .25s}
+.sticky-cta.vis{transform:translateY(0)}
+.sticky-cta .btn{min-height:46px;font-size:14px;padding:0 8px}
+
+/* 404 og takk */
+.sentrert{text-align:center;max-width:640px;margin:0 auto;display:flex;flex-direction:column;gap:16px;align-items:center;padding:40px 0}
+.sentrert .knapper{justify-content:center}
+
+/* Statiske sider: om oss, app, gavekort, produkter, jobb, franchise, kontakt */
+.bilde-rund{width:100%;height:auto;border-radius:var(--radius);object-fit:cover}
+.sec-head .bilde-rund,.sec-head .ph{margin-top:10px}
+.bilde-stabel{display:flex;flex-direction:column;gap:14px}
+.bilde-stabel .ph{min-height:200px}
+.tidslinje{padding:4px 22px 10px}
+.tl{display:grid;grid-template-columns:1fr;gap:6px 24px;padding:18px 0;border-top:1px solid var(--kant)}
+.tl:first-child{border-top:0}
+.tl .yr{font-family:var(--serif);font-size:26px;color:var(--messing);line-height:1}
+.tl h3{font-size:20px;line-height:1.2}
+.tl p{margin:6px 0 0;font-size:15px;line-height:1.55}
+.kort-navn{padding:28px 22px;display:flex;flex-direction:column;gap:14px;border-color:var(--messing)}
+.kort-navn .lead{font-size:17px;line-height:1.6;color:var(--lys);margin:0}
+.kort-navn p{margin:0}
+.niva-grid{margin-top:12px}
+.laere{padding:26px 22px;display:flex;flex-direction:column;gap:16px;margin:32px 0}
+.laere h3{font-size:22px}
+.laere p{margin:6px 0 0;font-size:15px}
+.laere .btn{align-self:flex-start}
+.kvalitet{margin:0;padding-left:1.4em;color:var(--lys);line-height:1.6;font-size:15px}
+.kvalitet li{padding:10px 0;border-top:1px solid var(--kant)}
+.kvalitet li:last-child{border-bottom:1px solid var(--kant)}
+.kvalitet li::marker{color:var(--messing);font-family:var(--serif);font-size:18px}
+.kvalitet strong{color:var(--tekst)}
+.tall-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.tall-kort{padding:22px 18px;display:flex;flex-direction:column;gap:6px}
+.tall-num{font-family:var(--serif);font-size:40px;line-height:1;color:var(--messing)}
+.tall-navn{font-weight:600;font-size:15px}
+.tall-kort p{margin:2px 0 0;line-height:1.45}
+.hake-liste{list-style:none;padding:0;margin:0 0 12px;color:var(--lys);font-size:15px;line-height:1.55}
+.hake-liste li{padding:11px 0 11px 28px;border-top:1px solid var(--kant);position:relative}
+.hake-liste li::before{content:"\2713";color:var(--messing);position:absolute;left:0;top:11px}
+.hake-liste li:last-child{border-bottom:1px solid var(--kant)}
+.h2-gruppe{margin:40px 0 18px;font-size:clamp(22px,3.5vw,30px)}
+.kategorier + .h2-gruppe{margin-top:28px}
+.produkt-merke{display:flex;flex-direction:column;overflow:hidden;padding:0}
+.produkt-merke .kort-innhold{gap:10px}
+.produkt-merke .tips{font-size:14px;color:var(--lys);border-left:2px solid var(--messing);padding-left:12px}
+.produkt-merke .kort-handling{margin-top:auto;padding-top:6px}
+.bestill-kort h2{font-size:22px}
+.bestill-kort .kort-handling .btn{flex:1 1 auto}
+.bestill-kort.niva-senior{box-shadow:0 0 0 1px var(--messing)}
+.felt-gruppe{border:0;padding:0;margin:0;min-width:0}
+.felt-gruppe legend{font-weight:600;font-size:15px;padding:0;margin-bottom:8px}
+.artikkel .prosa h2{margin-top:32px;font-size:clamp(22px,3.5vw,28px)}
+.artikkel .prosa h2:first-child{margin-top:0}
+
+/* Blogg (brukes av bloggmodulen) */
+.artikkel{max-width:760px}
+.artikkel .prosa img{border-radius:var(--radius);margin:20px 0}
+.artikkel-meta{font-size:14px;color:var(--dempet);display:flex;gap:12px;flex-wrap:wrap}
+.artikkel-topp{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:8px;margin:20px 0 28px}
+.kategorier{display:flex;gap:8px;flex-wrap:wrap}
+.kategorier a{display:inline-flex;align-items:center;min-height:40px;padding:0 14px;border:1px solid var(--kant);border-radius:999px;color:var(--tekst);font-size:14px}
+.kategorier a.aktiv,.kategorier a:hover{border-color:var(--messing);color:var(--messing-h);text-decoration:none}
+
+
+/* Blogg: oversikt, kategorier, kort og artikkel */
+.sec-hero .kategorier{margin-top:8px}
+.blogg-kort h3{font-size:19px;line-height:1.3;margin:0}
+.blogg-kort h3 a{color:var(--tekst);text-decoration:none}
+.blogg-kort h3 a:hover{color:var(--messing-h)}
+.blogg-kort .kort-les{margin-top:auto;padding-top:6px;font-size:15px}
+.blogg-kort .tag,.fremhevet .tag{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--messing);font-weight:600;text-decoration:none}
+.sec-flate .blogg-kort-mork{background:var(--bg)}
+.fremhevet{padding:0;overflow:hidden;display:grid;grid-template-columns:minmax(0,1fr);border-color:var(--messing)}
+.fremhevet-bilde{width:100%;height:100%;min-height:220px;object-fit:cover;border-radius:0}
+.ph.fremhevet-bilde{min-height:220px;border-width:0 0 1px}
+.fremhevet-tekst{padding:28px 22px;display:flex;flex-direction:column;gap:14px;justify-content:center}
+.fremhevet-tekst h2{font-size:clamp(24px,3.5vw,34px);line-height:1.15}
+.fremhevet-tekst h2 a{color:var(--tekst);text-decoration:none}
+.fremhevet-tekst p{margin:0}
+.app-boks{padding:28px 22px;display:flex;flex-direction:column;gap:20px;border-color:var(--messing)}
+.app-boks h2{font-size:28px;margin:8px 0 10px}
+.app-boks p{margin:0 0 16px}
+.app-boks-bilde{width:150px;height:260px;border-radius:12px;flex-shrink:0;align-self:center}
+.artikkel-hode{display:flex;flex-direction:column;gap:14px}
+.artikkel-hode h1{font-size:clamp(30px,5vw,46px);line-height:1.1}
+.artikkel-meta a{color:var(--tekst)}
+.artikkel .prosa h3{margin-top:24px}
+.artikkel .prosa h4{margin:20px 0 8px;font-size:18px}
+.artikkel .prosa figure{margin:24px 0}
+.artikkel .prosa figure img{width:100%;height:auto;margin:0}
+.artikkel .prosa figcaption{margin-top:8px}
+.artikkel .prosa .faq-q{margin:22px 0 4px;color:var(--tekst)}
+.artikkel .prosa .faq-q + p{margin-bottom:0}
+.artikkel .prosa table{width:100%;border-collapse:collapse;font-size:15px}
+.artikkel .prosa th,.artikkel .prosa td{text-align:left;padding:10px 12px;border-top:1px solid var(--kant)}
+.artikkel .prosa th{color:var(--messing);font-weight:600}
+.artikkel .cta-box{margin-top:36px}
+.artikkel-deling{margin-top:20px}
+.ph.artikkel-topp{min-height:200px}
+@media (min-width:720px){
+  .fremhevet{grid-template-columns:minmax(0,1.25fr) minmax(0,1fr)}
+  .fremhevet-bilde{min-height:420px}
+  .fremhevet-tekst{padding:44px 48px}
+  .app-boks{flex-direction:row;align-items:center;padding:36px}
+  .app-boks > div{flex:1}
+}
+
+@media print{.site-header,.site-footer,.sticky-cta,.skip{display:none}body{background:#fff;color:#000}}
+
+/* 720: to kolonner, horisontal meny-rad under header kommer først ved 1080 */
+@media (min-width:720px){
+  :root{--gutter:32px}
+  .sec{padding:72px 0}
+  .sec-hero{padding-top:36px}
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+  .grid-4,.grid-4.stempel{grid-template-columns:repeat(4,minmax(0,1fr))}
+  .grid-4.stempel{gap:10px}
+  .hero{min-height:620px;align-items:center}
+  .hero-overlay{background:linear-gradient(90deg,var(--bg) 0%,rgba(18,17,16,.8) 45%,rgba(18,17,16,.2) 100%)}
+  .hero-inner{padding-top:80px;padding-bottom:80px;gap:20px}
+  .hero-ingress{font-size:18px}
+  .hero .knapper .btn{flex:0 0 auto}
+  .tillit{font-size:14px}
+  .knapper .btn{flex:0 0 auto}
+  .sec-head-rad{flex-direction:row;justify-content:space-between;align-items:flex-end}
+  .split{grid-template-columns:repeat(2,minmax(0,1fr));gap:40px}
+  .hero-split{grid-template-columns:minmax(0,1.1fr) minmax(0,1fr)}
+  .split-14{grid-template-columns:minmax(0,1fr) minmax(0,1.4fr)}
+  .split-16{grid-template-columns:minmax(0,1fr) minmax(0,1.6fr)}
+  .rad-mellom{flex-direction:row;justify-content:space-between;align-items:center;gap:32px}
+  .faq-grid{grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:48px}
+  .merker{grid-template-columns:repeat(4,minmax(0,1fr))}
+  .galleri{grid-template-columns:repeat(4,minmax(0,1fr))}
+  .cta-box{flex-direction:row;justify-content:space-between;align-items:center;padding:36px}
+  .blogg-bred{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr)}
+  .blogg-bilde,.ph.blogg-bilde{height:100%;min-height:200px;border-width:0 1px 0 0}
+  .guide-boks{flex-direction:row;justify-content:space-between;align-items:center;gap:32px;padding:30px 36px}
+  .guide-boks > div{display:flex;flex-direction:column;gap:8px;max-width:760px}
+  .felt-rad{flex-direction:row}
+  .felt-rad .felt{flex:1}
+  .app-bilde,.ph.app-bilde{height:380px}
+  .footer-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:32px}
+  .footer-om{grid-column:1 / -1}
+  .footer-om img{height:110px}
+  .pris-tall{font-size:34px}
+  .tabell-wrap{margin:0 0 24px;padding:0}
+  .kort-bilde{height:180px}
+  .tl{grid-template-columns:120px 1fr;padding:22px 0}
+  .tl .yr{font-size:30px}
+  .tidslinje{padding:8px 32px 16px}
+  .kort-navn{padding:40px}
+  .laere{flex-direction:row;justify-content:space-between;align-items:center;gap:24px;padding:28px 32px}
+  .tall-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
+  .tall-kort{padding:30px 26px}
+  .tall-num{font-size:52px}
+  .bestill-kort .kort-handling .btn{flex:0 0 auto}
+}
+
+/* 1080: tre kolonner, full meny, ingen sticky */
+@media (min-width:1080px){
+  :root{--gutter:40px;--sticky-h:0px}
+  .sec{padding:88px 0}
+  .sec-hero{padding-top:40px}
+  .grid-3,.grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .grid-2{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .grid-4{grid-template-columns:repeat(4,minmax(0,1fr))}
+  .split{gap:56px}
+  .merker{grid-template-columns:repeat(6,minmax(0,1fr))}
+  .merke{min-height:90px}
+  .header-inner{min-height:76px;gap:24px}
+  .brand{font-size:22px;gap:14px}
+  .brand img{height:48px}
+  .header-cta > .btn{display:inline-flex}
+  .meny-knapp{display:none}
+  .nav{display:block;position:static;background:transparent;border:0;padding:0;box-shadow:none}
+  .nav ul{flex-direction:row;gap:22px;align-items:center;flex-wrap:wrap}
+  .nav a.n{font-size:15px;padding:8px 0;border:0;min-height:0}
+  .nav a.n-aktiv{box-shadow:inset 0 -2px 0 var(--messing)}
+  .nav-mobil-ekstra{display:none}
+  .sticky-cta{display:none}
+  .site-footer{padding:64px 0 40px}
+  .footer-grid{grid-template-columns:repeat(4,minmax(0,1fr))}
+  .footer-om{grid-column:auto}
+  .hero-bilde{aspect-ratio:auto;height:460px}
+  .ph.hero-bilde{aspect-ratio:auto;height:460px}
+  .kort-bilde{height:170px}
+  .sec-head .lead{font-size:17px}
+  .nap .kort-stor{padding:26px}
+  .tall-grid{grid-template-columns:repeat(5,minmax(0,1fr))}
+  .tall-num{font-size:48px}
+  .kort-navn{padding:48px}
+}

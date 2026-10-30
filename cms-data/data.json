@@ -1,0 +1,6106 @@
+{
+"avdelinger": [
+{
+"id": "sandvika",
+"data": {
+"title": "Sandvika Storsenter",
+"slug": "sandvika",
+"kortnavn": "Sandvika",
+"ga4Avdeling": "sandvika",
+"publisert": true,
+"rekkefolge": 1,
+"h1": "Barbershop og herrefrisør i Sandvika Storsenter",
+"undertittel": "Herreklipp, skin fade, skjeggtrim og knivbarbering i Kjørbokollen, ved siden av Cewe Japan Photo.",
+"ingress": "J&K Barber Shop ligger i Kjørbokollen i Sandvika Storsenter, ved siden av Cewe Japan Photo. Her får du klassisk herreklipp, skin fade, skjeggtrim og tradisjonell knivbarbering av erfarne barberere, alltid med en kort konsultasjon først. Kort vei fra Sandvika stasjon og bussterminalen, og du parkerer i senteret.",
+"seoTittel": "Barbershop og herrefrisør Sandvika Storsenter | J&K",
+"seoBeskrivelse": "Barbershop og herrefrisør i Sandvika Storsenter, i Kjørbokollen ved Cewe Japan Photo. Herreklipp, skin fade, skjeggtrim og knivbarbering. Bestill time online.",
+"senter": "Sandvika Storsenter",
+"plassering": "I Kjørbokollen, ved siden av Cewe Japan Photo. Følg skiltene mot Kjørbokollen.",
+"gateadresse": "Brodtkorbsgate 7",
+"postnummer": "1338",
+"poststed": "Sandvika",
+"kommune": "Bærum",
+"adresse": {
+"formatted": "Brodtkorbsgate 7, 1338 Sandvika, Norge",
+"streetAddress": {
+"name": "Brodtkorbsgate",
+"number": 7
+},
+"city": "Sandvika",
+"postalCode": "1338",
+"country": "NO",
+"subdivision": "Akershus"
+},
+"telefon": "+4790800086",
+"telefonVisning": "90 80 00 86",
+"epost": "post@j-kbarber.no",
+"fixitId": 2882,
+"fixitUrl": "https://fixit.no/booking/2882",
+"fixitBehandlingerUrl": "https://fixit.no/booking/2882/behandlinger",
+"mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=Brodtkorbsgate+7%2C+1338+Sandvika",
+"parkering": "Parkeringshus i Sandvika Storsenter. 2 timer gratis parkering (senterets regler gjelder).",
+"kollektiv": "3 til 5 minutters gange fra Sandvika stasjon (tog og buss). Bussterminalen ligger vegg i vegg med senteret.",
+"apningstiderAvvik": "<p>Åpningstidene følger senteret. Avvikende tider i høytider vises i bookingen og på Google.</p>",
+"beskrivelse": "<p>Sandvika er stedet der Bærum møtes, og Sandvika Storsenter er stedet der Sandvika møtes. Da vi åpnet her i mai 2020, var planen enkel: en barbershop der folk i Bærum kunne få en ordentlig klipp uten å reise til Oslo. I dag er avdelingen vår i Sandvika den mest besøkte vi har, med flere hundre anmeldelser på Google og et snitt på 4,9.</p><p>Du finner oss i Kjørbokollen, ved siden av Cewe Japan Photo. Det er et sted mange går forbi, og det er helt bevisst. Mange av kundene våre kommer innom på vei hjem fra jobb, mellom to ærender eller mens familien handler. Andre har bestilt time for lenge siden hos en bestemt barberer, og kommer fra Bekkestua, Høvik, Kolsås, Slependen og Asker for å få akkurat den fade-en de vet de får her.</p><p>Barbererne i Sandvika er spesielt sterke på skin fade og teksturert klipp, og det er her vi oftest ser de unge fra videregående på Nadderud og Sandvika som vil ha linjene helt rene. Samtidig er det mange som har gått hos oss siden åpningen og som bestiller samme klassiske klipp hver fjerde uke, gjerne med en skjeggtrim på toppen. Begge deler er like velkomne, og alle behandlingene på menyen er for både menn og kvinner.</p><p>Praktisk: Sandvika stasjon ligger tre til fem minutters gange unna, med tog på Drammenbanen og Askerbanen og buss fra hele Bærum. Kjører du, er det parkeringshus i senteret med 2 timer gratis parkering (senterets regler gjelder). Vi holder åpent til 21 på hverdager, så det er plass til en time etter jobb, og lørdag fra 9.</p><p>Har du ikke prøvd oss før, bestill time hos en av barbererne på nivå Barber eller Senior første gang, så får du en konsultasjon og et resultat du kan måle oss på. Og last ned J&K-appen før du kommer, så får du første stempel på stempelkortet med en gang.</p>",
+"adkomst": "<p><strong>Plassering:</strong> I Kjørbokollen, ved siden av Cewe Japan Photo. Følg skiltene mot Kjørbokollen.</p><p><strong>Parkering:</strong> Parkeringshus i Sandvika Storsenter. 2 timer gratis parkering (senterets regler gjelder).</p><p><strong>Kollektiv:</strong> 3 til 5 minutters gange fra Sandvika stasjon (tog og buss). Bussterminalen ligger vegg i vegg med senteret.</p>",
+"dropIn": true,
+"prisniva": "kr 449-1799",
+"status": "apen",
+"apnet": 2020,
+"oversiktTekst": "Den travleste avdelingen vår, sterk på skin fade. I Kjørbokollen ved Cewe Japan Photo.",
+"naboSlugs": "rykkinn,asenveien",
+"bestillKnapp": "Bestill time i Sandvika",
+"apentMan": "10:00-21:00",
+"apentTir": "10:00-21:00",
+"apentOns": "10:00-21:00",
+"apentTor": "10:00-21:00",
+"apentFre": "10:00-21:00",
+"apentLor": "09:00-19:00",
+"apentSon": "Stengt"
+}
+},
+{
+"id": "ski",
+"data": {
+"title": "Ski Storsenter",
+"slug": "ski",
+"kortnavn": "Ski Storsenter",
+"ga4Avdeling": "ski_storsenter",
+"publisert": true,
+"rekkefolge": 2,
+"h1": "Barbershop og herrefrisør i Ski Storsenter",
+"undertittel": "På brugangen i 2. etasje mot Telia, to minutter fra Ski stasjon. Flest barberere og åpent til 21.",
+"ingress": "J&K Barber Shop i Ski Storsenter ligger på brugangen i 2. etasje, mellom den nye og den gamle delen av senteret, mot Telia. Her åpnet vi i 2019, og her får du klassisk herreklipp, skin fade, skjeggtrim og knivbarbering to minutter fra Ski stasjon.",
+"seoTittel": "Barbershop og herrefrisør Ski Storsenter | J&K Barber Shop",
+"seoBeskrivelse": "Barbershop og herrefrisør i Ski Storsenter, på brugangen mot Telia. Herreklipp, skin fade, skjeggtrim og barbering, to minutter fra Ski stasjon.",
+"senter": "Ski Storsenter",
+"plassering": "2. etasje, på brugangen som binder sammen nye og gamle delen, mot Telia.",
+"gateadresse": "Jernbanesvingen 6",
+"postnummer": "1400",
+"poststed": "Ski",
+"kommune": "Nordre Follo",
+"adresse": {
+"formatted": "Jernbanesvingen 6, 1400 Ski, Norge",
+"streetAddress": {
+"name": "Jernbanesvingen",
+"number": 6
+},
+"city": "Ski",
+"postalCode": "1400",
+"country": "NO",
+"subdivision": "Akershus"
+},
+"telefon": "+4790800086",
+"telefonVisning": "90 80 00 86",
+"epost": "post@j-kbarber.no",
+"fixitId": 2881,
+"fixitUrl": "https://fixit.no/booking/2881",
+"fixitBehandlingerUrl": "https://fixit.no/booking/2881/behandlinger",
+"mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=Jernbanesvingen+6%2C+1400+Ski",
+"parkering": "Parkeringshus under og ved Ski Storsenter. 2 timer gratis parkering (senterets regler gjelder).",
+"kollektiv": "2 minutters gange fra Ski stasjon (Follobanen, Østfoldbanen) og Ski bussterminal. Fra Oslo S tar toget 12 minutter.",
+"apningstiderAvvik": "<p>Åpningstidene følger senteret. Avvikende tider i høytider vises i bookingen og på Google.</p>",
+"beskrivelse": "<p>J&K Barber Shop startet i Åsenveien 3 i 2018, og året etter, i 2019, åpnet vi avdeling nummer to her i Ski Storsenter. Siden den gang har det blitt over 400 anmeldelser på Google og mange tusen klipp. Ski er blitt by, Follobanen har gjort Oslo til en tolv minutters togtur, og senteret har vokst rundt oss. Vi står fortsatt på brugangen i 2. etasje, mellom den nye og den gamle delen, med Telia som nærmeste nabo.</p><p>Avdelingen i Ski Storsenter er den av salongene våre med flest barberere og lengst åpningstid, og den som passer best når du vil ha time på kort varsel. Kundene kommer fra hele Nordre Follo: Ski, Langhus, Vevelstad, Siggerud, Kråkstad og Ås, og mange pendlere tar en klipp på vei hjem fra toget. Ski stasjon ligger to minutter unna, så du rekker en klassisk herreklipp mellom to avganger.</p><p>Her gjør vi alt: skin fade for de unge fra Ski videregående og Drømtorp, klassisk klipp med skjeggtrim for dem som har gått hos oss siden 2019, knivbarbering for den som vil unne seg en halvtime med varme håndklær, og barneklipp for de minste. Alle behandlingene på menyen er for både menn og kvinner. Er du usikker på hvilken barberer du skal velge, ser du nivået til hver barberer i bookingen før du bestiller.</p><p>Ski Storsenter er også senteret med flest frisører og barbere under samme tak. Det vi tilbyr som de andre ikke gjør, er kombinasjonen: barberere som er spesialister på kort hår og herreklipp, konsultasjon før hver klipp, produkter fra Reuzel, Uppercut Deluxe og Proraso i hyllene, og stempelkort i appen som gir deg den tiende behandlingen gratis.</p><p>Vil du ha det enda roligere, ligger den andre Ski-avdelingen vår i Åsenveien 3, fem minutters gange unna, med parkering rett utenfor døren.</p>",
+"adkomst": "<p><strong>Plassering:</strong> 2. etasje, på brugangen som binder sammen nye og gamle delen, mot Telia.</p><p><strong>Parkering:</strong> Parkeringshus under og ved Ski Storsenter. 2 timer gratis parkering (senterets regler gjelder).</p><p><strong>Kollektiv:</strong> 2 minutters gange fra Ski stasjon (Follobanen, Østfoldbanen) og Ski bussterminal. Fra Oslo S tar toget 12 minutter.</p>",
+"dropIn": true,
+"prisniva": "kr 399-1599",
+"status": "apen",
+"apnet": 2019,
+"oversiktTekst": "På brugangen mot Telia. Flest barberere, åpent til 21.",
+"naboSlugs": "asenveien,kolbotn",
+"bestillKnapp": "Bestill time i Ski Storsenter",
+"apentMan": "10:00-21:00",
+"apentTir": "10:00-21:00",
+"apentOns": "10:00-21:00",
+"apentTor": "10:00-21:00",
+"apentFre": "09:00-21:00",
+"apentLor": "09:00-19:00",
+"apentSon": "Stengt"
+}
+},
+{
+"id": "asenveien",
+"data": {
+"title": "Åsenveien 3, Ski",
+"slug": "asenveien",
+"kortnavn": "Åsenveien 3",
+"ga4Avdeling": "asenveien",
+"publisert": true,
+"rekkefolge": 3,
+"h1": "Barbershop og herrefrisør i Åsenveien 3, Ski sentrum",
+"undertittel": "Der det startet i 2018. Den roligste salongen vår, med 1 time gratis parkering rett utenfor døren.",
+"ingress": "J&K Barber Shop i Åsenveien 3 er der det hele startet i 2018, og den roligste av salongene våre. Samme inngang som Unilabs, 1 time gratis parkering rett utenfor døren. Her får du god tid i stolen til herreklipp, skin fade, skjeggtrim og tradisjonell knivbarbering.",
+"seoTittel": "Barbershop og herrefrisør Ski sentrum | J&K Barber Shop",
+"seoBeskrivelse": "J&K Barber Shop i Åsenveien 3 i Ski sentrum: der det startet i 2018, den roligste salongen vår, med gratis parkering rett utenfor. Herreklipp, skin fade og skjegg.",
+"senter": "",
+"plassering": "Gateplan, samme inngang som Unilabs. Inngang fra Åsenveien.",
+"gateadresse": "Åsenveien 3",
+"postnummer": "1400",
+"poststed": "Ski",
+"kommune": "Nordre Follo",
+"adresse": {
+"formatted": "Åsenveien 3, 1400 Ski, Norge",
+"streetAddress": {
+"name": "Åsenveien",
+"number": 3
+},
+"city": "Ski",
+"postalCode": "1400",
+"country": "NO",
+"subdivision": "Akershus"
+},
+"telefon": "+4790800086",
+"telefonVisning": "90 80 00 86",
+"epost": "post@j-kbarber.no",
+"fixitId": 2883,
+"fixitUrl": "https://fixit.no/booking/2883",
+"fixitBehandlingerUrl": "https://fixit.no/booking/2883/behandlinger",
+"mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=%C3%85senveien+3%2C+1400+Ski",
+"parkering": "Parkeringsplasser rett utenfor døren, 1 time gratis parkering.",
+"kollektiv": "5 til 7 minutters gange fra Ski stasjon. Busstopp i Åsenveien.",
+"apningstiderAvvik": "<p>Åpningstidene følger senteret. Avvikende tider i høytider vises i bookingen og på Google.</p>",
+"beskrivelse": "<p>Noen vil ha pulsen i kjøpesenteret. Andre vil ha ro. Åsenveien 3 er for dem som vil ha ro. Det var her J&K Barber Shop startet i 2018, et steinkast fra Ski Storsenter, og avdelingen har siden vært salongen vår for den som vil parkere rett utenfor, gå inn uten å passere femti butikker, og sette seg i stolen hos en barberer som har satt av god tid.</p><p>Inngangen deler vi med Unilabs, så mange kombinerer en blodprøve med en klipp. Åsenveien 3 er også hovedkontoret til J&K, og det merkes: her prøver vi ut nye produkter først, her lærer vi opp nye barberere under oppsyn av erfarne barberere, og her tar vi oss tid til knivbarbering slik den skal gjøres, med varme håndklær og uten klokke i nakken.</p><p>Kundene kommer fra Ski sentrum, Finstad, Hebekk, Langhus og Kråkstad, og mange av dem har gått her siden åpningen. Det er en avdeling med stamkunder, der barbereren vet hvordan du vil ha nakken før du har satt deg. Alle behandlingene på menyen er for både menn og kvinner, og nye kunder er like velkomne som de faste.</p><p>Kommer du med tog, er det fem til sju minutters gange fra Ski stasjon, gjennom sentrum og over mot Åsenveien. Kommer du med bil, er det parkeringsplasser utenfor døren med 1 time gratis parkering, noe som gjør denne avdelingen til favoritten for dem som har liten tid men vil ha mye ro.</p><p>Er det fullt hos oss, er Ski Storsenter-avdelingen fem minutter unna med flere barberere og lengre åpningstid.</p>",
+"adkomst": "<p><strong>Plassering:</strong> Gateplan, samme inngang som Unilabs. Inngang fra Åsenveien.</p><p><strong>Parkering:</strong> Parkeringsplasser rett utenfor døren, 1 time gratis parkering.</p><p><strong>Kollektiv:</strong> 5 til 7 minutters gange fra Ski stasjon. Busstopp i Åsenveien.</p>",
+"dropIn": true,
+"prisniva": "kr 399-1599",
+"status": "apen",
+"apnet": 2018,
+"oversiktTekst": "Der det startet i 2018. Den roligste salongen vår, 1 time gratis parkering rett utenfor.",
+"naboSlugs": "ski,kolbotn",
+"bestillKnapp": "Bestill time i Åsenveien 3",
+"apentMan": "10:00-20:00",
+"apentTir": "10:00-20:00",
+"apentOns": "10:00-20:00",
+"apentTor": "10:00-20:00",
+"apentFre": "10:00-20:00",
+"apentLor": "10:00-19:00",
+"apentSon": "Stengt"
+}
+},
+{
+"id": "kolbotn",
+"data": {
+"title": "Kolbotn Torg",
+"slug": "kolbotn",
+"kortnavn": "Kolbotn",
+"ga4Avdeling": "kolbotn",
+"publisert": true,
+"rekkefolge": 4,
+"h1": "Barbershop og herrefrisør på Kolbotn Torg",
+"undertittel": "Ved Vinmonopolet, kort vei fra Kolbotn stasjon. Stabilt team, mye barneklipp og 2 timer gratis parkering.",
+"ingress": "J&K Barber Shop ligger på Kolbotn Torg, ved Vinmonopolet, kort vei fra togstasjonen. Her får du klassisk herreklipp, skin fade, skjeggtrim og knivbarbering, med 2 timer gratis parkering i senteret.",
+"seoTittel": "Barbershop og herrefrisør Kolbotn Torg | J&K Barber Shop",
+"seoBeskrivelse": "Barbershop og herrefrisør på Kolbotn Torg, ved Vinmonopolet. Herreklipp, skin fade, skjeggtrim og barbering. 2 timer gratis parkering. Bestill time.",
+"senter": "Kolbotn Torg",
+"plassering": "Ved Vinmonopolet.",
+"gateadresse": "Strandliveien 4",
+"postnummer": "1410",
+"poststed": "Kolbotn",
+"kommune": "Nordre Follo",
+"adresse": {
+"formatted": "Strandliveien 4, 1410 Kolbotn, Norge",
+"streetAddress": {
+"name": "Strandliveien",
+"number": 4
+},
+"city": "Kolbotn",
+"postalCode": "1410",
+"country": "NO",
+"subdivision": "Akershus"
+},
+"telefon": "+4790800086",
+"telefonVisning": "90 80 00 86",
+"epost": "post@j-kbarber.no",
+"fixitId": 2880,
+"fixitUrl": "https://fixit.no/booking/2880",
+"fixitBehandlingerUrl": "https://fixit.no/booking/2880/behandlinger",
+"mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=Strandliveien+4%2C+1410+Kolbotn",
+"parkering": "Parkeringshus i Kolbotn Torg. 2 timer gratis parkering (senterets regler gjelder).",
+"kollektiv": "1 til 2 minutters gange fra Kolbotn stasjon (Østfoldbanen, L2). Buss fra Sofiemyr, Tårnåsen, Oppegård og Greverud stopper ved torget.",
+"apningstiderAvvik": "<p>Åpningstidene følger senteret. Avvikende tider i høytider vises i bookingen og på Google.</p>",
+"beskrivelse": "<p>Kolbotn er et sted der folk kjenner hverandre, og barbershopen vår på Kolbotn Torg har siden mars 2020 vært en del av det. Vi ligger ved Vinmonopolet, kort vei fra togstasjonen, så du kan gå rett fra toget og inn i stolen på et par minutter. Polet er nabo, og det hender at kundene våre tar handelen der etterpå.</p><p>Avdelingen på Kolbotn er den av salongene våre med flest anmeldelser i forhold til størrelsen, og med et snitt på 4,9 på Google. Det handler om barbererne. Her er det et stabilt team som har vært med lenge, og som har klippet mange av barna på Kolbotn fra første barneklipp til første skin fade før russetiden. Foreldre og barn som bestiller etter hverandre er noe av det vi ser mest av her, og barbererne er gode på å få de minste til å sitte stille.</p><p>Kundene kommer fra hele gamle Oppegård: Kolbotn, Sofiemyr, Tårnåsen, Greverud, Myrvoll, Oppegård og Svartskog. Mange kjører, og da er 2 timer gratis parkering i senteret et poeng. Mange tar toget fra Oslo og hopper av på Kolbotn på vei hjem. Og en del går fra Ingieråsen og Kolbotn sentrum.</p><p>Faglig er Kolbotn sterk på hele bredden: klassisk herreklipp med saks for dem som vil ha det tidløst, skin fade med skarpe linjer for dem som vil ha det moderne, skjeggtrim og knivbarbering for dem som vil ha begge deler. Alle behandlingene er for både menn og kvinner. Her finner du også de fleste av produktene vi selger, med Reuzel og Pan Drwal som de mest etterspurte.</p><p>Vi holder åpent til 21 på hverdager og fra 9 på lørdag, og tar imot drop-in når vi har ledig. Det tryggeste er likevel å bestille time på nett eller i appen, der du også samler stempler.</p>",
+"adkomst": "<p><strong>Plassering:</strong> Ved Vinmonopolet.</p><p><strong>Parkering:</strong> Parkeringshus i Kolbotn Torg. 2 timer gratis parkering (senterets regler gjelder).</p><p><strong>Kollektiv:</strong> 1 til 2 minutters gange fra Kolbotn stasjon (Østfoldbanen, L2). Buss fra Sofiemyr, Tårnåsen, Oppegård og Greverud stopper ved torget.</p>",
+"dropIn": true,
+"prisniva": "kr 399-1599",
+"status": "apen",
+"apnet": 2020,
+"oversiktTekst": "Ved Vinmonopolet. Stabilt team, mye barneklipp, 2 timer gratis parkering.",
+"naboSlugs": "ski,asenveien",
+"bestillKnapp": "Bestill time på Kolbotn",
+"apentMan": "10:00-21:00",
+"apentTir": "10:00-21:00",
+"apentOns": "10:00-21:00",
+"apentTor": "10:00-21:00",
+"apentFre": "10:00-21:00",
+"apentLor": "09:00-18:00",
+"apentSon": "Stengt"
+}
+},
+{
+"id": "jessheim",
+"data": {
+"title": "Jessheim Storsenter",
+"slug": "jessheim",
+"kortnavn": "Jessheim",
+"ga4Avdeling": "jessheim",
+"publisert": true,
+"rekkefolge": 5,
+"h1": "Barbershop og herrefrisør i Jessheim Storsenter",
+"undertittel": "1. etasje mot Lindex, midt i Jessheim sentrum. Åpnet 2025, lett å få time, 2 timer gratis parkering.",
+"ingress": "J&K Barber Shop i Jessheim Storsenter, Storgata 6, er barbershopen for Ullensaker og Gardermoen-regionen. Klassisk herreklipp, skin fade, skjeggtrim og knivbarbering av erfarne barberere, i 1. etasje mot Lindex, midt i Jessheim sentrum med 2 timer gratis parkering i senteret og kort vei fra Jessheim stasjon.",
+"seoTittel": "Barbershop og herrefrisør Jessheim Storsenter | J&K",
+"seoBeskrivelse": "Barbershop og herrefrisør i Jessheim Storsenter, Storgata 6. Herreklipp, skin fade, skjeggtrim og knivbarbering av erfarne barberere. Bestill time online.",
+"senter": "Jessheim Storsenter",
+"plassering": "1. etasje, mot Lindex.",
+"gateadresse": "Storgata 6",
+"postnummer": "2050",
+"poststed": "Jessheim",
+"kommune": "Ullensaker",
+"adresse": {
+"formatted": "Storgata 6, 2050 Jessheim, Norge",
+"streetAddress": {
+"name": "Storgata",
+"number": 6
+},
+"city": "Jessheim",
+"postalCode": "2050",
+"country": "NO",
+"subdivision": "Akershus"
+},
+"telefon": "+4790800086",
+"telefonVisning": "90 80 00 86",
+"epost": "post@j-kbarber.no",
+"fixitId": 2952,
+"fixitUrl": "https://fixit.no/booking/2952",
+"fixitBehandlingerUrl": "https://fixit.no/booking/2952/behandlinger",
+"mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=Storgata+6%2C+2050+Jessheim",
+"parkering": "Parkeringshus i Jessheim Storsenter. 2 timer gratis parkering (senterets regler gjelder).",
+"kollektiv": "Ca. 5 minutters gange fra Jessheim stasjon (Hovedbanen). Buss fra Gardermoen, Kløfta, Nannestad og Eidsvoll stopper ved senteret.",
+"apningstiderAvvik": "<p>Åpningstidene følger senteret. Avvikende tider i høytider vises i bookingen og på Google.</p>",
+"beskrivelse": "<p>Jessheim er en av de raskest voksende byene på Østlandet, og i 2025 åpnet vi dørene i Jessheim Storsenter for å være med på veksten. Avdelingen er en av de nyeste i kjeden, med nytt interiør i mørkt tre og messing, og et team av barberere som har tatt med seg erfaringen fra de andre avdelingene våre til Romerike. Du finner oss i 1. etasje, mot Lindex.</p><p>Kundene våre i Jessheim er en blanding du ikke finner mange andre steder: folk som jobber på Gardermoen og vil ha en klipp mellom to skift, pendlere fra Hovedbanen, studenter og elever fra Jessheim videregående, familier fra Kløfta, Nannestad, Eidsvoll og Nordkisa som handler på senteret, og en god del som har flyttet til Jessheim fra Oslo og savnet en skikkelig barbershop. Vi hører ofte at det var akkurat det de lette etter.</p><p>Jessheim Storsenter ligger midt i sentrum, med parkeringshus (2 timer gratis, senterets regler gjelder) og fem minutters gange fra Jessheim stasjon. Vi holder åpent til 21 på hverdager, så en time etter jobb på flyplassen eller etter toget fra Oslo går fint.</p><p>Faglig satser vi i Jessheim tungt på skin fade og taper fade, som er det flest spør etter her, i tillegg til klassisk herreklipp, skjeggtrim og knivbarbering. Alle behandlingene er for både menn og kvinner. Som i de andre avdelingene starter alt med en kort konsultasjon, og du velger selv barberer og nivå når du bestiller.</p><p>Vi er fortsatt nye i Jessheim, og det betyr to ting: du får lett time, og vi setter ekstra pris på tilbakemeldinger. Har du vært hos oss, legg gjerne igjen noen ord på Google. Har du ikke, bestill time og la oss vise hva vi kan.</p>",
+"adkomst": "<p><strong>Plassering:</strong> 1. etasje, mot Lindex.</p><p><strong>Parkering:</strong> Parkeringshus i Jessheim Storsenter. 2 timer gratis parkering (senterets regler gjelder).</p><p><strong>Kollektiv:</strong> Ca. 5 minutters gange fra Jessheim stasjon (Hovedbanen). Buss fra Gardermoen, Kløfta, Nannestad og Eidsvoll stopper ved senteret.</p>",
+"dropIn": true,
+"prisniva": "kr 300-999",
+"status": "apen",
+"apnet": 2025,
+"oversiktTekst": "Åpnet 2025, 1. etasje mot Lindex, lett å få time.",
+"naboSlugs": "strommen",
+"bestillKnapp": "Bestill time i Jessheim",
+"apentMan": "10:00-21:00",
+"apentTir": "10:00-21:00",
+"apentOns": "10:00-21:00",
+"apentTor": "10:00-21:00",
+"apentFre": "10:00-21:00",
+"apentLor": "10:00-19:00",
+"apentSon": "Stengt"
+}
+},
+{
+"id": "strommen",
+"data": {
+"title": "Strømmen Storsenter",
+"slug": "strommen",
+"kortnavn": "Strømmen",
+"ga4Avdeling": "strommen",
+"publisert": true,
+"rekkefolge": 6,
+"h1": "Barbershop og herrefrisør i Strømmen Storsenter",
+"undertittel": "1. etasje i den eldste delen av senteret, mellom Fransa og Gullfunn. Fem minutter fra Lillestrøm.",
+"ingress": "J&K Barber Shop i Strømmen Storsenter, Støperiveien 5, er barbershopen for Strømmen, Lillestrøm, Skjetten og Lørenskog. Klassisk herreklipp, skin fade, skjeggtrim og knivbarbering, i 1. etasje i den eldste delen av senteret, med 2 timer gratis parkering og kort vei fra Strømmen stasjon.",
+"seoTittel": "Barbershop og herrefrisør Strømmen Storsenter | J&K",
+"seoBeskrivelse": "Barbershop og herrefrisør i Strømmen Storsenter, Støperiveien 5. Herreklipp, skin fade, skjeggtrim og barbering, fem minutter fra Lillestrøm. Bestill time.",
+"senter": "Strømmen Storsenter",
+"plassering": "1. etasje i den eldste delen av senteret, mellom Fransa og Gullfunn.",
+"gateadresse": "Støperiveien 5",
+"postnummer": "2010",
+"poststed": "Strømmen",
+"kommune": "Lillestrøm",
+"adresse": {
+"formatted": "Støperiveien 5, 2010 Strømmen, Norge",
+"streetAddress": {
+"name": "Støperiveien",
+"number": 5
+},
+"city": "Strømmen",
+"postalCode": "2010",
+"country": "NO",
+"subdivision": "Akershus"
+},
+"telefon": "+4790800086",
+"telefonVisning": "90 80 00 86",
+"epost": "post@j-kbarber.no",
+"fixitId": 2950,
+"fixitUrl": "https://fixit.no/booking/2950",
+"fixitBehandlingerUrl": "https://fixit.no/booking/2950/behandlinger",
+"mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=St%C3%B8periveien+5%2C+2010+Str%C3%B8mmen",
+"parkering": "Parkeringshus i Strømmen Storsenter. 2 timer gratis parkering (senterets regler gjelder).",
+"kollektiv": "3 til 5 minutters gange fra Strømmen stasjon (Hovedbanen, 15 minutter fra Oslo S). Buss fra Lillestrøm, Skjetten og Lørenskog stopper ved senteret.",
+"apningstiderAvvik": "<p>Åpningstidene følger senteret. Avvikende tider i høytider vises i bookingen og på Google.</p>",
+"beskrivelse": "<p>Strømmen Storsenter er et av Norges største kjøpesentre, og for mange på Nedre Romerike er det her uken handles inn. I 2025 åpnet vi barbershopen vår her, i 1. etasje i den eldste delen av senteret, mellom Fransa og Gullfunn, for å gi folk i Strømmen, Lillestrøm, Skjetten, Fjellhamar og Lørenskog et sted å få en ordentlig klipp uten å dra inn til Oslo. Avdelingen har i dag et snitt på 5,0 på Google, og det er en standard vi har tenkt å holde.</p><p>Strømmen ligger på Hovedbanen, femten minutter fra Oslo S og fem minutter fra Lillestrøm, og stasjonen er noen minutters gange fra senteret. Mange av kundene våre hopper av her på vei hjem, tar en klipp og handler middag før de går videre. Andre kjører inn fra Skjetten, Skedsmokorset eller Lørenskog og parkerer i senterets parkeringshus, med 2 timer gratis (senterets regler gjelder).</p><p>Barbererne i Strømmen er gode på hele programmet, men det er skin fade og kombinasjonen klipp og skjegg vi gjør mest av her. Mange kunder kommer med bilde av det de vil ha, og det liker vi. Konsultasjonen før klippen handler om å tilpasse bildet til ditt hår og din hodeform, slik at resultatet blir like bra på deg som på bildet. Knivbarbering med varme håndklær tilbyr vi også, og det er en fin måte å avslutte en handletur på. Alle behandlingene er for både menn og kvinner.</p><p>Strømmen og Lillestrøm har flere barbershops, og flere av dem er dyktige. Det vi tilbyr i tillegg er en kjede med sju avdelinger og felles stempelkort, slik at stemplene du samler i Strømmen også gjelder i Jessheim eller Sandvika, barberere med tydelige nivåer så du vet hva du betaler for, og en salong midt i senteret du likevel besøker.</p><p>Bestill time på nett eller i appen, eller stikk innom når du er på senteret og se om vi har ledig.</p>",
+"adkomst": "<p><strong>Plassering:</strong> 1. etasje i den eldste delen av senteret, mellom Fransa og Gullfunn.</p><p><strong>Parkering:</strong> Parkeringshus i Strømmen Storsenter. 2 timer gratis parkering (senterets regler gjelder).</p><p><strong>Kollektiv:</strong> 3 til 5 minutters gange fra Strømmen stasjon (Hovedbanen, 15 minutter fra Oslo S). Buss fra Lillestrøm, Skjetten og Lørenskog stopper ved senteret.</p>",
+"dropIn": true,
+"prisniva": "kr 329-1499",
+"status": "apen",
+"apnet": 2025,
+"oversiktTekst": "1. etasje i den eldste delen, fem minutter fra Lillestrøm.",
+"naboSlugs": "jessheim",
+"bestillKnapp": "Bestill time i Strømmen",
+"apentMan": "10:00-21:00",
+"apentTir": "10:00-21:00",
+"apentOns": "10:00-21:00",
+"apentTor": "10:00-21:00",
+"apentFre": "10:00-21:00",
+"apentLor": "10:00-18:00",
+"apentSon": "Stengt"
+}
+},
+{
+"id": "rykkinn",
+"data": {
+"title": "Rykkinn Senter",
+"slug": "rykkinn",
+"kortnavn": "Rykkinn",
+"ga4Avdeling": "rykkinn",
+"publisert": false,
+"rekkefolge": 7,
+"h1": "Barbershop og herrefrisør på Rykkinn Senter",
+"undertittel": "Den eneste barbershopen i Bærum vest. 1. etasje, med 2 timer gratis parkering ved senteret.",
+"ingress": "J&K Barber Shop på Rykkinn Senter, Munins vei 1, er den eneste barbershopen i Bærum vest. Klassisk herreklipp, skin fade, skjeggtrim og barneklipp for Rykkinn, Bærums Verk, Kolsås, Gommerud og Lommedalen, i 1. etasje, med 2 timer gratis parkering ved senteret.",
+"seoTittel": "Barbershop og herrefrisør Rykkinn Senter | J&K Barber Shop",
+"seoBeskrivelse": "Barbershop og herrefrisør på Rykkinn Senter, Munins vei 1. Herreklipp, skin fade, skjeggtrim og barneklipp for hele Bærum vest. Bestill time online.",
+"senter": "Rykkinn Senter",
+"plassering": "1. etasje.",
+"gateadresse": "Munins vei 1",
+"postnummer": "1348",
+"poststed": "Rykkinn",
+"kommune": "Bærum",
+"adresse": {
+"formatted": "Munins vei 1, 1348 Rykkinn, Norge",
+"streetAddress": {
+"name": "Munins vei",
+"number": 1
+},
+"city": "Rykkinn",
+"postalCode": "1348",
+"country": "NO",
+"subdivision": "Akershus"
+},
+"telefon": "+4790800086",
+"telefonVisning": "90 80 00 86",
+"epost": "post@j-kbarber.no",
+"fixitId": 2964,
+"fixitUrl": "https://fixit.no/booking/2964",
+"fixitBehandlingerUrl": "https://fixit.no/booking/2964/behandlinger",
+"mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=Munins+vei+1%2C+1348+Rykkinn",
+"parkering": "Parkering ved senteret. 2 timer gratis parkering (senterets regler gjelder).",
+"kollektiv": "Buss fra Sandvika, Bærums Verk og Kolsås stopper ved Rykkinn senter. Kolsås T-banestasjon ligger ca. 10 minutter unna med buss.",
+"apningstiderAvvik": "<p>Åpningstidene følger senteret. Avvikende tider i høytider vises i bookingen og på Google.</p>",
+"beskrivelse": "<p>Rykkinn er et av de største boligområdene i Bærum, og Rykkinn Senter er nærbutikken, apoteket og møteplassen for alle som bor på Rykkinn, Gommerud, Berger og i Lommedalen. Vi åpnet her i 2025, i 1. etasje, og er den eneste barbershopen i senteret og i hele Bærum vest. Det tar vi på alvor. Her skal du slippe å kjøre til Sandvika eller Bekkestua for en skikkelig herreklipp.</p><p>Avdelingen på Rykkinn er liten og personlig. Barbereren kjenner kundene, og kundene kjenner barbereren. Det er mye barneklipp her, siden Rykkinn er et barnefamilieområde, og vi er vant med at foreldre kommer med to barn og vil ha alle tre klippet på rad. Det ordner vi. Det er også mange godt voksne kunder som har bodd på Rykkinn siden blokkene var nye, og som setter pris på en klassisk klipp med saks og en rolig prat.</p><p>Samtidig gjør vi akkurat det samme her som i de andre avdelingene: skin fade med rene linjer, skjeggtrim med kniv, knivbarbering med varme håndklær. Alle behandlingene er for både menn og kvinner. Produktene fra Reuzel, Uppercut Deluxe og Proraso står i hyllene, og stempelkortet i appen gjelder her like mye som i Sandvika.</p><p>Praktisk er Rykkinn lett: 2 timer gratis parkering rett utenfor, buss fra Sandvika og Kolsås til døren, og åpent til 20 på hverdager og fra 9 på lørdag. Er det fullt hos oss, er Sandvika-avdelingen vår tolv minutter unna med bil.</p>",
+"adkomst": "<p><strong>Plassering:</strong> 1. etasje.</p><p><strong>Parkering:</strong> Parkering ved senteret. 2 timer gratis parkering (senterets regler gjelder).</p><p><strong>Kollektiv:</strong> Buss fra Sandvika, Bærums Verk og Kolsås stopper ved Rykkinn senter. Kolsås T-banestasjon ligger ca. 10 minutter unna med buss.</p>",
+"dropIn": true,
+"prisniva": "kr 300-1499",
+"status": "apen",
+"apnet": 2025,
+"oversiktTekst": "Eneste barbershop i Bærum vest. 1. etasje.",
+"naboSlugs": "sandvika",
+"bestillKnapp": "Bestill time på Rykkinn",
+"apentMan": "10:00-20:00",
+"apentTir": "10:00-20:00",
+"apentOns": "10:00-20:00",
+"apentTor": "10:00-20:00",
+"apentFre": "10:00-20:00",
+"apentLor": "09:00-18:00",
+"apentSon": "Stengt"
+}
+}
+],
+"tjenester": [
+{
+"id": "herreklipp",
+"data": {
+"title": "Klassisk herreklipp",
+"slug": "herreklipp",
+"publisert": true,
+"rekkefolge": 1,
+"h1": "Klassisk herreklipp",
+"seoTittel": "Klassisk herreklipp | J&K Barber Shop",
+"seoBeskrivelse": "Klassisk herreklipp med konsultasjon, vask og styling hos erfarne barberere i Sandvika, Ski, Kolbotn, Jessheim, Strømmen og Rykkinn. Se pris, bestill time.",
+"ingress": "Saks og maskin, vask og styling. Klippen som ser like bra ut på mandag som på lørdag.",
+"beskrivelse": "<p>En klassisk herreklipp hos J&K Barber Shop er en klipp som er tilpasset deg: hodeform, hårtype, hvordan du styler den til daglig, og hvordan du vil at den skal vokse ut. Saks og maskin, vask, styling og en barberer som har tid. Behandlingen er for både menn og kvinner.</p><h2>Hva du får</h2><ul><li>Konsultasjon i stolen før vi begynner: hva du vil ha, hva du hadde sist, og hva som fungerer med ditt hår.</li><li>Klipp med saks og maskin, tilpasset lengde på sidene og toppen, og rene linjer i nakken og rundt ørene.</li><li>Hårvask inngår i klippen på alle nivåer. Du velger selv om du vil ha vask.</li><li>Styling med produkter fra Reuzel, Uppercut Deluxe, Slickhaven eller HUFS, og tips om hvordan du får til det samme hjemme.</li><li>Rens av nakke og kinn med maskin eller kniv for en ren avslutning.</li></ul><h2>Slik foregår det</h2><p>Du setter deg i stolen, og barbereren spør hva du vil ha. Har du bilde, vis det. Har du ikke, beskriver du hvordan du vil ha det, og barbereren foreslår hva som kler deg. Så klipper vi: sidene først, deretter toppen, deretter detaljene. Underveis sjekker vi med deg i speilet. Til slutt vasker vi ut løst hår, styler og viser deg resultatet fra alle vinkler. Er det noe du vil justere, gjør vi det før du går.</p><h2>Hvem passer det for</h2><p>Alle som vil ha en klipp som ser bra ut i tre til fem uker, enten du vil ha det kort og enkelt, side part med lengde på toppen, slickback, teksturert topp eller lengre hår med form. Vil du ha skin fade på sidene, bestiller du skin fade i stedet; den inkluderer klipp på toppen.</p><h2>Før og etter</h2><p><strong>Før:</strong> Kom med rent eller nesten rent hår, uten tunge produkter, så barbereren ser hvordan håret faller naturlig. Ta med bilde om du har et.</p><p><strong>Etter:</strong> Vent 24 timer før du vasker håret om du har fått styling du liker. Bestill neste time før du går, tre til fem uker frem, så holder klippen seg. I appen får du stempel for hver klassiske klipp.</p>",
+"fraPris": 449,
+"tilPris": 639,
+"pristekst": "449 til 639 kr",
+"prisnivaer": "<p>Priser for nivå Barber. Prisen avhenger av barberens nivå, endelig pris ser du i onlinebookingen.</p><p>Velger du en Senior, koster klippen 50 kr mer enn prisen i tabellen. Lærling og Junior ligger litt under der avdelingen har det. Alle nivåer jobber etter samme standard med samme produkter; forskjellen er erfaring. Har du vært hos oss de siste 15 dagene, kan du bestille Re-fresh klassisk hårklipp (15 minutter, 449 kr i Sandvika, 399 kr i Ski Storsenter, Åsenveien 3 og Kolbotn; tilbys ikke i Jessheim, Strømmen og Rykkinn).</p>",
+"varighetMin": 30,
+"varighetTekst": "Vi setter av 30 minutter i bookingen, med vask og styling inkludert.",
+"knappetekst": "Bestill herreklipp",
+"fixitKode": "",
+"bloggUrl1": "https://www.j-kbarber.no/blogg/hvor-ofte-bor-menn-klippe-seg",
+"relaterteSlugs": "skin-fade,kombo",
+"avdelingSlugs": "sandvika,ski,asenveien,kolbotn,jessheim,strommen,rykkinn"
+}
+},
+{
+"id": "skin-fade",
+"data": {
+"title": "Skin fade",
+"slug": "skin-fade",
+"publisert": true,
+"rekkefolge": 2,
+"h1": "Skin fade og taper fade",
+"seoTittel": "Skin fade hos erfaren barber | J&K Barber Shop",
+"seoBeskrivelse": "Skin fade, taper fade og low, mid og high fade utført med presisjon. Se hva du får, hvor lang tid det tar og hva det koster. Bestill hos nærmeste avdeling.",
+"ingress": "Fra hud til lengde uten synlige overganger. Low, mid eller high, med eller uten tekstur på toppen.",
+"beskrivelse": "<p>Skin fade er en klipp der sidene går fra bar hud nederst til full lengde øverst, uten synlige overganger. Det ser enkelt ut og er det vanskeligste vi gjør. Hos J&K Barber Shop får du skin fade av barberere som har gjort det tusenvis av ganger, med konsultasjon om høyde, form og topp før vi starter. Behandlingen er for både menn og kvinner.</p><h2>Hva du får</h2><ul><li>Konsultasjon om hvilken fade som passer deg: low, mid eller high, skin eller taper, og hvordan toppen skal klippes.</li><li>Fade med maskin i flere lengder, trinnvis blending til null med foil shaver og kniv der det trengs.</li><li>Klipp og form på toppen: teksturert, crop, slickback, quiff eller lengde.</li><li>Rene linjer i panne, tinning og nakke, formet med trimmer og kniv.</li><li>Vask, styling og råd om hvordan du holder fade-en frisk mellom besøkene.</li></ul><h2>Slik foregår det</h2><p>Vi starter med å bli enige om tre ting: hvor høyt fade-en skal starte (low ligger rett over øret, mid midt på siden, high oppe mot kronen), om det skal være skin (null nederst) eller taper (kort men ikke bart), og hva som skal skje på toppen. Deretter legger barbereren inn referanselinjene, jobber seg oppover i lengder og blender overgangene til de forsvinner. Toppen klippes og tilpasses fade-en. Til slutt tegnes linjene opp, vi vasker ut og styler. En god fade sjekkes fra alle vinkler i speilet før du reiser deg.</p><h2>Hvem passer det for</h2><p>Skin fade passer de fleste hodeformer, men høyden bør tilpasses: low fade er mest diskret og fungerer godt på jobb, high fade er tøffest og krever hyppigere vedlikehold. Har du krøller, fungerer en mid fade med tekstur på toppen svært godt. Har du tynt hår på toppen, anbefaler vi ofte taper fremfor skin, fordi kontrasten blir mindre. Spør barbereren.</p><h2>Før og etter</h2><p><strong>Før:</strong> Kom med rent hår uten produkt. Ta med bilde av fade-en du vil ha; de fleste gjør det, og det gjør konsultasjonen enklere.</p><p><strong>Etter:</strong> En skin fade er skarpest de første 7 til 10 dagene. Vil du holde den skarp, bestill ny time etter to til tre uker. Har du vært hos oss de siste 15 dagene, kan du bestille Re-fresh skin fade til lavere pris i Sandvika, Ski Storsenter, Åsenveien 3 og Kolbotn. Line-up er ikke en egen tjeneste hos oss; linjene i skjegget inngår i skjeggtrimmen. Bruk en lett matte paste eller sjøsaltspray på toppen, så beholder du teksturen.</p>",
+"fraPris": 599,
+"tilPris": 829,
+"pristekst": "599 til 829 kr",
+"prisnivaer": "<p>Priser for nivå Barber. Prisen avhenger av barberens nivå, endelig pris ser du i onlinebookingen.</p><p>Velger du en Senior, koster skin fade 50 kr mer enn prisen i tabellen. Skin fade er den behandlingen der nivået betyr mest, fordi blendingen krever trening. Vil du ha den skarpeste overgangen, velg Barber eller Senior. Har du vært hos oss de siste 15 dagene, kan du bestille Re-fresh skin fade (30 minutter, 625 kr i Sandvika, 580 kr i Ski Storsenter, Åsenveien 3 og Kolbotn; tilbys ikke i Jessheim, Strømmen og Rykkinn).</p>",
+"varighetMin": 45,
+"varighetTekst": "Vi setter av 45 minutter i bookingen. Med skjeggtrim (Kombo II) settes det av 60 minutter.",
+"knappetekst": "Bestill skin fade",
+"fixitKode": "",
+"bloggUrl1": "https://www.j-kbarber.no/blogg/skin-fade-taper-fade-forskjellen",
+"relaterteSlugs": "kombo",
+"avdelingSlugs": "sandvika,ski,asenveien,kolbotn,jessheim,strommen,rykkinn"
+}
+},
+{
+"id": "skjeggtrim",
+"data": {
+"title": "Skjeggtrim",
+"slug": "skjeggtrim",
+"publisert": true,
+"rekkefolge": 3,
+"h1": "Skjeggtrim og skjeggforming",
+"seoTittel": "Skjeggtrim og skjeggforming | J&K Barber Shop",
+"seoBeskrivelse": "Skjeggtrim, konturbarbering med kniv og skjeggtrim deluxe med varme håndklær og skjeggolje. Se pris per avdeling og bestill time hos J&K Barber Shop.",
+"ingress": "Form, lengde og rene linjer med kniv. Deluxe-varianten gir deg varme håndklær og skjeggolje på toppen.",
+"beskrivelse": "<p>Et godt skjegg er ikke tilfeldig. Hos J&K Barber Shop former vi skjegget etter ansiktet ditt, med maskin, saks og kniv, og lærer deg hvordan du holder formen hjemme. Velg vanlig skjeggtrim eller deluxe med varme håndklær og skjeggolje.</p><h2>Hva du får</h2><p><strong>Skjeggtrim</strong></p><ul><li>Konsultasjon om lengde, form og hvor linjene skal gå.</li><li>Trim med maskin og saks til jevn lengde, eller fade i skjegget om du vil ha det.</li><li>Konturer (line-up) på kinn og hals med kniv eller trimmer. Line-up inngår alltid i skjeggtrimmen.</li><li>Skjeggolje eller balm til slutt.</li></ul><p><strong>Skjeggtrim deluxe</strong></p><ul><li>Alt over, pluss varmt håndkle før konturbarberingen, barberkrem og kniv på kinn og hals, kaldt håndkle og pleie etterpå.</li></ul><h2>Slik foregår det</h2><p>Vi ser på skjegget sammen i speilet og blir enige om form: hvor høyt kinnlinjen skal gå, hvor halslinjen skal ligge (vanligvis en fingerbredde over adamseplet), og hvor langt det skal være. Barbereren trimmer ned til lengde, former med saks der det trengs, og tegner opp linjene. Velger du deluxe, legger vi et varmt håndkle over kinnene og barberer konturene med kniv, slik at linjene blir helt rene. Til slutt får du olje eller balm, og råd om hva du bør bruke hjemme.</p><h2>Hvem passer det for</h2><p>Alle med skjegg, fra tre ukers stubb som trenger linjer, til fullskjegg som trenger form og lengde. Skjeggtrim passer også godt om du er i ferd med å gro ut skjegg og vil ha hjelp til å få det til å se bevisst ut underveis. Har du ujevn vekst, kan barbereren forme slik at det synes mindre.</p><h2>Før og etter</h2><p><strong>Før:</strong> Vask skjegget samme dag, uten olje, så barbereren ser den naturlige veksten. Tenk over om du vil ha det kortere eller bare renere.</p><p><strong>Etter:</strong> Skjeggolje daglig holder huden under skjegget myk og hindrer flass. Børst skjegget nedover om morgenen. Gjenta trim hver tredje til fjerde uke for å holde formen. Skjeggtrim gir stempel i appen.</p>",
+"fraPris": 399,
+"tilPris": 579,
+"pristekst": "399 til 579 kr",
+"prisnivaer": "<p>Priser for nivå Barber. Prisen avhenger av barberens nivå, endelig pris ser du i onlinebookingen.</p><p>Velger du en Senior, koster skjeggtrim 70 kr mer og deluxe 100 kr mer enn prisen i tabellen. Konturer med kniv gjøres av alle nivåer. Har du vært hos oss de siste 15 dagene, kan du bestille Re-fresh skjeggtrim (15 minutter, 429 kr i Sandvika, 399 kr i Ski Storsenter, Åsenveien 3 og Kolbotn; tilbys ikke i Jessheim, Strømmen og Rykkinn).</p>",
+"varighetMin": 28,
+"varighetTekst": "Vi setter av 28 minutter til skjeggtrim og 60 minutter til skjeggtrim deluxe i bookingen.",
+"knappetekst": "Bestill skjeggtrim",
+"fixitKode": "",
+"bloggUrl1": "https://www.j-kbarber.no/blogg/slik-styler-du-skjegget",
+"relaterteSlugs": "barbering",
+"avdelingSlugs": "sandvika,ski,asenveien,kolbotn,jessheim,strommen,rykkinn"
+}
+},
+{
+"id": "barbering",
+"data": {
+"title": "Knivbarbering",
+"slug": "barbering",
+"publisert": true,
+"rekkefolge": 4,
+"h1": "Knivbarbering",
+"seoTittel": "Knivbarbering, tradisjonell barbering | J&K Barber Shop",
+"seoBeskrivelse": "Tradisjonell barbering med kniv, varme håndklær, barberkrem og etterbehandling. Et ritual på 30 minutter hos J&K Barber Shop. Se pris og bestill time.",
+"ingress": "Varme håndklær, barberkrem, kniv og etterbehandling. Tradisjonen slik den skal gjøres.",
+"beskrivelse": "<p>Tradisjonell barbering med kniv er den eldste tjenesten i faget og den vi er stoltest av. Varme håndklær, barberkrem pisket for hånd, kniv i rolige strøk, kaldt håndkle og etterbehandling. Tretti minutter du ikke får andre steder.</p><h2>Hva du får</h2><ul><li>Forberedelse med varmt håndkle og pre-shave-olje som mykgjør skjeggstubbene og åpner porene.</li><li>Barberkrem fra Proraso eller Taylor of Old Bond Street, påført med kost.</li><li>Barbering med kniv i to omganger: med veksten, så mot eller på tvers der huden tåler det.</li><li>Kaldt håndkle som lukker porene, deretter aftershave-balm uten alkohol som roer huden.</li><li>Hodebarbering med kniv tilbys på samme måte, som egen behandling i bookingen.</li></ul><h2>Slik foregår det</h2><p>Du legges bakover i stolen. Barbereren legger et varmt håndkle over ansiktet og lar det ligge i noen minutter mens oljen virker. Så piskes kremen og legges på med kost. Barberingen gjøres med kniv, stramt skinn og korte, rolige strøk, først med veksten over hele ansiktet, deretter en ny runde krem og en andre omgang for det helt glatte resultatet. Kaldt håndkle, balm, og du er ferdig. Mange sovner. Det er lov.</p><h2>Hvem passer det for</h2><p>Deg som vil ha helt glatt hud, deg som vil unne deg en halvtime med ro, deg som skal i bryllup, konfirmasjon eller jobbintervju, og deg som aldri har prøvd og er nysgjerrig. Har du sensitiv hud eller mye inngrodde hår, si fra, så tilpasser barbereren antall omganger og produkter.</p><h2>Før og etter</h2><p><strong>Før:</strong> Ikke barber deg selv de siste to til tre dagene; litt lengde gjør jobben lettere og resultatet bedre. Kom med ren hud.</p><p><strong>Etter:</strong> Unngå alkoholholdig aftershave og sterk sol de første timene. Bruk fuktighetskrem. Resultatet holder glattere og lenger enn hjemmebarbering, typisk to til tre dager før du kjenner stubb.</p>",
+"fraPris": 399,
+"tilPris": 529,
+"pristekst": "399 til 529 kr",
+"prisnivaer": "<p>Priser for nivå Barber. Prisen avhenger av barberens nivå, endelig pris ser du i onlinebookingen.</p><p>Velger du en Senior, koster barberingen 50 til 100 kr mer enn prisen i tabellen. Knivbarbering utføres av barberere med opplæring i knivbarbering. Du velger barberer i bookingen.</p>",
+"varighetMin": 30,
+"varighetTekst": "Vi setter av 30 minutter i bookingen. Med skjeggtrim deluxe eller klipp i tillegg, se Kombo.",
+"knappetekst": "Bestill knivbarbering",
+"fixitKode": "",
+"bloggUrl1": "https://www.j-kbarber.no/blogg/knivbarbering-slik-foregar-det",
+"relaterteSlugs": "skjeggtrim",
+"avdelingSlugs": "sandvika,ski,asenveien,kolbotn,jessheim,strommen,rykkinn"
+}
+},
+{
+"id": "barneklipp",
+"data": {
+"title": "Barneklipp",
+"slug": "barneklipp",
+"publisert": true,
+"rekkefolge": 5,
+"h1": "Barneklipp",
+"seoTittel": "Barneklipp hos barberer | J&K Barber Shop",
+"seoBeskrivelse": "Barneklipp hos barberere som er vant med barn i alle aldre. Trygt, rolig og uten stress, i Sandvika, Ski, Kolbotn, Jessheim, Strømmen og Rykkinn. Bestill time.",
+"ingress": "For barn som sitter i stolen for første gang, og for dem som allerede vet hva de vil ha.",
+"beskrivelse": "<p>Barneklipp hos J&K Barber Shop er for barn fra første klipp til de er store nok til å bestille selv, gutter og jenter. Barbererne våre er vant med alt fra tårer til tydelige meninger, og tar seg tiden som trengs. Prisen for nivå Barber er 399 til 529 kr avhengig av avdeling, og foreldre kan bestille time rett etter hos samme barberer.</p><h2>Hva du får</h2><ul><li>En barberer som snakker med barnet, ikke bare med deg.</li><li>Klipp med saks og maskin tilpasset alder, hårtype og det barnet (eller du) vil ha.</li><li>Rolig tempo, pauser når det trengs, og noe å se på i stolen.</li><li>Styling til slutt så barnet får se resultatet. Barneklipp gir ikke stempel i appen, men tar du klipp samtidig, får du stempel for din egen klipp.</li></ul><h2>Slik foregår det</h2><p>Vi setter barnet i stolen (eller på fanget til en voksen om det er lite) og viser maskinen og saksen før vi begynner. Barbereren spør hva barnet vil ha, og tar hensyn til det så langt det går. Vi starter med det som er enklest og minst kilent, og tar nakken og ørene til slutt. Blir det for mye, tar vi en pause. Målet er at barnet vil komme tilbake, ikke at vi blir ferdige på tid.</p><h2>Hvem passer det for</h2><p>Barn i alle aldre, fra første klipp til ungdomsskolen. Også for barnet som vil ha skin fade som storesøsken: det gjør vi gjerne, tilpasset alder og hår, bestill Barneklipp skin fade. Og for foreldre som vil klippe seg samtidig og slippe to turer.</p><h2>Før og etter</h2><p><strong>Før:</strong> Fortell barnet hva som skal skje, gjerne med bilder fra siden vår. Kom med rent hår. Ikke rett etter barnehagen når barnet er slitent, heller formiddag i helgen. Ta med noe barnet liker å holde i.</p><p><strong>Etter:</strong> Ros barnet. Bestill neste time hos samme barberer, så blir dere kjent. Fem til seks uker er vanlig for barneklipp.</p>",
+"fraPris": 399,
+"tilPris": 529,
+"pristekst": "399 til 529 kr",
+"prisnivaer": "<p>Priser for nivå Barber. Prisen avhenger av barberens nivå, endelig pris ser du i onlinebookingen.</p><p>Barneklipp gjelder barn under 12 år, slik det står i bookingen. Fra 12 år bestilles herreklipp eller skin fade. Velger du en Senior, koster barneklippen 50 kr mer enn prisen i tabellen.</p>",
+"varighetMin": 30,
+"varighetTekst": "Vi setter av 30 minutter i bookingen (45 minutter for barneklipp skin fade), så det er tid nok uansett alder og klipp.",
+"knappetekst": "Bestill barneklipp",
+"fixitKode": "",
+"bloggUrl1": "https://www.j-kbarber.no/blogg/barneklipp-forste-gang-tips",
+"relaterteSlugs": "herreklipp",
+"avdelingSlugs": "sandvika,ski,asenveien,kolbotn,jessheim,strommen,rykkinn"
+}
+},
+{
+"id": "kombo",
+"data": {
+"title": "Kombo: klipp og skjegg",
+"slug": "kombo",
+"publisert": true,
+"rekkefolge": 6,
+"h1": "Kombo: klipp og skjegg i ett besøk",
+"seoTittel": "Kombo: klipp og skjeggtrim i ett | J&K Barber Shop",
+"seoBeskrivelse": "Kombo hos J&K Barber Shop: herreklipp eller skin fade sammen med skjeggtrim eller knivbarbering, i ett besøk hos samme barberer. Se priser og bestill time.",
+"ingress": "Klipp eller skin fade og skjeggtrim i samme time, hos samme barberer.",
+"beskrivelse": "<p>Kombo er for deg som vil ha hår og skjegg gjort samtidig, av samme barberer, med overgangene mellom dem tilpasset hverandre. Velg klassisk herreklipp eller skin fade på toppen, og skjeggtrim eller knivbarbering under.</p><h2>Hva du får</h2><p><strong>Kombo I: Herreklipp og skjeggtrim eller knivbarbering</strong></p><ul><li>Klassisk herreklipp med konsultasjon, vask og styling.</li><li>Skjeggtrim med form, lengde og konturer, eller full knivbarbering med varme håndklær om du heller vil ha glatt hud. Du velger i stolen.</li><li>Overgangen mellom kinnskjegg og hår tilpasset slik at det henger sammen.</li></ul><p><strong>Kombo II: Skin fade og skjeggtrim eller knivbarbering</strong></p><ul><li>Skin fade (low, mid eller high) med klipp på toppen.</li><li>Skjeggtrim med fade i overgangen til hår, konturer med kniv, eller full knivbarbering.</li><li>Vask, styling og skjeggolje.</li></ul><p><strong>Kombo III: Hode- og skjeggbarbering med kniv</strong></p><ul><li>Barbering av både hode og skjegg med kniv, varme håndklær og etterbehandling, 45 minutter.</li></ul><p><strong>Kombo deluxe</strong></p><ul><li>Hårklipp deluxe og skjeggtrim deluxe eller barbering deluxe i samme time, med hodebunnsmassasje, 90 minutter.</li></ul><h2>Slik foregår det</h2><p>Vi starter med konsultasjonen om begge deler, fordi skjegg og hår må passe sammen: en high skin fade med langt fullskjegg ser annerledes ut enn en low fade med kort stubb. Så klipper vi håret først, deretter skjegget, og til slutt jobber barbereren med overgangen på kinnbeinet og foran øret så det hele ser ut som en helhet. Vask, styling, olje.</p><h2>Hvem passer det for</h2><p>Deg med skjegg som klipper deg jevnlig. De fleste med skjegg trenger trim like ofte som klipp, og det er enklere å få begge deler gjort samtidig, hos en person som ser helheten. Kombo er også det vi anbefaler før bryllup, fest og fotografering.</p><h2>Før og etter</h2><p><strong>Før:</strong> Kom med rent hår og vasket skjegg, uten produkter. Ha en tanke om hvor langt skjegget skal være, eller la barbereren foreslå.</p><p><strong>Etter:</strong> Hold linjene hjemme med trimmer, bruk skjeggolje daglig, og bestill ny kombo etter tre til fire uker. Da ser det alltid nyklippet ut.</p>",
+"fraPris": 799,
+"tilPris": 1279,
+"pristekst": "799 til 1279 kr",
+"prisnivaer": "<p>Priser for nivå Barber. Prisen avhenger av barberens nivå, endelig pris ser du i onlinebookingen.</p><p>Velger du en Senior, koster kombo 50 til 100 kr mer enn prisen i tabellen. Kombo er litt rimeligere enn å bestille de to behandlingene hver for seg: i Sandvika koster klassisk herreklipp og skjeggtrim 1 218 kr hver for seg og 1 029 kr som Kombo I. Kombo har sitt eget stempelkort i appen: hver kombo gir ett stempel på kombokortet, og den tiende komboen er gratis.</p>",
+"varighetMin": 60,
+"varighetTekst": "Kombo I og Kombo II er satt opp med 60 minutter i bookingen, Kombo III med 45 minutter og Kombo deluxe med 90 minutter.",
+"knappetekst": "Bestill kombo",
+"fixitKode": "",
+"relaterteSlugs": "skin-fade,skjeggtrim,barbering",
+"avdelingSlugs": "sandvika,ski,asenveien,kolbotn,jessheim,strommen,rykkinn"
+}
+}
+],
+"priser": [
+{
+"data": {
+"title": "Re-Fresh Klassisk Hårklipp, Sandvika, Barber",
+"behandling": "Re-Fresh Klassisk Hårklipp",
+"kategori": "Re-fresh",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 449,
+"pristekst": "449 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 1,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Re-Fresh Klassisk Hårklipp, Sandvika, Senior",
+"behandling": "Re-Fresh Klassisk Hårklipp",
+"kategori": "Re-fresh",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 1,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Re-Fresh Klassisk Hårklipp, Ski Storsenter, Barber",
+"behandling": "Re-Fresh Klassisk Hårklipp",
+"kategori": "Re-fresh",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 399,
+"pristekst": "399 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 1,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Re-Fresh Klassisk Hårklipp, Ski Storsenter, Senior",
+"behandling": "Re-Fresh Klassisk Hårklipp",
+"kategori": "Re-fresh",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 449,
+"pristekst": "449 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 1,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Re-Fresh Klassisk Hårklipp, Kolbotn, Barber",
+"behandling": "Re-Fresh Klassisk Hårklipp",
+"kategori": "Re-fresh",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 399,
+"pristekst": "399 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 1,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Re-Fresh Klassisk Hårklipp, Åsenveien 3, Barber",
+"behandling": "Re-Fresh Klassisk Hårklipp",
+"kategori": "Re-fresh",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 399,
+"pristekst": "399 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 1,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Re-Fresh Skjeggtrim, Sandvika, Barber",
+"behandling": "Re-Fresh Skjeggtrim",
+"kategori": "Re-fresh",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 429,
+"pristekst": "429 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 2,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Re-Fresh Skjeggtrim, Sandvika, Senior",
+"behandling": "Re-Fresh Skjeggtrim",
+"kategori": "Re-fresh",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 450,
+"pristekst": "450 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 2,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Re-Fresh Skjeggtrim, Ski Storsenter, Barber",
+"behandling": "Re-Fresh Skjeggtrim",
+"kategori": "Re-fresh",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 399,
+"pristekst": "399 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 2,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Re-Fresh Skjeggtrim, Ski Storsenter, Senior",
+"behandling": "Re-Fresh Skjeggtrim",
+"kategori": "Re-fresh",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 429,
+"pristekst": "429 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 2,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Re-Fresh Skjeggtrim, Kolbotn, Barber",
+"behandling": "Re-Fresh Skjeggtrim",
+"kategori": "Re-fresh",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 399,
+"pristekst": "399 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 2,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Re-Fresh Skjeggtrim, Åsenveien 3, Barber",
+"behandling": "Re-Fresh Skjeggtrim",
+"kategori": "Re-fresh",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 399,
+"pristekst": "399 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 2,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Re-Fresh Skin-Fade Hårklipp, Sandvika, Barber",
+"behandling": "Re-Fresh Skin-Fade Hårklipp",
+"kategori": "Re-fresh",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 625,
+"pristekst": "625 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 3,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Re-Fresh Skin-Fade Hårklipp, Sandvika, Senior",
+"behandling": "Re-Fresh Skin-Fade Hårklipp",
+"kategori": "Re-fresh",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 650,
+"pristekst": "650 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 3,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Re-Fresh Skin-Fade Hårklipp, Ski Storsenter, Barber",
+"behandling": "Re-Fresh Skin-Fade Hårklipp",
+"kategori": "Re-fresh",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 580,
+"pristekst": "580 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 3,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Re-Fresh Skin-Fade Hårklipp, Ski Storsenter, Senior",
+"behandling": "Re-Fresh Skin-Fade Hårklipp",
+"kategori": "Re-fresh",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 599,
+"pristekst": "599 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 3,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Re-Fresh Skin-Fade Hårklipp, Kolbotn, Barber",
+"behandling": "Re-Fresh Skin-Fade Hårklipp",
+"kategori": "Re-fresh",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 580,
+"pristekst": "580 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 3,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Re-Fresh Skin-Fade Hårklipp, Åsenveien 3, Barber",
+"behandling": "Re-Fresh Skin-Fade Hårklipp",
+"kategori": "Re-fresh",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 580,
+"pristekst": "580 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 3,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Barneklipp klassisk (under 12 år), Sandvika, Barber",
+"behandling": "Barneklipp klassisk (under 12 år)",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 529,
+"pristekst": "529 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 4,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Barneklipp klassisk (under 12 år), Sandvika, Senior",
+"behandling": "Barneklipp klassisk (under 12 år)",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 579,
+"pristekst": "579 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 4,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Barneklipp klassisk (under 12 år), Ski Storsenter, Barber",
+"behandling": "Barneklipp klassisk (under 12 år)",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 4,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Barneklipp klassisk (under 12 år), Ski Storsenter, Senior",
+"behandling": "Barneklipp klassisk (under 12 år)",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 549,
+"pristekst": "549 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 4,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Barneklipp klassisk (under 12 år), Kolbotn, Barber",
+"behandling": "Barneklipp klassisk (under 12 år)",
+"kategori": "Hårklipp",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 4,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Barneklipp klassisk (under 12 år), Åsenveien 3, Barber",
+"behandling": "Barneklipp klassisk (under 12 år)",
+"kategori": "Hårklipp",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 489,
+"pristekst": "489 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 4,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Barneklipp klassisk (under 12 år), Jessheim, Barber",
+"behandling": "Barneklipp klassisk (under 12 år)",
+"kategori": "Hårklipp",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 399,
+"pristekst": "399 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 4,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Barneklipp klassisk (under 12 år), Strømmen, Barber",
+"behandling": "Barneklipp klassisk (under 12 år)",
+"kategori": "Hårklipp",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 429,
+"pristekst": "429 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 4,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Barneklipp klassisk (under 12 år), Rykkinn, Barber",
+"behandling": "Barneklipp klassisk (under 12 år)",
+"kategori": "Hårklipp",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 429,
+"pristekst": "429 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 4,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Klassisk herreklipp, Sandvika, Barber",
+"behandling": "Klassisk herreklipp",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 639,
+"pristekst": "639 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 5,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Klassisk herreklipp, Sandvika, Senior",
+"behandling": "Klassisk herreklipp",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 689,
+"pristekst": "689 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 5,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Klassisk herreklipp, Ski Storsenter, Barber",
+"behandling": "Klassisk herreklipp",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 599,
+"pristekst": "599 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 5,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Klassisk herreklipp, Ski Storsenter, Senior",
+"behandling": "Klassisk herreklipp",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 649,
+"pristekst": "649 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 5,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Klassisk herreklipp, Kolbotn, Barber",
+"behandling": "Klassisk herreklipp",
+"kategori": "Hårklipp",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 599,
+"pristekst": "599 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 5,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Klassisk herreklipp, Åsenveien 3, Barber",
+"behandling": "Klassisk herreklipp",
+"kategori": "Hårklipp",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 585,
+"pristekst": "585 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 5,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Klassisk herreklipp, Jessheim, Barber",
+"behandling": "Klassisk herreklipp",
+"kategori": "Hårklipp",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 449,
+"pristekst": "449 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 5,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Klassisk herreklipp, Strømmen, Barber",
+"behandling": "Klassisk herreklipp",
+"kategori": "Hårklipp",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 529,
+"pristekst": "529 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 5,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Klassisk herreklipp, Rykkinn, Barber",
+"behandling": "Klassisk herreklipp",
+"kategori": "Hårklipp",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 539,
+"pristekst": "539 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 5,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Klassisk klipp + voksing av nesehår, Sandvika, Barber",
+"behandling": "Klassisk klipp + voksing av nesehår",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 788,
+"pristekst": "788 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 6,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Klassisk klipp + voksing av nesehår, Sandvika, Senior",
+"behandling": "Klassisk klipp + voksing av nesehår",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 838,
+"pristekst": "838 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 6,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Klassisk klipp + voksing av nesehår, Ski Storsenter, Barber",
+"behandling": "Klassisk klipp + voksing av nesehår",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 748,
+"pristekst": "748 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 6,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Klassisk klipp + voksing av nesehår, Ski Storsenter, Senior",
+"behandling": "Klassisk klipp + voksing av nesehår",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 798,
+"pristekst": "798 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 6,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Klassisk klipp + voksing av nesehår, Kolbotn, Barber",
+"behandling": "Klassisk klipp + voksing av nesehår",
+"kategori": "Hårklipp",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 748,
+"pristekst": "748 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 6,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Klassisk klipp + voksing av nesehår, Åsenveien 3, Barber",
+"behandling": "Klassisk klipp + voksing av nesehår",
+"kategori": "Hårklipp",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 734,
+"pristekst": "734 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 6,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Klassisk klipp + voksing av nesehår, Jessheim, Barber",
+"behandling": "Klassisk klipp + voksing av nesehår",
+"kategori": "Hårklipp",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 598,
+"pristekst": "598 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 6,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Klassisk klipp + voksing av nesehår, Strømmen, Barber",
+"behandling": "Klassisk klipp + voksing av nesehår",
+"kategori": "Hårklipp",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 678,
+"pristekst": "678 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 6,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Klassisk klipp + voksing av nesehår, Rykkinn, Barber",
+"behandling": "Klassisk klipp + voksing av nesehår",
+"kategori": "Hårklipp",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 688,
+"pristekst": "688 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 6,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Skin fade, Sandvika, Barber",
+"behandling": "Skin fade",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 829,
+"pristekst": "829 kr",
+"varighetMin": 45,
+"hovedpris": true,
+"rekkefolge": 7,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Skin fade, Sandvika, Senior",
+"behandling": "Skin fade",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 879,
+"pristekst": "879 kr",
+"varighetMin": 45,
+"hovedpris": true,
+"rekkefolge": 7,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Skin fade, Ski Storsenter, Barber",
+"behandling": "Skin fade",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 775,
+"pristekst": "775 kr",
+"varighetMin": 45,
+"hovedpris": true,
+"rekkefolge": 7,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Skin fade, Ski Storsenter, Senior",
+"behandling": "Skin fade",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 825,
+"pristekst": "825 kr",
+"varighetMin": 45,
+"hovedpris": true,
+"rekkefolge": 7,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Skin fade, Kolbotn, Barber",
+"behandling": "Skin fade",
+"kategori": "Hårklipp",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 775,
+"pristekst": "775 kr",
+"varighetMin": 45,
+"hovedpris": true,
+"rekkefolge": 7,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Skin fade, Åsenveien 3, Barber",
+"behandling": "Skin fade",
+"kategori": "Hårklipp",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 765,
+"pristekst": "765 kr",
+"varighetMin": 45,
+"hovedpris": true,
+"rekkefolge": 7,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Skin fade, Jessheim, Barber",
+"behandling": "Skin fade",
+"kategori": "Hårklipp",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 599,
+"pristekst": "599 kr",
+"varighetMin": 45,
+"hovedpris": true,
+"rekkefolge": 7,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Skin fade, Strømmen, Barber",
+"behandling": "Skin fade",
+"kategori": "Hårklipp",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 649,
+"pristekst": "649 kr",
+"varighetMin": 45,
+"hovedpris": true,
+"rekkefolge": 7,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Skin fade, Rykkinn, Barber",
+"behandling": "Skin fade",
+"kategori": "Hårklipp",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 699,
+"pristekst": "699 kr",
+"varighetMin": 45,
+"hovedpris": true,
+"rekkefolge": 7,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Pensjonistklipp, Sandvika, Barber",
+"behandling": "Pensjonistklipp",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 500,
+"pristekst": "500 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 8,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Pensjonistklipp, Sandvika, Senior",
+"behandling": "Pensjonistklipp",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 550,
+"pristekst": "550 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 8,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Pensjonistklipp, Ski Storsenter, Barber",
+"behandling": "Pensjonistklipp",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 485,
+"pristekst": "485 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 8,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Pensjonistklipp, Ski Storsenter, Senior",
+"behandling": "Pensjonistklipp",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 529,
+"pristekst": "529 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 8,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Pensjonistklipp, Kolbotn, Barber",
+"behandling": "Pensjonistklipp",
+"kategori": "Hårklipp",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 485,
+"pristekst": "485 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 8,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Pensjonistklipp, Åsenveien 3, Barber",
+"behandling": "Pensjonistklipp",
+"kategori": "Hårklipp",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 475,
+"pristekst": "475 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 8,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Pensjonistklipp, Jessheim, Barber",
+"behandling": "Pensjonistklipp",
+"kategori": "Hårklipp",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 399,
+"pristekst": "399 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 8,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Pensjonistklipp, Strømmen, Barber",
+"behandling": "Pensjonistklipp",
+"kategori": "Hårklipp",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 399,
+"pristekst": "399 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 8,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Pensjonistklipp, Rykkinn, Barber",
+"behandling": "Pensjonistklipp",
+"kategori": "Hårklipp",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 450,
+"pristekst": "450 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 8,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Midtskill/taper fade, Sandvika, Barber",
+"behandling": "Midtskill/taper fade",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 669,
+"pristekst": "669 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 9,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Midtskill/taper fade, Sandvika, Senior",
+"behandling": "Midtskill/taper fade",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 699,
+"pristekst": "699 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 9,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Midtskill/taper fade, Ski Storsenter, Barber",
+"behandling": "Midtskill/taper fade",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 625,
+"pristekst": "625 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 9,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Midtskill/taper fade, Ski Storsenter, Senior",
+"behandling": "Midtskill/taper fade",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 649,
+"pristekst": "649 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 9,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Midtskill/taper fade, Kolbotn, Barber",
+"behandling": "Midtskill/taper fade",
+"kategori": "Hårklipp",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 625,
+"pristekst": "625 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 9,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Midtskill/taper fade, Åsenveien 3, Barber",
+"behandling": "Midtskill/taper fade",
+"kategori": "Hårklipp",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 625,
+"pristekst": "625 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 9,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Midtskill/taper fade, Jessheim, Barber",
+"behandling": "Midtskill/taper fade",
+"kategori": "Hårklipp",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 449,
+"pristekst": "449 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 9,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Midtskill/taper fade, Strømmen, Barber",
+"behandling": "Midtskill/taper fade",
+"kategori": "Hårklipp",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 549,
+"pristekst": "549 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 9,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Midtskill/taper fade, Rykkinn, Barber",
+"behandling": "Midtskill/taper fade",
+"kategori": "Hårklipp",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 549,
+"pristekst": "549 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 9,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Maskinklipp, Sandvika, Barber",
+"behandling": "Maskinklipp",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 300,
+"pristekst": "300 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 10,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Maskinklipp, Sandvika, Senior",
+"behandling": "Maskinklipp",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 349,
+"pristekst": "349 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 10,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Maskinklipp, Ski Storsenter, Barber",
+"behandling": "Maskinklipp",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 300,
+"pristekst": "300 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 10,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Maskinklipp, Ski Storsenter, Senior",
+"behandling": "Maskinklipp",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 349,
+"pristekst": "349 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 10,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Maskinklipp, Kolbotn, Barber",
+"behandling": "Maskinklipp",
+"kategori": "Hårklipp",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 300,
+"pristekst": "300 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 10,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Maskinklipp, Åsenveien 3, Barber",
+"behandling": "Maskinklipp",
+"kategori": "Hårklipp",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 300,
+"pristekst": "300 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 10,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Maskinklipp, Jessheim, Barber",
+"behandling": "Maskinklipp",
+"kategori": "Hårklipp",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 300,
+"pristekst": "300 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 10,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Maskinklipp, Strømmen, Barber",
+"behandling": "Maskinklipp",
+"kategori": "Hårklipp",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 329,
+"pristekst": "329 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 10,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Maskinklipp, Rykkinn, Barber",
+"behandling": "Maskinklipp",
+"kategori": "Hårklipp",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 300,
+"pristekst": "300 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 10,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Barneklipp skin fade (under 12 år), Sandvika, Barber",
+"behandling": "Barneklipp skin fade (under 12 år)",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 675,
+"pristekst": "675 kr",
+"varighetMin": 45,
+"hovedpris": true,
+"rekkefolge": 11,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Barneklipp skin fade (under 12 år), Sandvika, Senior",
+"behandling": "Barneklipp skin fade (under 12 år)",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 725,
+"pristekst": "725 kr",
+"varighetMin": 45,
+"hovedpris": true,
+"rekkefolge": 11,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Barneklipp skin fade (under 12 år), Ski Storsenter, Barber",
+"behandling": "Barneklipp skin fade (under 12 år)",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 650,
+"pristekst": "650 kr",
+"varighetMin": 45,
+"hovedpris": true,
+"rekkefolge": 11,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Barneklipp skin fade (under 12 år), Ski Storsenter, Senior",
+"behandling": "Barneklipp skin fade (under 12 år)",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 699,
+"pristekst": "699 kr",
+"varighetMin": 45,
+"hovedpris": true,
+"rekkefolge": 11,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Barneklipp skin fade (under 12 år), Kolbotn, Barber",
+"behandling": "Barneklipp skin fade (under 12 år)",
+"kategori": "Hårklipp",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 650,
+"pristekst": "650 kr",
+"varighetMin": 45,
+"hovedpris": true,
+"rekkefolge": 11,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Barneklipp skin fade (under 12 år), Åsenveien 3, Barber",
+"behandling": "Barneklipp skin fade (under 12 år)",
+"kategori": "Hårklipp",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 625,
+"pristekst": "625 kr",
+"varighetMin": 45,
+"hovedpris": true,
+"rekkefolge": 11,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Barneklipp skin fade (under 12 år), Jessheim, Barber",
+"behandling": "Barneklipp skin fade (under 12 år)",
+"kategori": "Hårklipp",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 449,
+"pristekst": "449 kr",
+"varighetMin": 45,
+"hovedpris": true,
+"rekkefolge": 11,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Barneklipp skin fade (under 12 år), Strømmen, Barber",
+"behandling": "Barneklipp skin fade (under 12 år)",
+"kategori": "Hårklipp",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 45,
+"hovedpris": true,
+"rekkefolge": 11,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Barneklipp skin fade (under 12 år), Rykkinn, Barber",
+"behandling": "Barneklipp skin fade (under 12 år)",
+"kategori": "Hårklipp",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 549,
+"pristekst": "549 kr",
+"varighetMin": 45,
+"hovedpris": true,
+"rekkefolge": 11,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Studentklipp skin fade (kun tirsdager), Sandvika, Barber",
+"behandling": "Studentklipp skin fade (kun tirsdager)",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 659,
+"pristekst": "659 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 12,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Studentklipp skin fade (kun tirsdager), Sandvika, Senior",
+"behandling": "Studentklipp skin fade (kun tirsdager)",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 699,
+"pristekst": "699 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 12,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Studentklipp skin fade (kun tirsdager), Ski Storsenter, Barber",
+"behandling": "Studentklipp skin fade (kun tirsdager)",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 675,
+"pristekst": "675 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 12,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Studentklipp skin fade (kun tirsdager), Ski Storsenter, Senior",
+"behandling": "Studentklipp skin fade (kun tirsdager)",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 715,
+"pristekst": "715 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 12,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Studentklipp skin fade (kun tirsdager), Kolbotn, Barber",
+"behandling": "Studentklipp skin fade (kun tirsdager)",
+"kategori": "Hårklipp",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 675,
+"pristekst": "675 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 12,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Studentklipp skin fade (kun tirsdager), Åsenveien 3, Barber",
+"behandling": "Studentklipp skin fade (kun tirsdager)",
+"kategori": "Hårklipp",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 675,
+"pristekst": "675 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 12,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Studentklipp skin fade (kun tirsdager), Jessheim, Barber",
+"behandling": "Studentklipp skin fade (kun tirsdager)",
+"kategori": "Hårklipp",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 449,
+"pristekst": "449 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 12,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Studentklipp skin fade (kun tirsdager), Strømmen, Barber",
+"behandling": "Studentklipp skin fade (kun tirsdager)",
+"kategori": "Hårklipp",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 549,
+"pristekst": "549 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 12,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Studentklipp skin fade (kun tirsdager), Rykkinn, Barber",
+"behandling": "Studentklipp skin fade (kun tirsdager)",
+"kategori": "Hårklipp",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 599,
+"pristekst": "599 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 12,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Studentklipp (kun tirsdager), Sandvika, Barber",
+"behandling": "Studentklipp (kun tirsdager)",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 525,
+"pristekst": "525 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 13,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Studentklipp (kun tirsdager), Sandvika, Senior",
+"behandling": "Studentklipp (kun tirsdager)",
+"kategori": "Hårklipp",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 579,
+"pristekst": "579 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 13,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Studentklipp (kun tirsdager), Ski Storsenter, Barber",
+"behandling": "Studentklipp (kun tirsdager)",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 525,
+"pristekst": "525 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 13,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Studentklipp (kun tirsdager), Ski Storsenter, Senior",
+"behandling": "Studentklipp (kun tirsdager)",
+"kategori": "Hårklipp",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 575,
+"pristekst": "575 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 13,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Studentklipp (kun tirsdager), Kolbotn, Barber",
+"behandling": "Studentklipp (kun tirsdager)",
+"kategori": "Hårklipp",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 525,
+"pristekst": "525 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 13,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Studentklipp (kun tirsdager), Åsenveien 3, Barber",
+"behandling": "Studentklipp (kun tirsdager)",
+"kategori": "Hårklipp",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 13,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Studentklipp (kun tirsdager), Jessheim, Barber",
+"behandling": "Studentklipp (kun tirsdager)",
+"kategori": "Hårklipp",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 349,
+"pristekst": "349 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 13,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Studentklipp (kun tirsdager), Strømmen, Barber",
+"behandling": "Studentklipp (kun tirsdager)",
+"kategori": "Hårklipp",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 449,
+"pristekst": "449 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 13,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Studentklipp (kun tirsdager), Rykkinn, Barber",
+"behandling": "Studentklipp (kun tirsdager)",
+"kategori": "Hårklipp",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 13,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Kombo I med voksing av nese, Sandvika, Barber",
+"behandling": "Kombo I med voksing av nese",
+"kategori": "Kombo",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 1178,
+"pristekst": "1 178 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 14,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo I med voksing av nese, Sandvika, Senior",
+"behandling": "Kombo I med voksing av nese",
+"kategori": "Kombo",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 1248,
+"pristekst": "1 248 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 14,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo I med voksing av nese, Ski Storsenter, Barber",
+"behandling": "Kombo I med voksing av nese",
+"kategori": "Kombo",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 1148,
+"pristekst": "1 148 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 14,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo I med voksing av nese, Ski Storsenter, Senior",
+"behandling": "Kombo I med voksing av nese",
+"kategori": "Kombo",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 1198,
+"pristekst": "1 198 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 14,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo I med voksing av nese, Kolbotn, Barber",
+"behandling": "Kombo I med voksing av nese",
+"kategori": "Kombo",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 1148,
+"pristekst": "1 148 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 14,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo I med voksing av nese, Åsenveien 3, Barber",
+"behandling": "Kombo I med voksing av nese",
+"kategori": "Kombo",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 1124,
+"pristekst": "1 124 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 14,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo I med voksing av nese, Jessheim, Barber",
+"behandling": "Kombo I med voksing av nese",
+"kategori": "Kombo",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 948,
+"pristekst": "948 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 14,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo I med voksing av nese, Strømmen, Barber",
+"behandling": "Kombo I med voksing av nese",
+"kategori": "Kombo",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 1038,
+"pristekst": "1 038 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 14,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo I med voksing av nese, Rykkinn, Barber",
+"behandling": "Kombo I med voksing av nese",
+"kategori": "Kombo",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 1078,
+"pristekst": "1 078 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 14,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo I: klassisk herreklipp og skjeggtrim eller knivbarbering, Sandvika, Barber",
+"behandling": "Kombo I: klassisk herreklipp og skjeggtrim eller knivbarbering",
+"kategori": "Kombo",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 1029,
+"pristekst": "1 029 kr",
+"varighetMin": 60,
+"hovedpris": true,
+"rekkefolge": 15,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo I: klassisk herreklipp og skjeggtrim eller knivbarbering, Sandvika, Senior",
+"behandling": "Kombo I: klassisk herreklipp og skjeggtrim eller knivbarbering",
+"kategori": "Kombo",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 1099,
+"pristekst": "1 099 kr",
+"varighetMin": 60,
+"hovedpris": true,
+"rekkefolge": 15,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo I: klassisk herreklipp og skjeggtrim eller knivbarbering, Ski Storsenter, Barber",
+"behandling": "Kombo I: klassisk herreklipp og skjeggtrim eller knivbarbering",
+"kategori": "Kombo",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 999,
+"pristekst": "999 kr",
+"varighetMin": 60,
+"hovedpris": true,
+"rekkefolge": 15,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo I: klassisk herreklipp og skjeggtrim eller knivbarbering, Ski Storsenter, Senior",
+"behandling": "Kombo I: klassisk herreklipp og skjeggtrim eller knivbarbering",
+"kategori": "Kombo",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 1049,
+"pristekst": "1 049 kr",
+"varighetMin": 60,
+"hovedpris": true,
+"rekkefolge": 15,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo I: klassisk herreklipp og skjeggtrim eller knivbarbering, Kolbotn, Barber",
+"behandling": "Kombo I: klassisk herreklipp og skjeggtrim eller knivbarbering",
+"kategori": "Kombo",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 999,
+"pristekst": "999 kr",
+"varighetMin": 60,
+"hovedpris": true,
+"rekkefolge": 15,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo I: klassisk herreklipp og skjeggtrim eller knivbarbering, Åsenveien 3, Barber",
+"behandling": "Kombo I: klassisk herreklipp og skjeggtrim eller knivbarbering",
+"kategori": "Kombo",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 975,
+"pristekst": "975 kr",
+"varighetMin": 60,
+"hovedpris": true,
+"rekkefolge": 15,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo I: klassisk herreklipp og skjeggtrim eller knivbarbering, Jessheim, Barber",
+"behandling": "Kombo I: klassisk herreklipp og skjeggtrim eller knivbarbering",
+"kategori": "Kombo",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 799,
+"pristekst": "799 kr",
+"varighetMin": 60,
+"hovedpris": true,
+"rekkefolge": 15,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo I: klassisk herreklipp og skjeggtrim eller knivbarbering, Strømmen, Barber",
+"behandling": "Kombo I: klassisk herreklipp og skjeggtrim eller knivbarbering",
+"kategori": "Kombo",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 889,
+"pristekst": "889 kr",
+"varighetMin": 60,
+"hovedpris": true,
+"rekkefolge": 15,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo I: klassisk herreklipp og skjeggtrim eller knivbarbering, Rykkinn, Barber",
+"behandling": "Kombo I: klassisk herreklipp og skjeggtrim eller knivbarbering",
+"kategori": "Kombo",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 929,
+"pristekst": "929 kr",
+"varighetMin": 60,
+"hovedpris": true,
+"rekkefolge": 15,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo II: skin fade og skjeggtrim eller knivbarbering, Sandvika, Barber",
+"behandling": "Kombo II: skin fade og skjeggtrim eller knivbarbering",
+"kategori": "Kombo",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 1279,
+"pristekst": "1 279 kr",
+"varighetMin": 60,
+"hovedpris": true,
+"rekkefolge": 16,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo II: skin fade og skjeggtrim eller knivbarbering, Sandvika, Senior",
+"behandling": "Kombo II: skin fade og skjeggtrim eller knivbarbering",
+"kategori": "Kombo",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 1329,
+"pristekst": "1 329 kr",
+"varighetMin": 60,
+"hovedpris": true,
+"rekkefolge": 16,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo II: skin fade og skjeggtrim eller knivbarbering, Ski Storsenter, Barber",
+"behandling": "Kombo II: skin fade og skjeggtrim eller knivbarbering",
+"kategori": "Kombo",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 1199,
+"pristekst": "1 199 kr",
+"varighetMin": 60,
+"hovedpris": true,
+"rekkefolge": 16,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo II: skin fade og skjeggtrim eller knivbarbering, Ski Storsenter, Senior",
+"behandling": "Kombo II: skin fade og skjeggtrim eller knivbarbering",
+"kategori": "Kombo",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 1249,
+"pristekst": "1 249 kr",
+"varighetMin": 60,
+"hovedpris": true,
+"rekkefolge": 16,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo II: skin fade og skjeggtrim eller knivbarbering, Kolbotn, Barber",
+"behandling": "Kombo II: skin fade og skjeggtrim eller knivbarbering",
+"kategori": "Kombo",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 1175,
+"pristekst": "1 175 kr",
+"varighetMin": 60,
+"hovedpris": true,
+"rekkefolge": 16,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo II: skin fade og skjeggtrim eller knivbarbering, Åsenveien 3, Barber",
+"behandling": "Kombo II: skin fade og skjeggtrim eller knivbarbering",
+"kategori": "Kombo",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 1175,
+"pristekst": "1 175 kr",
+"varighetMin": 60,
+"hovedpris": true,
+"rekkefolge": 16,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo II: skin fade og skjeggtrim eller knivbarbering, Jessheim, Barber",
+"behandling": "Kombo II: skin fade og skjeggtrim eller knivbarbering",
+"kategori": "Kombo",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 899,
+"pristekst": "899 kr",
+"varighetMin": 60,
+"hovedpris": true,
+"rekkefolge": 16,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo II: skin fade og skjeggtrim eller knivbarbering, Strømmen, Barber",
+"behandling": "Kombo II: skin fade og skjeggtrim eller knivbarbering",
+"kategori": "Kombo",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 999,
+"pristekst": "999 kr",
+"varighetMin": 60,
+"hovedpris": true,
+"rekkefolge": 16,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo II: skin fade og skjeggtrim eller knivbarbering, Rykkinn, Barber",
+"behandling": "Kombo II: skin fade og skjeggtrim eller knivbarbering",
+"kategori": "Kombo",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 1079,
+"pristekst": "1 079 kr",
+"varighetMin": 60,
+"hovedpris": true,
+"rekkefolge": 16,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo III: hode- og skjeggbarbering med kniv, Sandvika, Barber",
+"behandling": "Kombo III: hode- og skjeggbarbering med kniv",
+"kategori": "Kombo",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 899,
+"pristekst": "899 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 17,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo III: hode- og skjeggbarbering med kniv, Sandvika, Senior",
+"behandling": "Kombo III: hode- og skjeggbarbering med kniv",
+"kategori": "Kombo",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 949,
+"pristekst": "949 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 17,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo III: hode- og skjeggbarbering med kniv, Ski Storsenter, Barber",
+"behandling": "Kombo III: hode- og skjeggbarbering med kniv",
+"kategori": "Kombo",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 899,
+"pristekst": "899 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 17,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo III: hode- og skjeggbarbering med kniv, Ski Storsenter, Senior",
+"behandling": "Kombo III: hode- og skjeggbarbering med kniv",
+"kategori": "Kombo",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 949,
+"pristekst": "949 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 17,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo III: hode- og skjeggbarbering med kniv, Kolbotn, Barber",
+"behandling": "Kombo III: hode- og skjeggbarbering med kniv",
+"kategori": "Kombo",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 899,
+"pristekst": "899 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 17,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo III: hode- og skjeggbarbering med kniv, Åsenveien 3, Barber",
+"behandling": "Kombo III: hode- og skjeggbarbering med kniv",
+"kategori": "Kombo",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 899,
+"pristekst": "899 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 17,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo III: hode- og skjeggbarbering med kniv, Jessheim, Barber",
+"behandling": "Kombo III: hode- og skjeggbarbering med kniv",
+"kategori": "Kombo",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 699,
+"pristekst": "699 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 17,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo III: hode- og skjeggbarbering med kniv, Strømmen, Barber",
+"behandling": "Kombo III: hode- og skjeggbarbering med kniv",
+"kategori": "Kombo",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 799,
+"pristekst": "799 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 17,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo III: hode- og skjeggbarbering med kniv, Rykkinn, Barber",
+"behandling": "Kombo III: hode- og skjeggbarbering med kniv",
+"kategori": "Kombo",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 799,
+"pristekst": "799 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 17,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Skjeggtrim, Sandvika, Barber",
+"behandling": "Skjeggtrim",
+"kategori": "Skjegg",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 579,
+"pristekst": "579 kr",
+"varighetMin": 28,
+"hovedpris": true,
+"rekkefolge": 18,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Skjeggtrim, Sandvika, Senior",
+"behandling": "Skjeggtrim",
+"kategori": "Skjegg",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 650,
+"pristekst": "650 kr",
+"varighetMin": 28,
+"hovedpris": true,
+"rekkefolge": 18,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Skjeggtrim, Ski Storsenter, Barber",
+"behandling": "Skjeggtrim",
+"kategori": "Skjegg",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 559,
+"pristekst": "559 kr",
+"varighetMin": 28,
+"hovedpris": true,
+"rekkefolge": 18,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Skjeggtrim, Ski Storsenter, Senior",
+"behandling": "Skjeggtrim",
+"kategori": "Skjegg",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 629,
+"pristekst": "629 kr",
+"varighetMin": 28,
+"hovedpris": true,
+"rekkefolge": 18,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Skjeggtrim, Kolbotn, Barber",
+"behandling": "Skjeggtrim",
+"kategori": "Skjegg",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 549,
+"pristekst": "549 kr",
+"varighetMin": 28,
+"hovedpris": true,
+"rekkefolge": 18,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Skjeggtrim, Åsenveien 3, Barber",
+"behandling": "Skjeggtrim",
+"kategori": "Skjegg",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 549,
+"pristekst": "549 kr",
+"varighetMin": 28,
+"hovedpris": true,
+"rekkefolge": 18,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Skjeggtrim, Jessheim, Barber",
+"behandling": "Skjeggtrim",
+"kategori": "Skjegg",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 399,
+"pristekst": "399 kr",
+"varighetMin": 28,
+"hovedpris": true,
+"rekkefolge": 18,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Skjeggtrim, Strømmen, Barber",
+"behandling": "Skjeggtrim",
+"kategori": "Skjegg",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 449,
+"pristekst": "449 kr",
+"varighetMin": 28,
+"hovedpris": true,
+"rekkefolge": 18,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Skjeggtrim, Rykkinn, Barber",
+"behandling": "Skjeggtrim",
+"kategori": "Skjegg",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 479,
+"pristekst": "479 kr",
+"varighetMin": 28,
+"hovedpris": true,
+"rekkefolge": 18,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Bart/mustasjetrim, Sandvika, Barber",
+"behandling": "Bart/mustasjetrim",
+"kategori": "Skjegg",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 150,
+"pristekst": "150 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 19,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Bart/mustasjetrim, Sandvika, Senior",
+"behandling": "Bart/mustasjetrim",
+"kategori": "Skjegg",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 150,
+"pristekst": "150 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 19,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Bart/mustasjetrim, Ski Storsenter, Barber",
+"behandling": "Bart/mustasjetrim",
+"kategori": "Skjegg",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 100,
+"pristekst": "100 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 19,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Bart/mustasjetrim, Ski Storsenter, Senior",
+"behandling": "Bart/mustasjetrim",
+"kategori": "Skjegg",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 100,
+"pristekst": "100 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 19,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Bart/mustasjetrim, Kolbotn, Barber",
+"behandling": "Bart/mustasjetrim",
+"kategori": "Skjegg",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 100,
+"pristekst": "100 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 19,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Bart/mustasjetrim, Åsenveien 3, Barber",
+"behandling": "Bart/mustasjetrim",
+"kategori": "Skjegg",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 100,
+"pristekst": "100 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 19,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Bart/mustasjetrim, Jessheim, Barber",
+"behandling": "Bart/mustasjetrim",
+"kategori": "Skjegg",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 100,
+"pristekst": "100 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 19,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Bart/mustasjetrim, Strømmen, Barber",
+"behandling": "Bart/mustasjetrim",
+"kategori": "Skjegg",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 189,
+"pristekst": "189 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 19,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Bart/mustasjetrim, Rykkinn, Barber",
+"behandling": "Bart/mustasjetrim",
+"kategori": "Skjegg",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 150,
+"pristekst": "150 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 19,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Hårklipp deluxe, Sandvika, Barber",
+"behandling": "Hårklipp deluxe",
+"kategori": "Deluxe",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 999,
+"pristekst": "999 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 20,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Hårklipp deluxe, Sandvika, Senior",
+"behandling": "Hårklipp deluxe",
+"kategori": "Deluxe",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 1099,
+"pristekst": "1 099 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 20,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Hårklipp deluxe, Ski Storsenter, Barber",
+"behandling": "Hårklipp deluxe",
+"kategori": "Deluxe",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 999,
+"pristekst": "999 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 20,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Hårklipp deluxe, Ski Storsenter, Senior",
+"behandling": "Hårklipp deluxe",
+"kategori": "Deluxe",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 1099,
+"pristekst": "1 099 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 20,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Hårklipp deluxe, Kolbotn, Barber",
+"behandling": "Hårklipp deluxe",
+"kategori": "Deluxe",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 999,
+"pristekst": "999 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 20,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Hårklipp deluxe, Åsenveien 3, Barber",
+"behandling": "Hårklipp deluxe",
+"kategori": "Deluxe",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 999,
+"pristekst": "999 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 20,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Hårklipp deluxe, Jessheim, Barber",
+"behandling": "Hårklipp deluxe",
+"kategori": "Deluxe",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 599,
+"pristekst": "599 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 20,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Hårklipp deluxe, Strømmen, Barber",
+"behandling": "Hårklipp deluxe",
+"kategori": "Deluxe",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 899,
+"pristekst": "899 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 20,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Hårklipp deluxe, Rykkinn, Barber",
+"behandling": "Hårklipp deluxe",
+"kategori": "Deluxe",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 999,
+"pristekst": "999 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 20,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Barbering deluxe, Sandvika, Barber",
+"behandling": "Barbering deluxe",
+"kategori": "Deluxe",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 999,
+"pristekst": "999 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 21,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Barbering deluxe, Sandvika, Senior",
+"behandling": "Barbering deluxe",
+"kategori": "Deluxe",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 1099,
+"pristekst": "1 099 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 21,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Barbering deluxe, Ski Storsenter, Barber",
+"behandling": "Barbering deluxe",
+"kategori": "Deluxe",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 899,
+"pristekst": "899 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 21,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Barbering deluxe, Ski Storsenter, Senior",
+"behandling": "Barbering deluxe",
+"kategori": "Deluxe",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 999,
+"pristekst": "999 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 21,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Barbering deluxe, Kolbotn, Barber",
+"behandling": "Barbering deluxe",
+"kategori": "Deluxe",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 899,
+"pristekst": "899 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 21,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Barbering deluxe, Åsenveien 3, Barber",
+"behandling": "Barbering deluxe",
+"kategori": "Deluxe",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 899,
+"pristekst": "899 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 21,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Barbering deluxe, Jessheim, Barber",
+"behandling": "Barbering deluxe",
+"kategori": "Deluxe",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 599,
+"pristekst": "599 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 21,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Barbering deluxe, Strømmen, Barber",
+"behandling": "Barbering deluxe",
+"kategori": "Deluxe",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 799,
+"pristekst": "799 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 21,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Barbering deluxe, Rykkinn, Barber",
+"behandling": "Barbering deluxe",
+"kategori": "Deluxe",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 749,
+"pristekst": "749 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 21,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Skjeggtrim deluxe, Sandvika, Barber",
+"behandling": "Skjeggtrim deluxe",
+"kategori": "Deluxe",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 999,
+"pristekst": "999 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 22,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Skjeggtrim deluxe, Sandvika, Senior",
+"behandling": "Skjeggtrim deluxe",
+"kategori": "Deluxe",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 1099,
+"pristekst": "1 099 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 22,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Skjeggtrim deluxe, Ski Storsenter, Barber",
+"behandling": "Skjeggtrim deluxe",
+"kategori": "Deluxe",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 899,
+"pristekst": "899 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 22,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Skjeggtrim deluxe, Ski Storsenter, Senior",
+"behandling": "Skjeggtrim deluxe",
+"kategori": "Deluxe",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 999,
+"pristekst": "999 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 22,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Skjeggtrim deluxe, Kolbotn, Barber",
+"behandling": "Skjeggtrim deluxe",
+"kategori": "Deluxe",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 899,
+"pristekst": "899 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 22,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Skjeggtrim deluxe, Åsenveien 3, Barber",
+"behandling": "Skjeggtrim deluxe",
+"kategori": "Deluxe",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 899,
+"pristekst": "899 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 22,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Skjeggtrim deluxe, Jessheim, Barber",
+"behandling": "Skjeggtrim deluxe",
+"kategori": "Deluxe",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 599,
+"pristekst": "599 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 22,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Skjeggtrim deluxe, Strømmen, Barber",
+"behandling": "Skjeggtrim deluxe",
+"kategori": "Deluxe",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 799,
+"pristekst": "799 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 22,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Skjeggtrim deluxe, Rykkinn, Barber",
+"behandling": "Skjeggtrim deluxe",
+"kategori": "Deluxe",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 749,
+"pristekst": "749 kr",
+"varighetMin": 60,
+"hovedpris": false,
+"rekkefolge": 22,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Kombo deluxe, Sandvika, Barber",
+"behandling": "Kombo deluxe",
+"kategori": "Deluxe",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 1799,
+"pristekst": "1 799 kr",
+"varighetMin": 90,
+"hovedpris": false,
+"rekkefolge": 23,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo deluxe, Sandvika, Senior",
+"behandling": "Kombo deluxe",
+"kategori": "Deluxe",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 1899,
+"pristekst": "1 899 kr",
+"varighetMin": 90,
+"hovedpris": false,
+"rekkefolge": 23,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo deluxe, Ski Storsenter, Barber",
+"behandling": "Kombo deluxe",
+"kategori": "Deluxe",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 1599,
+"pristekst": "1 599 kr",
+"varighetMin": 90,
+"hovedpris": false,
+"rekkefolge": 23,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo deluxe, Ski Storsenter, Senior",
+"behandling": "Kombo deluxe",
+"kategori": "Deluxe",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 1799,
+"pristekst": "1 799 kr",
+"varighetMin": 90,
+"hovedpris": false,
+"rekkefolge": 23,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo deluxe, Kolbotn, Barber",
+"behandling": "Kombo deluxe",
+"kategori": "Deluxe",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 1599,
+"pristekst": "1 599 kr",
+"varighetMin": 90,
+"hovedpris": false,
+"rekkefolge": 23,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo deluxe, Åsenveien 3, Barber",
+"behandling": "Kombo deluxe",
+"kategori": "Deluxe",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 1599,
+"pristekst": "1 599 kr",
+"varighetMin": 90,
+"hovedpris": false,
+"rekkefolge": 23,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo deluxe, Jessheim, Barber",
+"behandling": "Kombo deluxe",
+"kategori": "Deluxe",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 999,
+"pristekst": "999 kr",
+"varighetMin": 90,
+"hovedpris": false,
+"rekkefolge": 23,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo deluxe, Strømmen, Barber",
+"behandling": "Kombo deluxe",
+"kategori": "Deluxe",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 1499,
+"pristekst": "1 499 kr",
+"varighetMin": 90,
+"hovedpris": false,
+"rekkefolge": 23,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kombo deluxe, Rykkinn, Barber",
+"behandling": "Kombo deluxe",
+"kategori": "Deluxe",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 1499,
+"pristekst": "1 499 kr",
+"varighetMin": 90,
+"hovedpris": false,
+"rekkefolge": 23,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Barbering av skjegget med kniv, Sandvika, Barber",
+"behandling": "Barbering av skjegget med kniv",
+"kategori": "Barbering",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 529,
+"pristekst": "529 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 24,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Barbering av skjegget med kniv, Sandvika, Senior",
+"behandling": "Barbering av skjegget med kniv",
+"kategori": "Barbering",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 579,
+"pristekst": "579 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 24,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Barbering av skjegget med kniv, Ski Storsenter, Barber",
+"behandling": "Barbering av skjegget med kniv",
+"kategori": "Barbering",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 24,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Barbering av skjegget med kniv, Ski Storsenter, Senior",
+"behandling": "Barbering av skjegget med kniv",
+"kategori": "Barbering",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 599,
+"pristekst": "599 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 24,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Barbering av skjegget med kniv, Kolbotn, Barber",
+"behandling": "Barbering av skjegget med kniv",
+"kategori": "Barbering",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 24,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Barbering av skjegget med kniv, Åsenveien 3, Barber",
+"behandling": "Barbering av skjegget med kniv",
+"kategori": "Barbering",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 24,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Barbering av skjegget med kniv, Jessheim, Barber",
+"behandling": "Barbering av skjegget med kniv",
+"kategori": "Barbering",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 399,
+"pristekst": "399 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 24,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Barbering av skjegget med kniv, Strømmen, Barber",
+"behandling": "Barbering av skjegget med kniv",
+"kategori": "Barbering",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 449,
+"pristekst": "449 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 24,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Barbering av skjegget med kniv, Rykkinn, Barber",
+"behandling": "Barbering av skjegget med kniv",
+"kategori": "Barbering",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 479,
+"pristekst": "479 kr",
+"varighetMin": 30,
+"hovedpris": true,
+"rekkefolge": 24,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Hodebarbering med kniv, Sandvika, Barber",
+"behandling": "Hodebarbering med kniv",
+"kategori": "Barbering",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 529,
+"pristekst": "529 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 25,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Hodebarbering med kniv, Sandvika, Senior",
+"behandling": "Hodebarbering med kniv",
+"kategori": "Barbering",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Senior",
+"pris": 579,
+"pristekst": "579 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 25,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Hodebarbering med kniv, Ski Storsenter, Barber",
+"behandling": "Hodebarbering med kniv",
+"kategori": "Barbering",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 25,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Hodebarbering med kniv, Ski Storsenter, Senior",
+"behandling": "Hodebarbering med kniv",
+"kategori": "Barbering",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Senior",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 25,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Hodebarbering med kniv, Kolbotn, Barber",
+"behandling": "Hodebarbering med kniv",
+"kategori": "Barbering",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 25,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Hodebarbering med kniv, Åsenveien 3, Barber",
+"behandling": "Hodebarbering med kniv",
+"kategori": "Barbering",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 25,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Hodebarbering med kniv, Jessheim, Barber",
+"behandling": "Hodebarbering med kniv",
+"kategori": "Barbering",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 399,
+"pristekst": "399 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 25,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Hodebarbering med kniv, Strømmen, Barber",
+"behandling": "Hodebarbering med kniv",
+"kategori": "Barbering",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 399,
+"pristekst": "399 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 25,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Hodebarbering med kniv, Rykkinn, Barber",
+"behandling": "Hodebarbering med kniv",
+"kategori": "Barbering",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 479,
+"pristekst": "479 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 25,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Voksing pakke for nese, øre og ansikt, Sandvika, Barber",
+"behandling": "Voksing pakke for nese, øre og ansikt",
+"kategori": "Voksing",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 469,
+"pristekst": "469 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 26,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing pakke for nese, øre og ansikt, Ski Storsenter, Barber",
+"behandling": "Voksing pakke for nese, øre og ansikt",
+"kategori": "Voksing",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 469,
+"pristekst": "469 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 26,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing pakke for nese, øre og ansikt, Kolbotn, Barber",
+"behandling": "Voksing pakke for nese, øre og ansikt",
+"kategori": "Voksing",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 469,
+"pristekst": "469 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 26,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing pakke for nese, øre og ansikt, Åsenveien 3, Barber",
+"behandling": "Voksing pakke for nese, øre og ansikt",
+"kategori": "Voksing",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 469,
+"pristekst": "469 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 26,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing pakke for nese, øre og ansikt, Jessheim, Barber",
+"behandling": "Voksing pakke for nese, øre og ansikt",
+"kategori": "Voksing",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 469,
+"pristekst": "469 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 26,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing pakke for nese, øre og ansikt, Strømmen, Barber",
+"behandling": "Voksing pakke for nese, øre og ansikt",
+"kategori": "Voksing",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 469,
+"pristekst": "469 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 26,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing pakke for nese, øre og ansikt, Rykkinn, Barber",
+"behandling": "Voksing pakke for nese, øre og ansikt",
+"kategori": "Voksing",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 469,
+"pristekst": "469 kr",
+"varighetMin": 30,
+"hovedpris": false,
+"rekkefolge": 26,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av ansikt, Sandvika, Barber",
+"behandling": "Voksing av ansikt",
+"kategori": "Voksing",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 175,
+"pristekst": "175 kr",
+"varighetMin": 10,
+"hovedpris": false,
+"rekkefolge": 27,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av ansikt, Ski Storsenter, Barber",
+"behandling": "Voksing av ansikt",
+"kategori": "Voksing",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 175,
+"pristekst": "175 kr",
+"varighetMin": 10,
+"hovedpris": false,
+"rekkefolge": 27,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av ansikt, Kolbotn, Barber",
+"behandling": "Voksing av ansikt",
+"kategori": "Voksing",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 175,
+"pristekst": "175 kr",
+"varighetMin": 10,
+"hovedpris": false,
+"rekkefolge": 27,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av ansikt, Åsenveien 3, Barber",
+"behandling": "Voksing av ansikt",
+"kategori": "Voksing",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 175,
+"pristekst": "175 kr",
+"varighetMin": 10,
+"hovedpris": false,
+"rekkefolge": 27,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av ansikt, Jessheim, Barber",
+"behandling": "Voksing av ansikt",
+"kategori": "Voksing",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 175,
+"pristekst": "175 kr",
+"varighetMin": 10,
+"hovedpris": false,
+"rekkefolge": 27,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av ansikt, Strømmen, Barber",
+"behandling": "Voksing av ansikt",
+"kategori": "Voksing",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 199,
+"pristekst": "199 kr",
+"varighetMin": 10,
+"hovedpris": false,
+"rekkefolge": 27,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av ansikt, Rykkinn, Barber",
+"behandling": "Voksing av ansikt",
+"kategori": "Voksing",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 175,
+"pristekst": "175 kr",
+"varighetMin": 10,
+"hovedpris": false,
+"rekkefolge": 27,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av nesehår, Sandvika, Barber",
+"behandling": "Voksing av nesehår",
+"kategori": "Voksing",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 149,
+"pristekst": "149 kr",
+"varighetMin": 10,
+"hovedpris": false,
+"rekkefolge": 28,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av nesehår, Ski Storsenter, Barber",
+"behandling": "Voksing av nesehår",
+"kategori": "Voksing",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 149,
+"pristekst": "149 kr",
+"varighetMin": 10,
+"hovedpris": false,
+"rekkefolge": 28,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av nesehår, Kolbotn, Barber",
+"behandling": "Voksing av nesehår",
+"kategori": "Voksing",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 149,
+"pristekst": "149 kr",
+"varighetMin": 10,
+"hovedpris": false,
+"rekkefolge": 28,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av nesehår, Åsenveien 3, Barber",
+"behandling": "Voksing av nesehår",
+"kategori": "Voksing",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 149,
+"pristekst": "149 kr",
+"varighetMin": 10,
+"hovedpris": false,
+"rekkefolge": 28,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av nesehår, Jessheim, Barber",
+"behandling": "Voksing av nesehår",
+"kategori": "Voksing",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 149,
+"pristekst": "149 kr",
+"varighetMin": 10,
+"hovedpris": false,
+"rekkefolge": 28,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av nesehår, Strømmen, Barber",
+"behandling": "Voksing av nesehår",
+"kategori": "Voksing",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 149,
+"pristekst": "149 kr",
+"varighetMin": 10,
+"hovedpris": false,
+"rekkefolge": 28,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av nesehår, Rykkinn, Barber",
+"behandling": "Voksing av nesehår",
+"kategori": "Voksing",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 149,
+"pristekst": "149 kr",
+"varighetMin": 10,
+"hovedpris": false,
+"rekkefolge": 28,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av ørehår, Sandvika, Barber",
+"behandling": "Voksing av ørehår",
+"kategori": "Voksing",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 175,
+"pristekst": "175 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 29,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av ørehår, Ski Storsenter, Barber",
+"behandling": "Voksing av ørehår",
+"kategori": "Voksing",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 175,
+"pristekst": "175 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 29,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av ørehår, Kolbotn, Barber",
+"behandling": "Voksing av ørehår",
+"kategori": "Voksing",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 175,
+"pristekst": "175 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 29,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av ørehår, Åsenveien 3, Barber",
+"behandling": "Voksing av ørehår",
+"kategori": "Voksing",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 175,
+"pristekst": "175 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 29,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av ørehår, Jessheim, Barber",
+"behandling": "Voksing av ørehår",
+"kategori": "Voksing",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 175,
+"pristekst": "175 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 29,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av ørehår, Strømmen, Barber",
+"behandling": "Voksing av ørehår",
+"kategori": "Voksing",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 149,
+"pristekst": "149 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 29,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing av ørehår, Rykkinn, Barber",
+"behandling": "Voksing av ørehår",
+"kategori": "Voksing",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 175,
+"pristekst": "175 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 29,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing pakke, Sandvika, Barber",
+"behandling": "Voksing pakke",
+"kategori": "Voksing",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 30,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing pakke, Ski Storsenter, Barber",
+"behandling": "Voksing pakke",
+"kategori": "Voksing",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 30,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing pakke, Kolbotn, Barber",
+"behandling": "Voksing pakke",
+"kategori": "Voksing",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 30,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing pakke, Åsenveien 3, Barber",
+"behandling": "Voksing pakke",
+"kategori": "Voksing",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 30,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing pakke, Jessheim, Barber",
+"behandling": "Voksing pakke",
+"kategori": "Voksing",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 30,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing pakke, Strømmen, Barber",
+"behandling": "Voksing pakke",
+"kategori": "Voksing",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 497,
+"pristekst": "497 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 30,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Voksing pakke, Rykkinn, Barber",
+"behandling": "Voksing pakke",
+"kategori": "Voksing",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 499,
+"pristekst": "499 kr",
+"varighetMin": 45,
+"hovedpris": false,
+"rekkefolge": 30,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Napping av hår med tråd, Sandvika, Barber",
+"behandling": "Napping av hår med tråd",
+"kategori": "Voksing",
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika",
+"niva": "Barber",
+"pris": 250,
+"pristekst": "250 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 31,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Napping av hår med tråd, Ski Storsenter, Barber",
+"behandling": "Napping av hår med tråd",
+"kategori": "Voksing",
+"avdeling": "ski",
+"avdelingSlug": "ski",
+"niva": "Barber",
+"pris": 250,
+"pristekst": "250 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 31,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Napping av hår med tråd, Kolbotn, Barber",
+"behandling": "Napping av hår med tråd",
+"kategori": "Voksing",
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn",
+"niva": "Barber",
+"pris": 250,
+"pristekst": "250 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 31,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Napping av hår med tråd, Åsenveien 3, Barber",
+"behandling": "Napping av hår med tråd",
+"kategori": "Voksing",
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien",
+"niva": "Barber",
+"pris": 250,
+"pristekst": "250 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 31,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Napping av hår med tråd, Jessheim, Barber",
+"behandling": "Napping av hår med tråd",
+"kategori": "Voksing",
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim",
+"niva": "Barber",
+"pris": 250,
+"pristekst": "250 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 31,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Napping av hår med tråd, Strømmen, Barber",
+"behandling": "Napping av hår med tråd",
+"kategori": "Voksing",
+"avdeling": "strommen",
+"avdelingSlug": "strommen",
+"niva": "Barber",
+"pris": 200,
+"pristekst": "200 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 31,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Napping av hår med tråd, Rykkinn, Barber",
+"behandling": "Napping av hår med tråd",
+"kategori": "Voksing",
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn",
+"niva": "Barber",
+"pris": 250,
+"pristekst": "250 kr",
+"varighetMin": 15,
+"hovedpris": false,
+"rekkefolge": 31,
+"publisert": true
+}
+}
+],
+"faq": [
+{
+"data": {
+"title": "Klipper dere bare menn?",
+"svar": "<p>Nei. Alle behandlingene på menyen er for både menn og kvinner. Vi er spesialister på kort hår, skin fade og moderne herreklipp. Bestill på vanlig måte og velg behandlingen du vil ha.</p>",
+"visPa": [
+"forside",
+"tjeneste",
+"avdeling"
+],
+"rekkefolge": 1,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Må jeg bestille time, eller kan jeg stikke innom?",
+"svar": "<p>Vi tar imot drop-in når vi har ledig, men anbefaler å bestille time på nett eller i appen. Da er du sikker på å få den barbereren og det tidspunktet du vil ha.</p>",
+"visPa": [
+"forside"
+],
+"rekkefolge": 2,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Hvorfor kan prisen bli en annen enn den som står her?",
+"svar": "<p>Prisene på siden er for nivå Barber. Prisen avhenger av barberens nivå: en Senior koster litt mer, en Lærling eller Junior litt mindre der avdelingen har det. Du velger barberer selv når du bestiller, og endelig pris ser du i onlinebookingen før du bekrefter.</p>",
+"visPa": [
+"forside",
+"tjeneste"
+],
+"rekkefolge": 3,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Hvor lang tid tar en klipp?",
+"svar": "<p>Vi setter av 30 minutter til en klassisk herreklipp, 45 minutter til skin fade og 60 minutter til kombo med skjegg. Nøyaktig varighet står i bookingen når du velger behandling.</p>",
+"visPa": [
+"forside"
+],
+"rekkefolge": 4,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Kan jeg ta med barnet mitt?",
+"svar": "<p>Ja. Barneklipp er en av de vanligste behandlingene våre, og barbererne er vant med både tålmodige og utålmodige barn. Bestill gjerne time til dere begge etter hverandre hos samme barberer.</p>",
+"visPa": [
+"forside"
+],
+"rekkefolge": 5,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Hvordan fungerer stempelkortet i appen?",
+"svar": "<p>Du får ett stempel per Klassisk klipp, Skin fade, Skjeggtrim eller Kombo, på hvert sitt stempelkort. Hvert tiende stempel gir deg behandlingen gratis. Barbereren registrerer stempelet i salongen. Hvert stempel er gyldig i ett år.</p>",
+"visPa": [
+"forside",
+"app"
+],
+"rekkefolge": 6,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Hvordan betaler jeg?",
+"svar": "<p>Du betaler i salongen etter behandlingen, med kort eller Vipps i kassen, i alle avdelinger. Gavekort gjelder som betalingsmiddel i kassen.</p>",
+"visPa": [
+"tjeneste",
+"avdeling"
+],
+"rekkefolge": 7,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Hva skjer hvis jeg må avbestille?",
+"svar": "<p>Avbestill senest 24 timer før timen, i bookingen eller ved å ringe oss på 90 80 00 86.</p>",
+"visPa": [
+"tjeneste",
+"avdeling"
+],
+"rekkefolge": 8,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Velger jeg barberer selv?",
+"svar": "<p>Ja. I bookingen ser du hvilke barberere som jobber i avdelingen, nivået deres og ledige tider. Velg den du vil ha, eller første ledige.</p>",
+"visPa": [
+"tjeneste",
+"avdeling"
+],
+"rekkefolge": 9,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Inngår hårvask i klippen?",
+"svar": "<p>Ja. Hårvask inngår i klipp på alle nivåer, og du velger selv om du vil ha vask.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 10,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Gjelder gavekortet i alle avdelinger?",
+"svar": "<p>Ja. Gavekort kjøpes på fixit.no/gavekort/1634, har valgfritt beløp, gjelder i alle avdelinger og innløses i kassen.</p>",
+"visPa": [
+"gavekort"
+],
+"rekkefolge": 11,
+"publisert": true
+}
+},
+{
+"data": {
+"title": "Kan jeg komme på drop-in i Sandvika Storsenter?",
+"svar": "<p>Ja, når vi har ledig. Sandvika er den travleste avdelingen vår, så på lørdager og etter klokken 16 på hverdager anbefaler vi å bestille time på nett eller i appen.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 1,
+"publisert": true,
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika"
+}
+},
+{
+"data": {
+"title": "Hvor parkerer jeg?",
+"svar": "<p>I parkeringshuset til Sandvika Storsenter. De første 2 timene er gratis (senterets regler gjelder). Følg skiltene mot Kjørbokollen, vi ligger ved siden av Cewe Japan Photo.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 2,
+"publisert": true,
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika"
+}
+},
+{
+"data": {
+"title": "Hvor lang tid tar det fra Sandvika stasjon?",
+"svar": "<p>Tre til fem minutter til fots. Gå inn hovedinngangen fra stasjonssiden og følg skiltene mot Kjørbokollen.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 3,
+"publisert": true,
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika"
+}
+},
+{
+"data": {
+"title": "Tar dere imot barn?",
+"svar": "<p>Ja. Barneklipp koster 529 kr i Sandvika (nivå Barber), og mange foreldre bestiller time til seg selv og barnet etter hverandre hos samme barberer.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 4,
+"publisert": true,
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika"
+}
+},
+{
+"data": {
+"title": "Hvordan betaler jeg?",
+"svar": "<p>Du betaler i salongen etter behandlingen, med kort eller Vipps i kassen. Gavekort fra fixit.no gjelder også her.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 5,
+"publisert": true,
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika"
+}
+},
+{
+"data": {
+"title": "Snakker barbererne engelsk?",
+"svar": "<p>Ja. Alle barbererne i Sandvika snakker engelsk.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 6,
+"publisert": true,
+"avdeling": "sandvika",
+"avdelingSlug": "sandvika"
+}
+},
+{
+"data": {
+"title": "Hvor i senteret er dere?",
+"svar": "<p>På brugangen i 2. etasje mellom nye og gamle delen, mot Telia. Kommer du fra stasjonen, går du inn i den nye delen og tar rulletrappen opp.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 1,
+"publisert": true,
+"avdeling": "ski",
+"avdelingSlug": "ski"
+}
+},
+{
+"data": {
+"title": "Er det parkering?",
+"svar": "<p>Ja, i parkeringshuset under og ved senteret. De første 2 timene er gratis (senterets regler gjelder).</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 2,
+"publisert": true,
+"avdeling": "ski",
+"avdelingSlug": "ski"
+}
+},
+{
+"data": {
+"title": "Kan jeg komme uten time?",
+"svar": "<p>Ja, når vi har ledig. Med flere barberere på jobb er sjansen god på hverdager før klokken 15. Ettermiddag og lørdag bør du bestille.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 3,
+"publisert": true,
+"avdeling": "ski",
+"avdelingSlug": "ski"
+}
+},
+{
+"data": {
+"title": "Hvor lang tid tar det fra Ski stasjon?",
+"svar": "<p>To minutter til fots. Senterets inngang ligger rett over plassen fra stasjonsbygget.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 4,
+"publisert": true,
+"avdeling": "ski",
+"avdelingSlug": "ski"
+}
+},
+{
+"data": {
+"title": "Hva er forskjellen på dere og den andre J&K-avdelingen i Ski?",
+"svar": "<p>Samme standard og nesten samme priser, Åsenveien 3 ligger noen kroner lavere på de fleste behandlinger. Ski Storsenter har flest barberere og lengst åpningstid. Åsenveien 3 er roligere, er der det hele startet i 2018, og har 1 time gratis parkering rett utenfor.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 5,
+"publisert": true,
+"avdeling": "ski",
+"avdelingSlug": "ski"
+}
+},
+{
+"data": {
+"title": "Har dere barneklipp?",
+"svar": "<p>Ja, 499 kr for nivå Barber. Bestill gjerne en tidlig time på lørdag, da er det roligst for de minste.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 6,
+"publisert": true,
+"avdeling": "ski",
+"avdelingSlug": "ski"
+}
+},
+{
+"data": {
+"title": "Er det parkering?",
+"svar": "<p>Ja, rett utenfor døren, med 1 time gratis parkering.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 1,
+"publisert": true,
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien"
+}
+},
+{
+"data": {
+"title": "Hvor langt er det fra Ski stasjon?",
+"svar": "<p>Fem til sju minutter til fots gjennom Ski sentrum.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 2,
+"publisert": true,
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien"
+}
+},
+{
+"data": {
+"title": "Hva er forskjellen på Åsenveien 3 og Ski Storsenter?",
+"svar": "<p>Samme standard, og Åsenveien ligger noen kroner lavere på de fleste behandlinger (klassisk herreklipp 585 kr mot 599 kr, nivå Barber). Åsenveien er mindre og roligere, med 1 time gratis parkering utenfor. Ski Storsenter har flere barberere og åpent til 21.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 3,
+"publisert": true,
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien"
+}
+},
+{
+"data": {
+"title": "Kan jeg få knivbarbering her?",
+"svar": "<p>Ja, og dette er avdelingen vi anbefaler for det. Vi setter av 30 minutter i bookingen.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 4,
+"publisert": true,
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien"
+}
+},
+{
+"data": {
+"title": "Er dere åpne søndag?",
+"svar": "<p>Nei. Mandag til fredag 10 til 20, lørdag 10 til 19.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 5,
+"publisert": true,
+"avdeling": "asenveien",
+"avdelingSlug": "asenveien"
+}
+},
+{
+"data": {
+"title": "Er parkeringen gratis?",
+"svar": "<p>Ja, de første 2 timene i Kolbotn Torg sitt parkeringshus (senterets regler gjelder).</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 1,
+"publisert": true,
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn"
+}
+},
+{
+"data": {
+"title": "Hvor er inngangen deres?",
+"svar": "<p>Vi ligger ved Vinmonopolet, så går du mot polet, finner du oss.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 2,
+"publisert": true,
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn"
+}
+},
+{
+"data": {
+"title": "Hvor lang tid tar det fra Kolbotn stasjon?",
+"svar": "<p>Ett til to minutter til fots.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 3,
+"publisert": true,
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn"
+}
+},
+{
+"data": {
+"title": "Passer det for barn?",
+"svar": "<p>Ja, barneklipp er noe av det vi gjør mest av på Kolbotn. Barbererne er vant med barn i alle aldre, og vi har alltid noe å se på i stolen.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 4,
+"publisert": true,
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn"
+}
+},
+{
+"data": {
+"title": "Kan jeg bestille time til meg og barnet mitt samtidig?",
+"svar": "<p>Ja. Bestill to tider etter hverandre hos samme barberer i bookingen, eller ring oss, så setter vi det opp.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 5,
+"publisert": true,
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn"
+}
+},
+{
+"data": {
+"title": "Kan jeg bare stikke innom?",
+"svar": "<p>Ja, når vi har ledig. Hverdager før 15 er best. Ettermiddag og lørdag anbefaler vi å bestille.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 6,
+"publisert": true,
+"avdeling": "kolbotn",
+"avdelingSlug": "kolbotn"
+}
+},
+{
+"data": {
+"title": "Hvor i Jessheim Storsenter er dere?",
+"svar": "<p>I 1. etasje, mot Lindex. Følg skiltene mot Lindex, så ser du oss.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 1,
+"publisert": true,
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim"
+}
+},
+{
+"data": {
+"title": "Er det parkering?",
+"svar": "<p>Ja, i senterets parkeringshus. De første 2 timene er gratis (senterets regler gjelder).</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 2,
+"publisert": true,
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim"
+}
+},
+{
+"data": {
+"title": "Jeg jobber på Gardermoen. Rekker jeg en klipp mellom skift?",
+"svar": "<p>Ja. Med bil tar det rundt 10 minutter fra flyplassen, og vi har åpent til 21 på hverdager. Bestill time i appen, så er stolen klar når du kommer.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 3,
+"publisert": true,
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim"
+}
+},
+{
+"data": {
+"title": "Tar dere drop-in?",
+"svar": "<p>Ja, når vi har ledig, og i Jessheim er sjansen god. Bestill likevel om du vil ha en bestemt barberer.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 4,
+"publisert": true,
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim"
+}
+},
+{
+"data": {
+"title": "Har dere barneklipp?",
+"svar": "<p>Ja, 399 kr for nivå Barber. Lørdag formiddag er roligst for de minste.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 5,
+"publisert": true,
+"avdeling": "jessheim",
+"avdelingSlug": "jessheim"
+}
+},
+{
+"data": {
+"title": "Hvor i senteret finner jeg dere?",
+"svar": "<p>I 1. etasje i den eldste delen av senteret, mellom Fransa og Gullfunn.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 1,
+"publisert": true,
+"avdeling": "strommen",
+"avdelingSlug": "strommen"
+}
+},
+{
+"data": {
+"title": "Er det parkering?",
+"svar": "<p>Ja, i senterets parkeringshus. De første 2 timene er gratis (senterets regler gjelder).</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 2,
+"publisert": true,
+"avdeling": "strommen",
+"avdelingSlug": "strommen"
+}
+},
+{
+"data": {
+"title": "Hvor lang tid tar det fra Strømmen stasjon?",
+"svar": "<p>Tre til fem minutter til fots.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 3,
+"publisert": true,
+"avdeling": "strommen",
+"avdelingSlug": "strommen"
+}
+},
+{
+"data": {
+"title": "Jeg bor i Lillestrøm. Er dere nærmest?",
+"svar": "<p>Vi er fem minutter unna med tog eller bil, og du parkerer i senteret. Stemplene i appen gjelder i alle avdelingene våre.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 4,
+"publisert": true,
+"avdeling": "strommen",
+"avdelingSlug": "strommen"
+}
+},
+{
+"data": {
+"title": "Tar dere drop-in?",
+"svar": "<p>Ja, når vi har ledig. Bestill time om du vil være sikker, særlig lørdag.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 5,
+"publisert": true,
+"avdeling": "strommen",
+"avdelingSlug": "strommen"
+}
+},
+{
+"data": {
+"title": "Har dere barneklipp?",
+"svar": "<p>Ja, 429 kr for nivå Barber.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 6,
+"publisert": true,
+"avdeling": "strommen",
+"avdelingSlug": "strommen"
+}
+},
+{
+"data": {
+"title": "Er parkeringen gratis?",
+"svar": "<p>Ja, de første 2 timene ved senteret (senterets regler gjelder).</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 1,
+"publisert": true,
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn"
+}
+},
+{
+"data": {
+"title": "Hvor i senteret er dere?",
+"svar": "<p>I 1. etasje.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 2,
+"publisert": true,
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn"
+}
+},
+{
+"data": {
+"title": "Kan jeg komme med flere barn samtidig?",
+"svar": "<p>Ja, bestill flere tider etter hverandre i bookingen, eller ring så hjelper vi deg.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 3,
+"publisert": true,
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn"
+}
+},
+{
+"data": {
+"title": "Tar dere drop-in?",
+"svar": "<p>Ja, når vi har ledig. Siden vi er en liten avdeling, anbefaler vi å bestille.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 4,
+"publisert": true,
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn"
+}
+},
+{
+"data": {
+"title": "Er det samme priser som i Sandvika?",
+"svar": "<p>Nei, Rykkinn har egne priser som ligger litt under Sandvika: klassisk herreklipp koster 539 kr på Rykkinn mot 639 kr i Sandvika (nivå Barber). Stempelkortet gjelder på tvers av alle avdelingene.</p>",
+"visPa": [
+"avdeling"
+],
+"rekkefolge": 5,
+"publisert": true,
+"avdeling": "rykkinn",
+"avdelingSlug": "rykkinn"
+}
+},
+{
+"data": {
+"title": "Hvor ofte bør jeg klippe meg?",
+"svar": "<p>Kort hår: hver tredje til fjerde uke. Mellomlangt: hver fjerde til sjette uke. Lengre hår: hver sjette til åttende uke for å holde formen.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 1,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Inngår vask i prisen?",
+"svar": "<p>Ja. Hårvask inngår i klippen på alle nivåer, uten tillegg, og du velger selv om du vil ha vask eller ikke.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 2,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Kan jeg få klippet skjegget samtidig?",
+"svar": "<p>Ja, bestill Kombo, så får du klipp og skjeggtrim i samme time hos samme barberer.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 3,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Hva om jeg ikke blir fornøyd?",
+"svar": "<p>Si fra i stolen, så justerer vi før du går. Oppdager du noe hjemme, ring eller send e-post innen en uke, så retter vi det.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 4,
+"publisert": true,
+"tjeneste": "herreklipp",
+"tjenesteSlug": "herreklipp"
+}
+},
+{
+"data": {
+"title": "Hva er forskjellen på skin fade og taper fade?",
+"svar": "<p>Skin fade går helt ned til bar hud nederst. Taper fade går kort, men ikke bart, og er mer diskret. Begge kan være low, mid eller high.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 1,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Hvor ofte må jeg ta skin fade?",
+"svar": "<p>Hver andre til tredje uke om du vil ha den skarp hele tiden. Hver fjerde uke om du tåler at den vokser litt ut.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 2,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Kan jeg ta skin fade med skjegg?",
+"svar": "<p>Ja, og det er en av de vanligste kombinasjonene våre. Bestill Kombo, så fader vi også overgangen mellom skjegg og hår.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 3,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Får jeg stempel i appen for skin fade?",
+"svar": "<p>Ja. Skin fade har sitt eget stempelkort i appen. Hvert tiende stempel gir deg behandlingen gratis, og barbereren registrerer stempelet i salongen.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 4,
+"publisert": true,
+"tjeneste": "skin-fade",
+"tjenesteSlug": "skin-fade"
+}
+},
+{
+"data": {
+"title": "Hvor ofte bør jeg trimme skjegget?",
+"svar": "<p>Hver tredje til fjerde uke for form. Konturene kan du vedlikeholde hjemme med trimmer mellom besøkene.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 1,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Kan jeg ta skjeggtrim sammen med klipp?",
+"svar": "<p>Ja, bestill Kombo. Da får du klipp eller skin fade og skjeggtrim i samme time.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 2,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Hva er forskjellen på skjeggtrim og deluxe?",
+"svar": "<p>Deluxe har varmt håndkle, barberkrem og knivbarbering av konturene, pluss kaldt håndkle og pleie. Det tar lengre tid og gir renere linjer.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 3,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Hvilke produkter anbefaler dere?",
+"svar": "<p>Skjeggolje fra Pan Drwal eller Proraso daglig, balm om skjegget er langt, og en skjeggbørste. Vi har alt i salongen og på j-kshop.no.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 4,
+"publisert": true,
+"tjeneste": "skjeggtrim",
+"tjenesteSlug": "skjeggtrim"
+}
+},
+{
+"data": {
+"title": "Gjør det vondt?",
+"svar": "<p>Nei. Varmt håndkle og riktig krem gjør huden klar, og kniven i trente hender er mer skånsom enn de fleste maskiner.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 1,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Er det trygt?",
+"svar": "<p>Ja. Vi bruker engangsblad som byttes for hver kunde, og barbererne er trent i hygiene og teknikk.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 2,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Kan jeg få barbert hodet?",
+"svar": "<p>Ja, hodebarbering med kniv tilbys i alle avdelinger. Bestill Hodebarbering med kniv i bookingen, eller Kombo III om du vil ha hode og skjegg barbert i samme time.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 3,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Kan jeg kombinere med klipp?",
+"svar": "<p>Ja. Bestill Kombo med knivbarbering, eller legg til barbering på en vanlig klipp i bookingen.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 4,
+"publisert": true,
+"tjeneste": "barbering",
+"tjenesteSlug": "barbering"
+}
+},
+{
+"data": {
+"title": "Hvor gammelt bør barnet være første gang?",
+"svar": "<p>Når håret er i veien, vanligvis fra ett til to år. Yngre barn sitter på fanget til en voksen.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 1,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Hva om barnet gråter?",
+"svar": "<p>Da tar vi en pause, eller gjør det ferdig på fanget. Barbererne våre har sett det før, og ingen blir stresset.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 2,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Kan jeg bestille til meg og barnet mitt samtidig?",
+"svar": "<p>Ja. Bestill to tider etter hverandre hos samme barberer i bookingen, så slipper dere å vente på hverandre.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 3,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Klipper dere både gutter og jenter?",
+"svar": "<p>Ja. Alle behandlingene på menyen er for både gutter og jenter, og vi er spesialister på kort hår og skin fade. Vil barnet ha en lengre, klassisk klipp med mer forming, anbefaler vi søstersalongen vår J&K Beauty Salon i Ski (j-kbeauty.no).</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 4,
+"publisert": true,
+"tjeneste": "barneklipp",
+"tjenesteSlug": "barneklipp"
+}
+},
+{
+"data": {
+"title": "Kan jeg velge skin fade i kombo?",
+"svar": "<p>Ja, det er Kombo II. Skin fade i håret og fade i overgangen til skjegget.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 1,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Får jeg to stempler for kombo?",
+"svar": "<p>Nei, kombo har sitt eget stempelkort i appen. Hver kombo gir ett stempel på kombokortet, og det tiende gir deg gratis kombo. Klassisk klipp, Skin fade og Skjeggtrim har egne stempelkort når du bestiller dem hver for seg. Barbereren registrerer stempelet i salongen.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 2,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Hvor lang tid må jeg sette av?",
+"svar": "<p>Rundt en time for Kombo I og II, tre kvarter for Kombo III og halvannen time for Kombo deluxe. Tiden står i bookingen.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 3,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+},
+{
+"data": {
+"title": "Kan jeg bestille kombo for barnet mitt?",
+"svar": "<p>Kombo er for voksne med skjegg. For barn bestiller du barneklipp.</p>",
+"visPa": [
+"tjeneste"
+],
+"rekkefolge": 4,
+"publisert": true,
+"tjeneste": "kombo",
+"tjenesteSlug": "kombo"
+}
+}
+],
+"naboer": {
+"sandvika": [
+"rykkinn",
+"asenveien"
+],
+"ski": [
+"asenveien",
+"kolbotn"
+],
+"asenveien": [
+"ski",
+"kolbotn"
+],
+"kolbotn": [
+"ski",
+"asenveien"
+],
+"jessheim": [
+"strommen"
+],
+"strommen": [
+"jessheim"
+],
+"rykkinn": [
+"sandvika"
+]
+}
+}

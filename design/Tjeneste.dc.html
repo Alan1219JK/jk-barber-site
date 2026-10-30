@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="nb">
+<head>
+<meta charset="utf-8">
+<title>Tjenesteside Skin fade</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Manrope:wght@400;500;600;700&display=swap">
+<style>
+body{margin:0;background:#121110;font-family:Manrope,system-ui,sans-serif;color:#F3EDE4}
+a{color:#C9A45C}a:hover{color:#E2C27A}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:0 26px;border-radius:4px;font-weight:600;font-size:15px;text-decoration:none}
+.btn-p{background:#C9A45C;color:#121110}
+.btn-s{border:1px solid #C9A45C;color:#F3EDE4;background:transparent}
+.card{background:#1B1917;border:1px solid #2A2724;border-radius:6px}
+.eyebrow{font-size:12px;letter-spacing:2.4px;text-transform:uppercase;color:#C9A45C;font-weight:600}
+h1,h2,h3{font-family:Fraunces,Georgia,serif;font-weight:500;margin:0}
+.ph{background:#232019;border:1px dashed #4A4336;color:#8F8678;display:flex;align-items:center;justify-content:center;font-size:12px;letter-spacing:1px;text-transform:uppercase;text-align:center;padding:12px}
+.muted{color:#A39A8C}
+.wrap{max-width:1240px;margin:0 auto;padding:0 40px}
+nav a.n{color:#F3EDE4;text-decoration:none;font-size:15px;font-weight:500}
+.row{display:flex;justify-content:space-between;padding:12px 0;border-top:1px solid #2A2724;font-size:15px}
+.step{display:flex;gap:18px;align-items:flex-start}
+.num{width:40px;height:40px;border-radius:50%;border:1px solid #C9A45C;color:#C9A45C;display:flex;align-items:center;justify-content:center;font-family:Fraunces,serif;font-size:18px;flex-shrink:0}
+</style>
+</helmet>
+
+<div style="width:100%;box-sizing:border-box;display:flex;flex-direction:column">
+
+<!-- Header -->
+<header style="border-bottom:1px solid #2A2724;background:#121110">
+  <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap;min-height:76px">
+    <a href="#" style="display:flex;align-items:center;gap:14px;font-family:Fraunces,serif;font-size:22px;color:#F3EDE4;text-decoration:none;letter-spacing:.5px"><img src="./jk-barber-logo-messing-600.png" alt="J&amp;K Barber Shop logo" style="height:56px;width:auto;display:block"><span>J&amp;K <span style="color:#C9A45C">Barber Shop</span></span></a>
+    <nav style="display:flex;gap:24px;flex-wrap:wrap;align-items:center">
+      <a class="n" href="#">Avdelinger</a><a class="n" href="#">Tjenester og priser</a><a class="n" href="#">Appen</a><a class="n" href="#">Gavekort</a><a class="n" href="#">Produkter</a><a class="n" href="#">Om oss</a><a class="n" href="#">Blogg</a>
+    </nav>
+    <a class="btn btn-p" href="#">Bestill time</a>
+  </div>
+</header>
+
+<div class="wrap muted" style="font-size:13px;padding-top:18px">Hjem · Tjenester · <span style="color:#F3EDE4">Skin fade</span></div>
+
+<section style="padding:40px 0 72px">
+  <div class="wrap" style="display:grid;grid-template-columns:minmax(0, 1fr) minmax(0, 1fr);gap:56px;align-items:center">
+    <div style="display:flex;flex-direction:column;gap:18px">
+      <div class="eyebrow">Tjeneste · 45 minutter</div>
+      <h1 style="font-size:52px;line-height:1.05">Skin fade og taper fade</h1>
+      <p style="margin:0;font-size:18px;line-height:1.55;color:#D9D1C4">Fra hud til lengde uten synlige overganger. Low, mid eller high, med eller uten tekstur på toppen. Vi tar bildet ditt på alvor, og sier fra hvis det ikke passer håret ditt.</p>
+      <p style="margin:0;font-size:16px;line-height:1.55;color:#D9D1C4;border-left:2px solid #C9A45C;padding-left:14px">Skin fade er for både menn og kvinner, som alle behandlingene på menyen vår. Vil du ha kort hår, pixie med fade eller en skikkelig herreklipp, er du velkommen uansett kjønn. Bestill på vanlig måte og velg behandlingen du vil ha.</p>
+      <div style="display:flex;align-items:baseline;gap:14px"><span style="font-family:Fraunces,serif;font-size:34px;color:#C9A45C">599 til 829 kr</span><span class="muted" style="font-size:14px">Nivå Barber, varierer per avdeling</span></div>
+      <div style="display:flex;gap:12px;flex-wrap:wrap"><a class="btn btn-p" href="#">Bestill skin fade</a><a class="btn btn-s" href="#">Se før og etter</a></div>
+    </div>
+    <div class="ph" style="height:480px;border-radius:8px">Bilde: skin fade, nærbilde av overgangen (jk-barber-sandvika-skin-fade-naturlig-krollhar.jpg)</div>
+  </div>
+</section>
+
+<section style="padding:72px 0;background:#1B1917;border-top:1px solid #2A2724;border-bottom:1px solid #2A2724">
+  <div class="wrap" style="display:grid;grid-template-columns:repeat(2, minmax(0, 1fr));gap:56px">
+    <div style="display:flex;flex-direction:column;gap:14px"><div class="eyebrow">Hva du får</div><h2 style="font-size:36px;line-height:1.1">Dette er inkludert</h2><div class="row" style="border-top:none"><span>Konsultasjon: fade-type, høyde, topp</span><span style="color:#C9A45C">✓</span></div><div class="row"><span>Fade med maskin, blending til hud</span><span style="color:#C9A45C">✓</span></div><div class="row"><span>Topp klippet med saks eller maskin</span><span style="color:#C9A45C">✓</span></div><div class="row"><span>Rene linjer med kniv (line-up)</span><span style="color:#C9A45C">✓</span></div><div class="row"><span>Vask og styling med produktene vi selger</span><span style="color:#C9A45C">✓</span></div><div class="row" style="border-bottom:1px solid #2A2724"><span>Råd om vedlikehold og neste time</span><span style="color:#C9A45C">✓</span></div></div>
+    <div style="display:flex;flex-direction:column;gap:22px"><div class="eyebrow">Slik foregår det</div><h2 style="font-size:36px;line-height:1.1">Fire steg i stolen</h2>
+      <div class="step"><div class="num">1</div><div><div style="font-weight:600;margin-bottom:4px">Vi snakker om det først</div><div class="muted" style="font-size:15px;line-height:1.55">Low, mid eller high? Skal toppen være teksturert eller slick? Vis bilde hvis du har.</div></div></div>
+      <div class="step"><div class="num">2</div><div><div style="font-weight:600;margin-bottom:4px">Fade</div><div class="muted" style="font-size:15px;line-height:1.55">Overgangen bygges trinn for trinn fra hud til lengde, uten striper.</div></div></div>
+      <div class="step"><div class="num">3</div><div><div style="font-weight:600;margin-bottom:4px">Topp og linjer</div><div class="muted" style="font-size:15px;line-height:1.55">Toppen klippes til ønsket lengde, kantene rettes opp med kniv.</div></div></div>
+      <div class="step"><div class="num">4</div><div><div style="font-weight:600;margin-bottom:4px">Vask, styling og råd</div><div class="muted" style="font-size:15px;line-height:1.55">Du går ut med en ferdig stylet look og vet hvordan du holder den.</div></div></div>
+    </div>
+  </div>
+</section>
+
+<section style="padding:72px 0">
+  <div class="wrap" style="display:flex;flex-direction:column;gap:28px">
+    <div style="display:flex;flex-direction:column;gap:10px;max-width:760px"><div class="eyebrow">Priser</div><h2 style="font-size:36px">Skin fade: pris per avdeling</h2><p class="muted" style="margin:0;font-size:16px;line-height:1.55">Prisene viser nivået Barber. Prisen avhenger av barberens nivå (Lærling, Junior, Barber, Senior). Endelig pris ser du i onlinebookingen. Hårvask inngår i klipp, du velger selv om du vil ha den.</p></div>
+    <div style="display:grid;grid-template-columns:repeat(4, minmax(0, 1fr));gap:14px">
+      <div class="card" style="padding:20px;display:flex;flex-direction:column;gap:6px"><div style="font-weight:600">Sandvika Storsenter</div><div style="color:#C9A45C;font-family:Fraunces,serif;font-size:26px">829 kr</div><a href="#" style="font-size:14px">Bestill i Sandvika</a></div>
+      <div class="card" style="padding:20px;display:flex;flex-direction:column;gap:6px"><div style="font-weight:600">Ski Storsenter</div><div style="color:#C9A45C;font-family:Fraunces,serif;font-size:26px">775 kr</div><a href="#" style="font-size:14px">Bestill i Ski Storsenter</a></div>
+      <div class="card" style="padding:20px;display:flex;flex-direction:column;gap:6px"><div style="font-weight:600">Åsenveien 3, Ski</div><div style="color:#C9A45C;font-family:Fraunces,serif;font-size:26px">765 kr</div><a href="#" style="font-size:14px">Bestill i Åsenveien</a></div>
+      <div class="card" style="padding:20px;display:flex;flex-direction:column;gap:6px"><div style="font-weight:600">Kolbotn Torg</div><div style="color:#C9A45C;font-family:Fraunces,serif;font-size:26px">775 kr</div><a href="#" style="font-size:14px">Bestill på Kolbotn</a></div>
+      <div class="card" style="padding:20px;display:flex;flex-direction:column;gap:6px"><div style="font-weight:600">Jessheim Storsenter</div><div style="color:#C9A45C;font-family:Fraunces,serif;font-size:26px">599 kr</div><a href="#" style="font-size:14px">Bestill i Jessheim</a></div>
+      <div class="card" style="padding:20px;display:flex;flex-direction:column;gap:6px"><div style="font-weight:600">Strømmen Storsenter</div><div style="color:#C9A45C;font-family:Fraunces,serif;font-size:26px">649 kr</div><a href="#" style="font-size:14px">Bestill i Strømmen</a></div>
+      <div class="card" style="padding:20px;display:flex;flex-direction:column;gap:6px"><div style="font-weight:600">Rykkinn Senter</div><div style="color:#C9A45C;font-family:Fraunces,serif;font-size:26px">699 kr</div><a href="#" style="font-size:14px">Bestill på Rykkinn</a></div>
+      <div class="card" style="padding:20px;display:flex;flex-direction:column;gap:6px;background:#121110"><div style="font-weight:600">Barneklipp skin fade</div><div class="muted" style="font-size:14px;line-height:1.5">Under 12 år, 449 til 675 kr. Egen side for barneklipp.</div><a href="#" style="font-size:14px">Les om barneklipp</a></div>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(3, minmax(0, 1fr));gap:14px">
+      <div class="card" style="padding:22px;display:flex;flex-direction:column;gap:6px"><div class="eyebrow" style="color:#A39A8C">Booking</div><div style="font-weight:600;font-size:17px">Velg barberer selv</div><div class="muted" style="font-size:14px;line-height:1.5">I onlinebookingen velger du selv barberer og ser nivå og pris før du bekrefter. Alle jobber etter samme standard, med samme konsultasjon først.</div></div>
+      <div class="card" style="padding:22px;display:flex;flex-direction:column;gap:6px"><div class="eyebrow" style="color:#A39A8C">Avbestilling</div><div style="font-weight:600;font-size:17px">Senest 24 timer før</div><div class="muted" style="font-size:14px;line-height:1.5">Avbestill eller flytt timen senest 24 timer før i bookingen eller appen. Betaling i salongen med kort eller Vipps.</div></div>
+      <div class="card" style="padding:22px;display:flex;flex-direction:column;gap:6px;border-color:#C9A45C"><div class="eyebrow">Stempelkort i appen</div><div style="font-weight:600;font-size:17px">Hver 10. skin fade gratis</div><div class="muted" style="font-size:14px;line-height:1.5">J&amp;K-appen har eget stempelkort for skin fade. Barbereren registrerer stempelet i salongen etter hver behandling, og det 10. stempelet gir deg skin fade gratis.</div><a href="#" style="font-size:14px">Les om appen og stempelkortet</a></div>
+    </div>
+  </div>
+</section>
+
+<section style="padding:72px 0;background:#17150F;border-top:1px solid #2A2724;border-bottom:1px solid #2A2724">
+  <div class="wrap" style="display:flex;flex-direction:column;gap:24px">
+    <h2 style="font-size:32px">Før og etter</h2>
+    <div style="display:grid;grid-template-columns:repeat(4, minmax(0, 1fr));gap:14px"><div class="ph" style="height:260px">Før / etter 1</div><div class="ph" style="height:260px">Før / etter 2</div><div class="ph" style="height:260px">Low fade</div><div class="ph" style="height:260px">High fade med tekstur</div></div>
+  </div>
+</section>
+
+<section style="padding:72px 0">
+  <div class="wrap" style="display:grid;grid-template-columns:minmax(0, 1fr) minmax(0, 1.6fr);gap:56px;align-items:start">
+    <div style="display:flex;flex-direction:column;gap:10px"><div class="eyebrow">Produkter</div><h2 style="font-size:36px;line-height:1.1">Hold faden skarp hjemme</h2><p class="muted" style="margin:0;font-size:15px;line-height:1.55">Det barbereren bruker i stolen, kan du ta med hjem. Alle produktene finner du i nettbutikken vår, j-kshop.no.</p><a class="btn btn-s" href="#" style="align-self:flex-start;margin-top:6px">Handle på j-kshop.no</a></div>
+    <div style="display:grid;grid-template-columns:repeat(3, minmax(0, 1fr));gap:14px">
+      <div class="card" style="padding:20px;display:flex;flex-direction:column;gap:8px"><div class="ph" style="height:120px">Pomade eller leire (Reuzel / Uppercut Deluxe)</div><div style="font-weight:600">Pomade eller leire til toppen</div><div class="muted" style="font-size:14px;line-height:1.5">Reuzel og Uppercut Deluxe for hold og tekstur. Barbereren viser deg mengde og teknikk.</div></div>
+      <div class="card" style="padding:20px;display:flex;flex-direction:column;gap:8px"><div class="ph" style="height:120px">Saltspray / styling (Jobski Cosmetics)</div><div style="font-weight:600">Lett styling og tekstur</div><div class="muted" style="font-size:14px;line-height:1.5">Jobski Cosmetics og Slickhaven for dem som vil ha naturlig hold uten glans.</div></div>
+      <div class="card" style="padding:20px;display:flex;flex-direction:column;gap:8px"><div class="ph" style="height:120px">Hud og skalp (Proraso / Davines)</div><div style="font-weight:600">Ro i huden etter faden</div><div class="muted" style="font-size:14px;line-height:1.5">Proraso og Davines til hud og skalp der maskinen har gått helt ned.</div></div>
+    </div>
+  </div>
+</section>
+
+<section style="padding:72px 0">
+  <div class="wrap" style="display:grid;grid-template-columns:minmax(0, 1fr) minmax(0, 1.6fr);gap:56px">
+    <div style="display:flex;flex-direction:column;gap:10px"><div class="eyebrow">Spørsmål og svar</div><h2 style="font-size:36px;line-height:1.1">Om skin fade</h2><p class="muted" style="margin:0;font-size:15px;line-height:1.55">Svarene ligger som FAQPage-schema, så de kan vises direkte i Google.</p></div>
+    <div style="display:flex;flex-direction:column">
+      <div style="padding:18px 0;border-top:1px solid #2A2724;display:flex;flex-direction:column;gap:10px"><div style="display:flex;justify-content:space-between;gap:16px"><span style="font-size:15px;font-weight:600">Klipper dere bare menn?</span><span style="color:#C9A45C">−</span></div><p class="muted" style="margin:0;font-size:15px;line-height:1.55;max-width:680px">Nei. Alle behandlingene på menyen er for både menn og kvinner. Vi er spesialister på kort hår, skin fade og moderne herreklipp. Bestill på vanlig måte og velg behandlingen du vil ha.</p></div>
+      <div class="row" style="font-weight:600;padding:18px 0"><span>Hva er forskjellen på skin fade og taper fade?</span><span style="color:#C9A45C">+</span></div>
+      <div class="row" style="font-weight:600;padding:18px 0"><span>Hvor ofte bør jeg ta skin fade?</span><span style="color:#C9A45C">+</span></div>
+      <div class="row" style="font-weight:600;padding:18px 0"><span>Passer skin fade til krøllete hår?</span><span style="color:#C9A45C">+</span></div>
+      <div class="row" style="font-weight:600;padding:18px 0;border-bottom:1px solid #2A2724"><span>Kan jeg kombinere med skjeggtrim i samme time?</span><span style="color:#C9A45C">+</span></div>
+    </div>
+  </div>
+</section>
+
+<section style="padding:0 0 72px">
+  <div class="wrap"><div class="card" style="padding:40px;display:flex;justify-content:space-between;align-items:center;gap:24px;flex-wrap:wrap;border-color:#C9A45C"><div><h2 style="font-size:30px">Bestill skin fade hos nærmeste avdeling</h2><p class="muted" style="margin:6px 0 0;font-size:15px">Sandvika · Ski Storsenter · Åsenveien · Kolbotn · Jessheim · Strømmen · Rykkinn</p></div><a class="btn btn-p" href="#">Velg avdeling og bestill</a></div></div>
+</section>
+
+<section style="padding:0 0 72px">
+  <div class="wrap"><div class="card" style="padding:32px 40px;display:flex;justify-content:space-between;align-items:center;gap:32px;flex-wrap:wrap;background:#1B1917"><div style="display:flex;flex-direction:column;gap:8px;max-width:760px"><div class="eyebrow" style="color:#A39A8C">Guide fra barbererne</div><h3 style="font-size:24px;line-height:1.25">Guide: Skin fade, taper fade, low, mid og high: forskjellen forklart</h3><p class="muted" style="margin:0;font-size:15px;line-height:1.55">Hva som skiller de ulike fadene, hvilken som passer hodeformen og håret ditt, og hva du skal si i stolen. Les også: <a href="#">Herreklipp for kvinner: kort hår, pixie og skin fade hos barberer</a>.</p></div><a class="btn btn-s" href="#">Les guiden</a></div></div>
+</section>
+
+<!-- Footer -->
+<footer style="padding:64px 0 40px;background:#0C0B0A;border-top:1px solid #2A2724">
+  <div class="wrap" style="display:grid;grid-template-columns:repeat(4, minmax(0, 1fr));gap:32px;font-size:14px;line-height:1.7">
+    <div style="display:flex;flex-direction:column;gap:12px"><img src="./jk-barber-logo-messing-600.png" alt="J&amp;K Barber Shop logo" style="height:120px;width:auto;display:block"><div style="font-family:Fraunces,serif;font-size:20px">J&amp;K <span style="color:#C9A45C">Barber Shop</span></div><div class="muted">Barbershop og herrefrisør siden 2018, for både menn og kvinner, i Follo, Bærum og Romerike.<br>Org.nr. 932 372 614<br>Åsenveien 3, 1400 Ski<br>Tlf 90 80 00 86 (felles for alle avdelinger)<br>post@j-kbarber.no</div></div>
+    <div class="muted"><div style="color:#F3EDE4;font-weight:600;margin-bottom:6px">Avdelinger</div>Sandvika Storsenter<br>Ski Storsenter<br>Åsenveien 3, Ski<br>Kolbotn Torg<br>Jessheim Storsenter<br>Strømmen Storsenter<br>Rykkinn Senter</div>
+    <div class="muted"><div style="color:#F3EDE4;font-weight:600;margin-bottom:6px">Tjenester</div>Herreklipp<br>Skin fade<br>Skjeggtrim<br>Knivbarbering<br>Barneklipp<br>Kombo<br>Hjemmebarbering</div>
+    <div class="muted"><div style="color:#F3EDE4;font-weight:600;margin-bottom:6px">J&amp;K</div>Appen og stempelkort<br>Gavekort<br>Produkter<br>Om oss<br>Jobb og franchise<br>Blogg<br>Personvern</div>
+  </div>
+</footer>
+
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":4700}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>

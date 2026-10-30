@@ -1,0 +1,6123 @@
+{
+ "hentet": "2026-10-30",
+ "siteId": "6063335a-f2d7-4e08-b813-4ff23ae700a0",
+ "kilde": "GET /blog/v3/draft-posts/{id}?fieldsets=RICH_CONTENT, komprimert (uten COLOR-dekorasjoner, id-er, stil og tomme avsnitt)",
+ "posts": [
+  {
+   "id": "5a48a56a-eeab-40bb-a326-a4fb84d83885",
+   "title": "Pan Drwal: Polsk barbershop-luksus for skjegg og kropp",
+   "slug": "pan-drwal-skjegg-og-kropp",
+   "excerpt": "Oppdag Pan Drwal, det polske premium-merket som har erobret barbershops over hele Europa. Fra skjeggolje og pomader til tatoveringspleie og aftershaves. Vi guider deg gjennom hele sortimentet.",
+   "language": "no",
+   "categoryIds": [
+    "32d16a59-46f5-44d7-acba-05478852e208"
+   ],
+   "firstPublishedDate": null,
+   "contentUpdated": null,
+   "seoDescription": "Utforsk Pan Drwal hos J&K Shop. Skjeggpleie, pomader, aftershaves og tatoveringspleie. Polsk håndverkskvalitet med naturlige ingredienser. Rask levering!",
+   "media": {
+    "id": "8c3e53_057b829acd0448dea28fa53f99a2a847~mv2.png",
+    "url": "https://static.wixstatic.com/media/8c3e53_057b829acd0448dea28fa53f99a2a847~mv2.png",
+    "width": 1200,
+    "height": 628,
+    "altText": null
+   },
+   "richContent": {
+    "nodes": [
+     {
+      "type": "IMAGE",
+      "imageData": {
+       "image": {
+        "src": {
+         "id": "8c3e53_057b829acd0448dea28fa53f99a2a847~mv2.png"
+        },
+        "width": 1200,
+        "height": 628
+       }
+      },
+      "nodes": []
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hvem er Pan Drwal?",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pan Drwal (polsk for \"Herr Tømmerhugger\") er et polsk grooming-merke som har bygget seg et sterkt navn i barbershop-verdenen over hele Europa. Merket startet med skjeggpleie, men har vokst til å dekke alt fra hårstyling og barbering til hudpleie og tatoveringspleie. Filosofien er enkel: naturlige ingredienser, maskuline dufter og produkter som faktisk leverer.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hos J&K Shop fører vi et bredt utvalg av Pan Drwal, og i dette innlegget guider vi deg gjennom hele sortimentet, slik at du finner de produktene som passer for akkurat dine behov.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Skjeggpleie: Der Pan Drwal startet",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Skjegg er kjernen i Pan Drwal. Merket tilbyr et komplett system for skjeggpleie, fra olje til lotion, i to ulike duftlinjer.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Original-linjen (sandeltre og sedertre)",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Den klassiske duftprofilen som minner om 70-tallets maskuline kosmetikk. Varm, treaktig og tidløs.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pan Drwal Skjegglotion",
+         "decorations": [
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/products/pan-drwal-skjegglotion-ikke-fettete",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " er laget på grunnlag av vegetabilske proteiner beriket med arganoljer og jojoba. Den inneholder 95,1% naturlige ingredienser, gjør skjegget mykt, holder huden hydrert, og absorberes raskt uten å føles fettete.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Vil du ha hele pakken? ",
+         "decorations": []
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pan Drwal Original Grooming Skjeggsett",
+         "decorations": [
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/products/pan-drwal-grooming-skjeggsett",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " inneholder skjeggolje, skjeggbalsam og skjegglotion i en stilig treboks. En perfekt gave (eller selvgave) for skjeggete menn. En av våre kunder skriver: \"Utrolig fornøyd! Produkter gjør det den sier, og lukten er himmelsk!\"",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Premium-linjen (sitrus, patchouli, sort pepper og kardemomme)",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "For deg som foretrekker en mer moderne, krydret duftprofil.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pan Drwal Premium Skjegglotion",
+         "decorations": [
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/products/premium-skjegglotion-ikke-fettete",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " er basert på hveteproteiner med argan- og jojobaolje. Den nærer, gir fuktighet, styrker hårrøttene og forbedrer skjeggvolumet. En kunde skriver: \"Full pott!!! Vidunderlig lukt som sitter leeeenge!\"",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hårstyling: Pomader, krem og pudder",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pan Drwal har et imponerende utvalg stylingprodukter, hver med sin egen personlighet og holdnivå.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pomader med karakter",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pan Drwal Breva \"The Tempest\"",
+         "decorations": [
+          {
+           "type": "BOLD"
+          },
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/collections/pan-drwal",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " er den vannbaserte pomaden med sterkt hold. Perfekt for klassiske, strukturerte frisyrer som slicked back eller side part. Lett å vaske ut, og gir hele dagen hold.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pan Drwal Aspre \"The Whirlwind\"",
+         "decorations": [
+          {
+           "type": "BOLD"
+          },
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/products/pan-drwal-hair-pomade-aspre-the-whirlwind-travel",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " er søstermodellen med medium hold. For deg som vil ha kontroll uten at frisyren føles rigid. Mer naturlig bevegelse og en lettere finish.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pan Drwal Steam Punk Pomade",
+         "decorations": [
+          {
+           "type": "BOLD"
+          },
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/products/steam-punk-harpomade",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " skiller seg ut med sitt unike steampunk-inspirerte design. En solid pomade med god hold og en maskulin duftprofil.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "For naturlig, matt stil",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pan Drwal Butter Cream Matte Finish",
+         "decorations": [
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/products/pan-drwal-butter-cream-matte-finish",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " er en lett, vannbasert stylingkrem som gir håret tekstur og struktur uten glans. Perfekt for en uanstrengt, \"just woke up like this\"-frisyre. Beriket med planteekstrakter som pleier hodebunnen, og enkel å vaske ut.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "For instant volum",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pan Drwal Butter Dust",
+         "decorations": [
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/collections/pan-drwal",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " er et hårstylingpudder som gir dramatisk volum og tekstur med matt finish. Dryss litt ved røttene, jobb inn med fingrene, og du har instant løft uten tyngde.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Bulleit Bourbon-samarbeidet",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pan Drwal har et unikt samarbeid med Bulleit Bourbon whisky. ",
+         "decorations": []
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Bulleit Bourbon Beard Oil",
+         "decorations": [
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/collections/pan-drwal",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " er en skjeggolje med en distinkt duft inspirert av whisky, med noter av karamell, appelsin, pepper og paprika. Et must for whisky-entusiasten med skjegg.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Barbering: Aftershaves for enhver smak",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pan Drwal har et imponerende utvalg aftershaves, hver med sin unike duftprofil og hudpleiende egenskaper.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Butter Splash Aftershave",
+         "decorations": [
+          {
+           "type": "BOLD"
+          },
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/products/pan-drwal-butter-splash-aftershave",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": ":",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Alkoholbasert med tre- og sitrusduft. Beriket med melketistel- og tulasiekstrakt. Desinfiserer og beroliger huden.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Cologne Aftershave",
+         "decorations": [
+          {
+           "type": "BOLD"
+          },
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/products/pan-drwal-cologne-aftershave",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": ":",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Vintage-inspirert design med en klassisk duft av sitrus, bergamot, rosmarin og rosa pepper. Inneholder alger, melketistel og asiatisk basilikum.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Ferajna Bay Rum Aftershave",
+         "decorations": [
+          {
+           "type": "BOLD"
+          },
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/products/pan-drwal-ferajna-bay-rum-aftershave",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": ":",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Den tidløse Bay Rum-duften med undertoner av rom og nellik. Klassisk barbershop-stemning.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Steam Punk Aftershave",
+         "decorations": [
+          {
+           "type": "BOLD"
+          },
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/products/steam-punk-aftershave",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": ":",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Frisk, subtil og energisk. Beroliger huden og gir en myk, hydrert finish.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Docent Aftershave Lotion",
+         "decorations": [
+          {
+           "type": "BOLD"
+          },
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/products/pan-drwal-docent-aftershave-lotion",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": ":",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Spesielt utviklet for sensitiv hud. Alkoholfri, vannbasert formel med algeekstrakter og jojobaolje. Dufter av agarwood (oud) og sedertre.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Tatoveringspleie: Inker-linjen",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pan Drwal har utvidet til tatoveringspleie med sin Inker-linje. ",
+         "decorations": []
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pan Drwal Inker Tattoo Butter",
+         "decorations": [
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/products/pan-drwal-inker-tattoo-butter",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " er en 100% vegansk tattoo-butter som pleier og beskytter tatoveringer, både nye og gamle. En kunde skriver: \"Den beste jeg har brukt til healing, og den gir en kjempe fin boost på gamle tattoo, de ser nesten helt nye ut!\"",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Mer enn bare grooming",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pan Drwal tilbyr også livsstilsprodukter som ",
+         "decorations": []
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pan Drwal Original Air Freshener",
+         "decorations": [
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/products/pan-drwal-original-air-freshener",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": ", en bilduft med den samme maskuline, sofistikerte duften som kjennetegner merket.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hvem passer Pan Drwal for?",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pan Drwal er for mannen som tar grooming seriøst, men som også setter pris på autentisitet og håndverkskvalitet. Her er noen anbefalinger basert på behov:",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Skjegg-nybegynner:",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Start med Grooming Skjeggsettet (olje + balsam + lotion i treboks)",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pomade-entusiast:",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Breva for sterkt hold, Aspre for medium hold",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Naturlig stil-fan:",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Butter Cream for matt krem + Butter Dust for volum",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Sensitiv hud etter barbering:",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Docent Aftershave Lotion (alkoholfri)",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Tatoverte menn:",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Inker Tattoo Butter for pleie og fargeoppliving",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Whisky-elskeren:",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Bulleit Bourbon Beard Oil (unik gave!)",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "👉 ",
+         "decorations": []
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Utforsk hele Pan Drwal-sortimentet hos J&K Shop",
+         "decorations": [
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/collections/pan-drwal",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "👉 ",
+         "decorations": []
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Se alle skjeggprodukter",
+         "decorations": [
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/collections/skjegg",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "👉 ",
+         "decorations": []
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Se alle barberprodukter",
+         "decorations": [
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/collections/barberprodukter",
+             "target": "BLANK"
+            }
+           }
+          },
+          {
+           "type": "UNDERLINE"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Usikker på hvilke Pan Drwal-produkter som passer for deg? Send oss en melding, vi hjelper deg gjerne!",
+         "decorations": [
+          {
+           "type": "ITALIC"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "2cc4b4a9-e139-4518-8fba-51c4b96fd09c",
+   "title": "Er du lei av konstant flass og irritert hodebunn? Det er på tide å ta kontroll med Davines hårprodukter. Les vår omfattende blogg for de beste tipsene og produktene som ikke bare bekjemper flass.",
+   "slug": "flass-davines-harprodukter",
+   "excerpt": "Flass er en vanlig hodebunnsplage som mange sliter med, og det kan være både irriterende og flaut. Heldigvis finnes det produkter som...",
+   "language": "no",
+   "categoryIds": [
+    "32d16a59-46f5-44d7-acba-05478852e208"
+   ],
+   "firstPublishedDate": null,
+   "contentUpdated": "2024-04-15T17:19:42.296Z",
+   "seoDescription": "Oppdag hvordan du kan behandle flass naturlig og effektivt med Davines. Vår nyeste blogg går i dybden på de beste Davines-produktene for å bekjempe flass og gir deg trinnvise instruksjoner for å gjenopprette hodebunnens helse.",
+   "media": {
+    "id": "8c3e53_7fe1a96e151c471bb300dd60a8c2d4a7~mv2.png",
+    "url": "https://static.wixstatic.com/media/8c3e53_7fe1a96e151c471bb300dd60a8c2d4a7~mv2.png",
+    "width": 959,
+    "height": 639,
+    "altText": null
+   },
+   "richContent": {
+    "nodes": [
+     {
+      "type": "IMAGE",
+      "imageData": {
+       "image": {
+        "src": {
+         "id": "8c3e53_7fe1a96e151c471bb300dd60a8c2d4a7~mv2.png"
+        },
+        "width": 959,
+        "height": 639
+       },
+       "altText": "Er du lei av konstant flass og irritert hodebunn?",
+       "caption": "Er du lei av konstant flass og irritert hodebunn?"
+      },
+      "nodes": []
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Flass er en vanlig hodebunnsplage som mange sliter med, og det kan være både irriterende og flaut. Heldigvis finnes det produkter som ikke bare behandler flass, men også tar vare på hår og hodebunn. Davines, kjent for sine bærekraftige og naturlige hårpleieprodukter, tilbyr flere løsninger for å bekjempe flass. I denne bloggen vil vi utforske hvordan du kan bruke Davines-produkter fra ",
+         "decorations": []
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "J&K Shop",
+         "decorations": [
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "https://j-kshop.no/collections/davines",
+             "target": "BLANK"
+            }
+           }
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " for å behandle flass effektivt.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 4
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Årsaker til Flass",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Før vi dykker inn i behandlingene, la oss kort forstå hva som forårsaker flass. Flass kan skyldes flere faktorer, inkludert tørr hodebunn, seboreisk dermatitt, eczema, eller til og med en sopp kalt Malassezia. Disse tilstandene fører til at små flak av død hud skilles fra hodebunnen, noe som blir synlig i håret og på klær.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 4
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Trinn 1: Velg riktig shampoo",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "En effektiv behandling av flass begynner med riktig shampoo. Davines tilbyr flere shampoer som er spesialutviklet for å bekjempe hodebunnsproblemer, inkludert flass:",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "BULLETED_LIST",
+      "nodes": [
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Davines Purifying Shampoo",
+             "decorations": [
+              {
+               "type": "BOLD"
+              },
+              {
+               "type": "LINK",
+               "linkData": {
+                "link": {
+                 "url": "https://j-kshop.no/collections/davines",
+                 "target": "BLANK"
+                }
+               }
+              }
+             ]
+            },
+            "nodes": []
+           },
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": ": Denne shampooen er ideell for hodebunn med tørr eller fettete flass. Den inneholder anti-fungal ingredienser som bekjemper Malassezia-soppen, årsaken til mange flassproblemer. Shampooen renser dypt og fjerner oppbygging av døde hudceller.",
+             "decorations": []
+            },
+            "nodes": []
+           },
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "\n",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 4
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Trinn 2: Tilfør fuktighet og pleie",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Etter shampooing, er det viktig å tilføre hodebunnen fuktighet for å forhindre ny flass:",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "BULLETED_LIST",
+      "nodes": [
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Davines Melu Conditioner",
+             "decorations": [
+              {
+               "type": "BOLD"
+              },
+              {
+               "type": "LINK",
+               "linkData": {
+                "link": {
+                 "url": "https://j-kshop.no/collections/davines",
+                 "target": "BLANK"
+                }
+               }
+              }
+             ]
+            },
+            "nodes": []
+           },
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": ": Selv om det primært er en conditioner for langt og skadet hår, kan Melu Conditioner hjelpe til med å mykgjøre hodebunnen og redusere irritasjon, noe som kan minke flassdannelse.",
+             "decorations": []
+            },
+            "nodes": []
+           },
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "\n",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 4
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Trinn 3: Spesialbehandlinger",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "For intensiv behandling, kan du vurdere en spesialbehandling en gang i uken:",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "BULLETED_LIST",
+      "nodes": [
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Davines Detoxifying Mud",
+             "decorations": [
+              {
+               "type": "BOLD"
+              },
+              {
+               "type": "LINK",
+               "linkData": {
+                "link": {
+                 "url": "https://j-kshop.no/collections/davines",
+                 "target": "BLANK"
+                }
+               }
+              }
+             ]
+            },
+            "nodes": []
+           },
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": ": Denne leiremasken er formulert for å detoxe hodebunnen, fjerne giftstoffer og forbedre hodebunnens generelle helse. Regelmessig bruk kan hjelpe til med å redusere synligheten av flass.",
+             "decorations": []
+            },
+            "nodes": []
+           },
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "\n",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 4
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Trinn 4: Daglig vedlikehold og tips",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Å holde hodebunnen sunn er nøkkelen til å forebygge flass:",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "BULLETED_LIST",
+      "nodes": [
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Unngå aggressive stylingprodukter",
+             "decorations": [
+              {
+               "type": "BOLD"
+              }
+             ]
+            },
+            "nodes": []
+           },
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": ": Stylingprodukter kan bygge seg opp i hodebunnen og forverre flass. Velg naturlige og lette produkter fra Davines sitt sortiment på ",
+             "decorations": []
+            },
+            "nodes": []
+           },
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "J&K Shop",
+             "decorations": [
+              {
+               "type": "LINK",
+               "linkData": {
+                "link": {
+                 "url": "https://j-kshop.no/collections/davines",
+                 "target": "BLANK"
+                }
+               }
+              }
+             ]
+            },
+            "nodes": []
+           },
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": " for å minimere oppbygging.",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Kosthold og helse",
+             "decorations": [
+              {
+               "type": "BOLD"
+              }
+             ]
+            },
+            "nodes": []
+           },
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": ": Et godt kosthold rikt på vitaminer og mineraler støtter hodebunnens helse. Omega-3-fettsyrer, zink, og B-vitaminer er spesielt viktige.",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 4
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Konklusjon",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Ved å integrere Davines produkter i din daglige hårpleierutine, kan du ikke bare bekjempe eksisterende flass, men også forebygge fremtidige utbrudd. Husk at konsistens er nøkkelen; regelmessig pleie og riktig produktvalg vil gjøre underverker for din hodebunnshelse. Hvis problemet vedvarer, anbefales det å konsultere med en dermatolog for en tilpasset behandling.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Med Davines' engasjement for naturlig og bærekraftig hårpleie, kan du ta vare på både hodebunn og",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "739a8bad-14d6-47bd-8ba9-9f3ec61f8dc5",
+   "title": "HVOR OFTE BØR JEG BESØKE FRISØREN MIN?",
+   "slug": "hvor-ofte-bor-jeg-besoke-frisoren-min",
+   "excerpt": "En ekte herre har alltid et feilfritt bilde, med et veldefinert hårklipp og et pent og trimmet skjegg. Men hvordan oppnås dette? ",
+   "language": "no",
+   "categoryIds": [
+    "44a07fa6-496b-4899-abd2-509934166426"
+   ],
+   "firstPublishedDate": null,
+   "contentUpdated": "2024-05-14T10:31:35.161Z",
+   "seoDescription": null,
+   "media": {
+    "id": "11062b_028cd9814a1e4fee83db27826f3d08d0~mv2.jpg",
+    "url": "https://static.wixstatic.com/media/11062b_028cd9814a1e4fee83db27826f3d08d0~mv2.jpg",
+    "width": 6000,
+    "height": 4000,
+    "altText": null
+   },
+   "richContent": {
+    "nodes": [
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "En ekte herre har alltid et feilfritt bilde, med et veldefinert hårklipp og et pent og trimmet skjegg. Men hvordan oppnås dette? Enkelt, gå ofte til din frisør.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Et veldig vanlig spørsmål som kundene stiller oss, er hvor ofte de skal besøke oss. Svaret varierer og avhenger av hvilken type hår du har, tjeneste du leter etter og hvordan du ønsker at ditt hår og/eller skjegg skal se ut.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "HÅRKLIPP",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hvis det er for hårklipp, er forslaget hver 20. dag for middels stiler.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hvis stilen din er kort, anbefales et besøk hver 15. dag, og med kort stil mener vi Skin-Fade.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "SKJEGGTRIMMING",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hvis besøket ditt er for skjeggpleie anbefales det å gjøre det hver 8. eller 15. dag. Ettersom ansiktshår vokser raskt og noen ganger ser det ut til å leve sitt eget liv er det viktig å holde det i sjakk. Hvis det er for en komplett barbering, kan du la det vokse så lenge du vil før du barberer det helt ned. Det anbefales likevel å komme innom for skjeggtrimming. ",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Husk at \"å spare skjegget ditt\" ikke betyr at du skal la det vokse av egen fri vilje: Det å oppnå et velstelt og sunt skjegg krever omsorg, gode produkter og hjelp fra en profesjonell frisørsalong: Til dette kan du stole på oss, enten ved å gå til en filialene våre eller ved å handle kvalitetsprodukter i vår nettbutikk.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "81581b36-c863-41e2-af5d-0d4e1c3be24c",
+   "title": "HVA ER FORDELENE MED Å GÅ TIL EN BARBERER?",
+   "slug": "fordelene-med-a-ga-til-barberer",
+   "excerpt": "Fordelene med å gå til en barberer er mange, men av dem så kan vi nevne: Profesjonalitet, Lær av personalet vårt, Spare tid, Atomsfære ",
+   "language": "no",
+   "categoryIds": [
+    "48b6f084-4c8c-4754-8363-7bdfafd41c29"
+   ],
+   "firstPublishedDate": null,
+   "contentUpdated": "2024-06-08T02:10:58.008Z",
+   "seoDescription": null,
+   "media": {
+    "id": "8c3e53_f24e10ef4b2b42cdb189f607b7d7e5cc~mv2.jpg",
+    "url": "https://static.wixstatic.com/media/8c3e53_f24e10ef4b2b42cdb189f607b7d7e5cc~mv2.jpg",
+    "width": 1080,
+    "height": 1350,
+    "altText": null
+   },
+   "richContent": {
+    "nodes": [
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "1. PROFESJONALITET",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Det første viktige punktet er profesjonaliteten til våre frisører, siden vi har eksperter på den klassiske barber kunsten som garanterer at du får det snittet du har i tankene. ",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Det er verdt å nevne at de i tillegg har et helt arsenal av \"stell\" og \"barberings\" verktøy, samt produkter som vil hjelpe huden, håret, skjegget og barten til å se velstelt og strålende ut.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "2. LÆR AV PERSONALET VÅRT",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hos J&K Barber Shop er vi veldig klare på at hvert hode er en verden og at alle våre kunder er forskjellige, så våre ansatte vet hvordan de skal tilpasse seg personligheten til hver enkelt, og dette gjenspeiles i deres arbeid og gjennom hele prosessen.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "De kan være så stille eller pratsomme som kundene foretrekker. De kan klippe og barbere snitt i tråd med tradisjonelle former eller komme med kontinuerlige forslag for å oppnå unike stiler, som passer med ansiktsformen og typen hår eller skjegg til en hver person.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "3. SPAR TID",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Avtalesystemet vårt gjør at kundene våre enkelt kan bestille time i løpet av få minutter og raskt blir tatt hånd om når timen starter.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "4. ATMOSFÆRE",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hos J&K Barber Shop har våre kunder et sted hvor hårklipping og barbering blir en terapi blant venner som er avslappende og behagelig. ",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Mange av dem forteller oss at dette er stedet de trenger for å føle seg komfortable når de klipper håret og fikser skjegget. Vi viderefører kunsten fra de gamle frisørsalongene for menn og opplevelsen de ga. Samtidig har vi tatt i bruk det vår tids teknologi. Denne kombinasjonen av tradisjoner og nyskapning gjør at vi kan tilbyr tjenester av høy kvalitet, med høyt fokus på hygiene og komfort.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "b7c0ccee-55d1-44af-ad5d-fa07c3d74b6f",
+   "title": "Hvordan ta godt vare på skjegget",
+   "slug": "ta-vare-pa-skjegget",
+   "excerpt": "Skjegg er fasjonabelt, men ikke om det ikke er stelt. Skjegg må være rent og ordnet. Selv om det ikke krever kompleks pleie....",
+   "language": "no",
+   "categoryIds": [
+    "5a51bf08-3998-4727-8671-bb09a3b15a12"
+   ],
+   "firstPublishedDate": null,
+   "contentUpdated": "2024-06-11T03:45:40.275Z",
+   "seoDescription": null,
+   "media": {
+    "id": "8c3e53_97c44b8343864601a73b381bc13b2db9~mv2.jpg",
+    "url": "https://static.wixstatic.com/media/8c3e53_97c44b8343864601a73b381bc13b2db9~mv2.jpg",
+    "width": 1024,
+    "height": 683,
+    "altText": null
+   },
+   "richContent": {
+    "nodes": [
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Skjegg er fasjonabelt, men ikke om det ikke er stelt. Skjegg må være rent og ordnet. Selv om det ikke krever kompleks pleie, krever det spesifikke produkter. Husk på at håret i skjegget har andre egenskaper enn håret på hode og trenger derfor andre produkter, behandlinger og oppmerksomhet.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "I dusjen er det lurt å bruke en bestemt sjampo for skjegg som skummer ekstra godt. Når du er ute av dusjen er det best å tørke det med håndkle eller hårføner hvis det er et langt skjegg. Deretter bør du benytte et serum, som vil gi glans og mykhet.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "De forskjellige serumene har nærende egenskaper for huden og ikke bare for skjegget, i motsetning til oljene. Derfor anbefaler vi ofte serum fremfor olje, avhengig av ditt skjegg og dine behov.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Når serumet er påført, grer du skjegget godt, slik at produktet fordeles jevnt, ideelt med en skjeggbørste.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Til slutt kan du bruke et stylingsprodukt, kjent som Beard Balm, som vil gi fiksering. Spesielt er dette anbefalt for skjegg med en viss lengde som du ønsker å holde velstelt igjennom hele dagen.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hvis du følger disse trinnene vil du ha et skjegg andre vil misunne, men husk at uansett hvordan skjegget ditt er eller hvor godt du tar vare på det er det best å gå innom din frisør med jevne mellomrom for å fikse det.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "7c6e51e9-b92a-405d-ab60-1a9353d00cc0",
+   "title": "TIPS FOR ALLE HÅRTYPER PLEIE",
+   "slug": "pleietips-for-alle-hartyper",
+   "excerpt": "Hvert hår er unikt og trenger spesiell pleie, sjampoen har en rensende funksjon, men det er spesifikke sjampoer for å behandle flass, dermat",
+   "language": "no",
+   "categoryIds": [
+    "ca65403d-510a-4f3e-8f4f-41debc40ed22"
+   ],
+   "firstPublishedDate": null,
+   "contentUpdated": "2024-06-11T14:15:05.999Z",
+   "seoDescription": null,
+   "media": {
+    "id": "4eb7255f066a4d91aefa0f11a07b3ba5.jpg",
+    "url": "https://static.wixstatic.com/media/4eb7255f066a4d91aefa0f11a07b3ba5.jpg",
+    "width": 5616,
+    "height": 3744,
+    "altText": null
+   },
+   "richContent": {
+    "nodes": [
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hvert hår er unikt og trenger spesiell pleie, sjampoen har en rensende funksjon, men det er spesifikke sjampoer for å behandle flass, dermatitt, seborrhea, fett, etc.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Vet du hvilken sjampo som er best for deg?",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Flass",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Flass er død hud fra hodebunnen, som kan komme av forskjellige årsaker, for eksempel stress, hormonelle ubalanser, seboreisk dermatitt eller andre. For denne typen hår, bør en bruke produkter som er basert på naturlige ekstrakter med dekongestant, rensende effekter anbefales og også bruk av balsam.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Fint og sprøtt hår",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Denne typen hår er vanligvis skjør og sårbar og trenger derfor spesiell omsorg. Derfor er det nødvendig å bruke sjampo som gir den volum, ekstra myke sjampoer som ikke inneholder sulfater eller i hvert fall minst mulig.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Fett hår",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hår med overflødig olje har en tendens til å bli lett skittent og derfor trenger det hyppig rengjøring. Den ideelle sjampoen for slikt hår bør inneholde en regulert pH som renser dypt, men uten å irritere hodebunnen",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Tørt og skadet hår",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Denne typen hår får et kjedelig og rart utseende. På grunn av mangel på fuktighet og næring, bør sjampoen i disse tilfellene bidra til å fylle sprekker som er forårsaket av tørrhet og gi glans. For alle typer av slikt hår anbefales det å benytte en spesifikk sjampo for hår typen som er mild. Det anbefales også å massere forsiktig når du vasker håret, massasjene hjelper på blodsirkulasjonen i hodebunnen og øker oksygenet til cellene.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "05b0e648-6501-4ed3-b083-2d5fadedc54d",
+   "title": "Hvorfor vises flass på skjegget mitt?",
+   "slug": "flass-i-skjegget",
+   "excerpt": "Flass i skjegget kan skyldes flere årsaker, disse kan være: Stess, for lite søvn, Dårlig kosthold, kulden, Sopp",
+   "language": "no",
+   "categoryIds": [
+    "5a51bf08-3998-4727-8671-bb09a3b15a12"
+   ],
+   "firstPublishedDate": null,
+   "contentUpdated": "2024-05-16T10:10:48.316Z",
+   "seoDescription": null,
+   "media": {
+    "id": "d50cc81eee884fb0b7e19de5bea66ac7.jpg",
+    "url": "https://static.wixstatic.com/media/d50cc81eee884fb0b7e19de5bea66ac7.jpg",
+    "width": 1920,
+    "height": 750,
+    "altText": null
+   },
+   "richContent": {
+    "nodes": [
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Flass i skjegget kan skyldes flere årsaker, disse kan være:",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "• ",
+         "decorations": []
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Stress",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": ": arbeid, familie, liten egen tid i hverdagen. Mange menn blir påvirket av å ikke nå over alt og det gjenspeiles i skjegget vårt. Det er bevist i flere medisinske studier at stress gir endringer i kjertlene våre, noe som påvirker utseendet og flass i skjegget",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "• ",
+         "decorations": []
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "For lite søvn",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": ": En voksen person må sove mellom 7 og 8 timer for å se sunn ut og være full av energi.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "• ",
+         "decorations": []
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Dårlig kosthold",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": ": Hvis favorittmaten din er hamburger med poteter 3 ganger i uken, kan dette skape problemer for hårvekst og helse generelt. Kroppen bør ha et sunt og variert kosthold. Ønsker du å vise frem et friskt og vakkert skjegg må du få i deg nok grønnsaker og fiber",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "• ",
+         "decorations": []
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Kulden",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": ": I vintermånedene oppstår fall fra både hodebunnen og skjegget lettere, da huden er tørrere og mindre hydrert. Derfor er spesielt viktig i de kaldeste månedene av året å legge til fuktighetskrem i din daglige ansiktspleie.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "• ",
+         "decorations": []
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Sopp",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": ": Dermis produserer en gjær som heter Malassezia Fufurr. Hvis du produserer for mye av denne gjæren, øker den mengden frie fettsyrer i skjegget som igjen forårsaker kløe som blir til død hud eller flass. Spør om råd hos din foretrukne herre frisør/barberer med tanke på å behandle sopp. Med en god behandling så forsvinner problemet!",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hvordan fjerne flass i skjegget?",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Det første er å være tålmodig og ikke ville barbere seg hver gang vi ser flass dukke opp igjen. Selv om dette eliminerer alt flass og huden vår blir balansert igjen.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "1. Eksfolier skjegget:",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " For å eliminere flass i skjegget er en god peeling det første en bør bruke. vi anbefaler deg at du gjør dette før du vasker skjegget. Dette trinnet vil hjelpe deg med å eliminere hud og dødt hår og etterlate et mer formbart skjegg før vask.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Husk å børste skjegget hver dag, bruk en spesiell skjeggbørste som er tilpasset for å gi best pleie av skjegg hår.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "2. Skjeggsjampo",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": ": Glem hårsjampo, hvis du vil vise frem et supert skjegg og ikke et vanlig skjegg, er det første du må gjøre å kjøpe en spesifikk skjeggsjampo, som vil være mildere for skjegget og unngå aggressiviteten til de spesifikke for håret. I hårbunnen har kroppen mer naturlige oljer, så ved bruk av en vanlig hårsjampo til skjegget kan du risikere å tørke det ut. ",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "For å vaske skjegget godt, la skjeggsjampoen virke i omtrent to minutter, og deretter skyll det grundig for ikke å etterlate spor av såpe. Vi anbefaler at du vasker skjegget 2 eller 3 ganger i uken, eventuelt annenhver dag.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "3. Skjeggolje:",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Når skjegget er rent og tørt eller lett vått må du hydrere det. Det er mange spesifikke oljer for skjegget, ikke bruk fuktighetskremer fordi de kan være mindre gunstige for skjegget. For å påføre oljen på riktig måte, bør du starte med to eller tre dråper og spre fra skjeggspissene til huden, spesielt i de bakre delene av skjegget, der det er størst tørrhet og flass. ",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "d5283fcd-fe8d-46c8-a870-35a30f62255d",
+   "title": "REUZEL, DET BESTE ALTERNATIVET FOR HÅRVOKS",
+   "slug": "reuzel-harvoks-og-pomade",
+   "excerpt": "Et av de mest brukte produktene for å gi fiksering og ha en perfekt frisyre er hårvoks. Vi gir deg noen alternativer som vil gi deg et annet",
+   "language": "no",
+   "categoryIds": [
+    "32d16a59-46f5-44d7-acba-05478852e208"
+   ],
+   "firstPublishedDate": null,
+   "contentUpdated": "2024-05-15T02:25:17.046Z",
+   "seoDescription": null,
+   "media": {
+    "id": "8c3e53_364aa900a90943fa9dc8453dabe0de0c~mv2.jpg",
+    "url": "https://static.wixstatic.com/media/8c3e53_364aa900a90943fa9dc8453dabe0de0c~mv2.jpg",
+    "width": 697,
+    "height": 386,
+    "altText": null
+   },
+   "richContent": {
+    "nodes": [
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Et av de mest brukte produktene for å gi fiksering og ha en perfekt frisyre er hårvoks. Vi gir deg noen alternativer som vil gi deg et annet synspunkt.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "En av de mange fordelene med å jobbe i en frisørsalong er at den lar deg prøve alle slags produkter for alle hårtyper og også se resultatene.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "For en tid siden begynte vi å bruke Reuzel pomades, da de har et stort utvalg produkter for alle typer frisyrer, og de slutter aldri å forbløffe oss med resultatene.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "For å vite hvilket produkt som skal brukes til enhver tid, kommer vi til å fokusere på fem egenskaper. Disse egenskapene er effekten, hold, formuleringen, mengden og typen hår.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "På den ene siden kan du med disse produktene oppnå en våt effekt som ligner på tradisjonelle geleer, en matt effekt lik hårvoks, eller en glanseffekt med for eksempel tradisjonelle pomader.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Når det gjelder fiksering, kan de differensieres i to store grupper: middels fiksering, som gir et veldig naturlig utseende, som om du ikke har brukt noe produkt, eller høy fiksering, for de typer frisyrer som trenger mer fasthet.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Formuleringen er viktig. Vannbaserte pomader har to hovedfordeler, de er enkle å fjerne med en vanlig sjampo og de reaktiveres med vann, så det kan styles på nytt ved å dampe håret litt. Fettbaserte pomader derimot, trenger en bestemt sjampo for å fjerne alle rester fra håret, til gjengjeld er de perfekte for ekstreme frisyrer som krever mer fasthet.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Til slutt er det to egenskaper som ikke utgjør så stor forskjell mellom produktene. Noen er rett og slett mer anbefalt for en hårlengde og hårtype enn andre.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Når vi vet hvilke aspekter vi skal ta hensyn til når vi velger produkt, må vi se egenskapene til hver av dem.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Husk at du også kan kjøpe disse produktene i vår nettbutikk. Vi gir deg også en video der vi forklarer alle produktene.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "REUZEL FIBER",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "\n• Matt effekt\n• Middels hold\n• Vannbasert\n• Kort hår\n• Type fint og middels hår",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "REUZEL CLAY",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "\n• Matt effekt\n• Høy fiksering\n• Vannbasert\n• Langt hår\n• Middels og tykk hårtype",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "RØD POMADE FRA REUZEL",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "\n• Våt effekt\n• Middels hold\n• Vannbasert\n• Kort hår\n• Type fint og middels hår",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "BLÅ POMADE FRA REUZEL",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "\n• Våt effekt\n• Høy fiksering\n• Vannbasert\n• Langt hår\n• Middels og tykk hårtype",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "GRØNN REUZEL SALVE",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "\n• Glanseffekt\n• Høy fiksering\n• Fet base\n• Middels hår\n• Type fint og middels hår",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "ROSA POMADE FRA REUZEL",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "\n• Glanseffekt\n• Svært høy fiksering\n• Fet base\n• Langt hår\n• Middels og tykk hårtype",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Avslutningsvis, takket være hele dette produktspekteret kan vi oppnå alle typer frisyrer på en enkel måte og produktene er lett å fjerne slik at de ikke sliter på håret unødvendig.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "e4391e15-c858-428d-956f-38f1ea73312d",
+   "title": "SKJEGGOLJE, HVORDAN BRUKE DET?",
+   "slug": "skjeggolje-slik-bruker-du-den",
+   "excerpt": "Hvis du vil ha et velstelt og hydrert skjegg, er skjeggolje et grunnprodukt du ikke kan gå glipp av. Det er en spesifikk olje med et spesiel",
+   "language": "no",
+   "categoryIds": [
+    "5a51bf08-3998-4727-8671-bb09a3b15a12"
+   ],
+   "firstPublishedDate": null,
+   "contentUpdated": "2024-06-08T02:10:58.029Z",
+   "seoDescription": null,
+   "media": {
+    "id": "11062b_20bda291aa07483085d490cab76a4dbb~mv2.jpg",
+    "url": "https://static.wixstatic.com/media/11062b_20bda291aa07483085d490cab76a4dbb~mv2.jpg",
+    "width": 6607,
+    "height": 4404,
+    "altText": null
+   },
+   "richContent": {
+    "nodes": [
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hvis du vil ha et velstelt og hydrert skjegg, er skjeggolje et grunnprodukt du ikke kan gå glipp av. Det er en spesifikk olje med et spesielt formål for å fukte både skjegget og huden i ansiktet.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Du ønsker ikke å vise frem et flott skjegg, dersom du har kløe, tørrhet og flass. For å unngå alt eller noe av dette er det enkleste å beste å bruke en velfungerende skjeggolje.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "IMAGE",
+      "imageData": {
+       "image": {
+        "src": {
+         "id": "11062b_20bda291aa07483085d490cab76a4dbb~mv2.jpg"
+        },
+        "width": 6607,
+        "height": 4404
+       },
+       "altText": "Skjeggolje J&K Barber Shop",
+       "caption": "Skjeggolje "
+      },
+      "nodes": []
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "HVA ER SKJEGGOLJE LAGET AV?",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Det finnes forskjellige typer skjeggolje på markedet, 100% naturlige oljer, syntetiske og blandede oljer. Vi anbefaler de som er 100% naturlige og slik at du unngår å tilsette kjemikalier i skjegget ditt.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Skjeggoljer består av en basis olje og essensielle oljer.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Basis oljen kan for eksempel være av ricinus, argan, jojoba eller kokos. Hver og en har sine egenskaper og fordeler. For eksempel er ricinus bønnen tettere enn argan og gir en liten fiksering til oljen. Kokosolje, selv om den fungerer veldig bra, har det i kalde miljøer en tendens til å størkne, og du må bruke varme før du bruker den.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "På den annen side har vi eteriske oljer. Disse oljene har en meget høy renhet og gir både aroma og antiseptiske, antiinflammatoriske eller soppdrepende egenskaper.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Som hovedregel har de fleste av oss et sunt skjegg og hud, så vi vil bli styrt mer av aromaen vi liker, i stedet for egenskapene til de forskjellige essensielle oljer. I tilfelle vi har hudproblemer utover vanlig flassing eller tørrhet, anbefaler vi å gå til en hudlege for å finne ut hvilken behandling du bør ha.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "I vårt tilfelle har vi vårt eget merke med skjeggoljer, produsert i et 100% naturlig produkt laboratorium. Oljen vår er basert på argan og ricinus, slik at den kan spre seg godt på hender og skjegg, og samtidig legge til en liten fiksering i skjegget vårt. Vi har også forskjellige dufter, med en rekke essensielle oljer som gir en veldig karakteristisk aroma.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "HVOR MYE OLJE BØR JEG BRUKE?",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Mengden olje avhenger av flere faktorer, for eksempel lengden på skjegget, tettheten og type hår du har. Har du et lengre, men mindre tett skjegg, eller kortere og tykkere, eller veldig krøllete.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Generelt, for langt veldig krøllete eller veldig tykt skjegg, trenger vi fire-fem dråper. Dersom skjegget er kortere eller med mindre tett, reduserer vi mengden olje.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Huske på at skjegget er som en svamp, det kommer en tid at det ikke tar opp mer olje uansett hvor mye en tilfører det. Av denne grunn må vi kontrollere mengden olje vi benytter for å unngå at det skal se for skinnende ut, i tillegg blir dette sløsing med produktet. ",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "HVORDAN BRUKES SKJEGGOLJE?",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pass på at oljen er både for håret og for huden. Riktig måte å påføre oljen på er å dryppe litt i håndflaten å gni hendene sammen for å fordele det jevnt ut.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Når du har oljen i hendene, påfører du denne ved å dra fingertuppene på huden og i skjegget, fra toppen og nedover samtidig som du beveger hendene i sikk sakk bevegelser. ",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Oljen skal ned til huden, ikke kun påføres hårene. ",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Deretter fordeler du oljen fra håndflatene jevnt i hele skjegget til den forsvinner fra hendene.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Til slutt tar en det siste av produktets som måtte være igjen på hendene og hydrerer barten om du har det.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Pass på å fordele oljen i fra toppen av skjegget og ned. ",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "NÅR BRUKES SKJEGGOLJE?",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Dette spørsmålet er veldig enkelt å svare på, og det er hver dag. Vi må ha for vane, akkurat som vi pusser tennene eller vasker håret når vi dusjer, å bruke skjeggolje hver dag.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Ideelt sett, etter dusjing, med skjegget håndkle tørt eller lett fuktig, påfør skjeggoljen som beskrevet over. ",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Håper vi nå har avklart litt om skjeggolje. Hvis du har spørsmål om skjeggolje eller vil at vi skal snakke om et annet produkt, legg igjen en kommentar, så svarer vi deg gjerne.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "f50219ac-02de-4069-bb56-5e56c3a37137",
+   "title": "Hvordan føne skjegget",
+   "slug": "slik-foner-du-skjegget",
+   "excerpt": "En god hårføner er et must for å holde skjegg og bart velstelt og veltrimmet. Her ser du hvordan du gjør det!",
+   "language": "no",
+   "categoryIds": [
+    "5a51bf08-3998-4727-8671-bb09a3b15a12"
+   ],
+   "firstPublishedDate": null,
+   "contentUpdated": "2024-05-07T00:39:36.630Z",
+   "seoDescription": null,
+   "media": {
+    "id": "2bc375b8656a4040aa262ad7d52cc402.jpg",
+    "url": "https://static.wixstatic.com/media/2bc375b8656a4040aa262ad7d52cc402.jpg",
+    "width": 4066,
+    "height": 2706,
+    "altText": null
+   },
+   "richContent": {
+    "nodes": [
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "En god hårføner er et must for å holde skjegg og bart velstelt og veltrimmet. Her ser du hvordan du gjør det!",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "IMAGE",
+      "imageData": {
+       "image": {
+        "src": {
+         "id": "2bc375b8656a4040aa262ad7d52cc402.jpg"
+        },
+        "width": 4066,
+        "height": 2706
+       },
+       "altText": "JK Barber Shop og frisør",
+       "caption": ""
+      },
+      "nodes": []
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Dette trenger du:",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "IMAGE",
+      "imageData": {
+       "image": {
+        "src": {
+         "id": "8c3e53_2d00d95845f3424bacdd6b40314a50e3~mv2.jpg"
+        },
+        "width": 1000,
+        "height": 1000
+       },
+       "altText": "JK Barber Shop og frisør"
+      },
+      "nodes": []
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hårføner",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Velg en kraftig hårføner med kaldluftsknapp og så smal dyse du får tak i. Sveitsiske Valera tilhører toppsjiktet.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Skjeggkam",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "IMAGE",
+      "imageData": {
+       "image": {
+        "src": {
+         "id": "8c3e53_8f150d95c02544f69d03c214b4611299~mv2.jpg"
+        },
+        "width": 2010,
+        "height": 1041
+       },
+       "altText": "JK Barber Shop og frisør"
+      },
+      "nodes": []
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Det beste er en stor kam med grove tenner. Velg kam av acetat eller treverk, så unngår du statisk elektrisitet.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Skjeggbørste",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "IMAGE",
+      "imageData": {
+       "image": {
+        "src": {
+         "id": "8c3e53_b4b5868745034f7992f6e1fb1c8f792e~mv2.jpg"
+        },
+        "width": 1954,
+        "height": 1170
+       },
+       "altText": "JK Barber Shop og frisør"
+      },
+      "nodes": []
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Må ha meget stiv bust. De aller beste har villsvinbust, de rimeligere bruker nylon. Det er en smakssak om du vil ha skaft eller ei.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hvorfor bruke hårføner?",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Skjegg som blir lengre enn 3-4 cm holder på en hel del fukt og begynner raskt å floke seg til. Et flokete skjegg samler seg i ujevne tuster og ser bustete ut. Jo mer krøllete skjeggvekst du har, jo større blir problemet, og på bart dukker det opp nesten umiddelbart.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Føning av skjegg fungerer på samme måte som å stryke en fuktet skjorte. Skjegget mykgjøres av vann og skjeggsjampo i dusjen, strekkes ut med en skjeggkam og tørkes inn i fasong av varm luft fra føneren. Dermed får du et skjegg som holder seg rett og volumiøst dagen lang.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Føning er et must før du trimmer skjegget, ellers aner du ikke hvor langt hvert hår i realiteten er og risikerer å klippe det skjevt. Et fønet skjegg er også det perfekte utgangspunkt for styling med skjeggolje eller skjeggpomade og skjeggbørste.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Slik går du frem",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "ORDERED_LIST",
+      "nodes": [
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Vask skjegget i dusjen med skjeggsjampo.",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Tilfør fuktighet med litt skjeggolje (hvis du bruker skjegglotion eller skjeggpomade kan du hoppe over dette skrittet).",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Gre raskt gjennom skjegget med en skjeggkam.",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Still føneren på medium varme og medium luftstrøm. Sett på en flat dyse.",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Strekk skjegget rolig i lengderetningen, fra innerst til ytterst mens du følger kammen ca. 20 cm bak med føneren. Gjenta til du har fasongen du ønsker.",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "La det være ca 20 % fukt igjen i skjegget (tilsvarer håndkletørt). Skjegget er tørt fra naturens side og blir stivt hvis du føner det knusktørt. Hele føningen tar gjerne bare 2-3 minutter.",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Masser inn evt. styling med fingrene. Menn med kortere skjegg bruker gjerne en lett skjegglotion, mens dem med langt skjegg bruker skjeggpomade. Særlig buskete skjegg kan holdes på plass med såkalt Beard Hold som har aller sterkest hold. ",
+             "decorations": []
+            },
+            "nodes": []
+           },
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Bruk ikke hårstyling i skjegget siden det blir for klissete og/eller stivt.",
+             "decorations": [
+              {
+               "type": "ITALIC"
+              }
+             ]
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Gi fasongen en siste finish med en skjeggbørste. Dermed får du fjernet løse hår og kan samle skjegget slik du ønsker.",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Tips og triks",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Unngå å tørke skjegget med håndkle.",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Hvis du frotterer skjegget med håndkle blir det rufsete og vanskeligere å føne rett.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Føn inn styling.",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Er skjegget ditt ekstra uregjerlig med mange verver o.l. kan du føne inn skjeggpomaden. Da varmer du opp voksen og får bedre hold.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Føn barten aller først.",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Mustasjer fønes utover til hver side fra nesen, og kan kreve en mer finmasket bartekam for å bli fin. Mange bruker bartevoks til slutt.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Kilde: grooming.no",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "7d43ccfd-d017-42c9-8113-819225592775",
+   "title": "Slik barberer du deg lynraskt",
+   "slug": "slik-barberer-du-deg-hjemme",
+   "excerpt": "Noe av gleden med tradisjonell barbering at vi kan ta oss god tid og gjøre et lite hverdagsrituale ut av det. Andre av oss har imidlertid ba",
+   "language": "no",
+   "categoryIds": [
+    "48b6f084-4c8c-4754-8363-7bdfafd41c29"
+   ],
+   "firstPublishedDate": null,
+   "contentUpdated": "2024-05-12T02:35:43.041Z",
+   "seoDescription": null,
+   "media": {
+    "id": "25d63db730f64a5a8762fa001b9bb2fc.jpg",
+    "url": "https://static.wixstatic.com/media/25d63db730f64a5a8762fa001b9bb2fc.jpg",
+    "width": 800,
+    "height": 420,
+    "altText": null
+   },
+   "richContent": {
+    "nodes": [
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Noe av gleden med tradisjonell barbering at vi kan ta oss god tid og gjøre et lite hverdagsrituale ut av det. Andre av oss har imidlertid barn å levere og tog å nå! Her følger 7 triks for å svinge høvelen raskere enn din egen skygge. Med disse teknikkene kan du komme ned i ca. 3 minutter fra du tar frem barberkosten til barberhøvelen er tilbake i stativet.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "IMAGE",
+      "imageData": {
+       "image": {
+        "src": {
+         "id": "25d63db730f64a5a8762fa001b9bb2fc.jpg"
+        },
+        "width": 800,
+        "height": 420
+       },
+       "altText": "Tradisjonell barbering med høvel og kost"
+      },
+      "nodes": []
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Derfor er tradisjonell barbering så hurtig",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "I utgangspunktet kan det virke som om en barberhøvel med mange blader og barberskum på boks sparer tid, men i praksis kan barbering med tradisjonell høvel og kost være minst like raskt.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "BULLETED_LIST",
+      "nodes": [
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "En tradisjonell barberhøvel blir helt ren for hår og skum av et raskt dypp i vasken. Flerbladshøvler må som regel skylles, dunkes osv. mange ganger i løpet av en barbering.",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "En tradisjonell barberhøvel kan barbere lengre hår uten å trenge trimming med saks eller maskin først.",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "En tradisjonell barberhøvel er mild nok til at du kan ta mange, raske, overlappende tak uten å få utslett.",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Barberkosten løfter hårene slik at selve barberingen blir enklere og raskere.",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Barberkrem skummet opp av barberkost holder seg mykt og glatt under hele barberingen, mens barberskum på boks raskt begynner å tørke og i noen tilfeller må påføres på nytt.",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "IMAGE",
+      "imageData": {
+       "image": {
+        "src": {
+         "id": "1f268290a88143c28477ec4f6e529b7f.jpg"
+        },
+        "width": 6208,
+        "height": 9312
+       },
+       "altText": "Barberkost og barberhøvel"
+      },
+      "nodes": []
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "1. Ha alt klart før du starter",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Organiser utstyret du skal bruke i rekkefølge, fra høyre til venstre eller omvendt, alt etter hvilken hånd du bruker. Rydd bort alt annet som ikke trenger å stå fremme og fyll vasken med vann mens du for eksempel tørker håret. Til denne guiden bruker vi:",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "BULLETED_LIST",
+      "nodes": [
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Barberkost",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Barberkrem i skål",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Barberhøvel",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Etterbarberingskrem",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Rent håndkle",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "2. Bruk barberkrem i skål",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Barberkrem i skål er det aller raskeste alternativet med barberkost. Den store åpningen lar deg fordele en tynn film av krem over hele tuppen av busten, som går langt fortere å skumme opp enn en dært fra en tube. Siden kremen er flytende tar den også marginalt mindre tid å skumme enn barbersåper i fast form. Roter en fuktet kost i skålen langs sin egen akse, da slipper du søl over kanten.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Alternativ for tube: Du kan lage skum på rekordtid ved å ta litt krem rett i hendene, påføre den på ansiktet og deretter skumme med en fuktet kost. Kremen på hendene fjerner du ved å dyppe dem i vasken.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "3. Skum opp rett i ansiktet",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Aller fyldigst skum vil man alltid få i en egen barberkopp. Barberkremene våre er imidlertid fete nok til å skumme helt fint rett på huden. Sørg for å bruke plenty av vann på kosten og press den godt inn mens du skummer opp i sirkelbevegelser. Ikke vær sjenert, en god barberkost tåler nokså mye press.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "På en del YouTube-videoer står folk og skummer i flerfoldige minutter. Det er selvfølgelig koselig og gir overlegent fyldig skum, men du trenger ikke gjøre det når du har hastverk. Straks skummet kjennes glatt ut er det klart til barbering, det trenger ikke være så tykt for å gi akseptabel glid.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "4. Spenstig kost sparer tid",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Noen barberkoster prioriterer komfort over fart, andre har stivere «ryggrad» og tettere bust som lar deg lage skum på kortere tid. Silvertip og Silvertip Fibre-bust lager fyldig skum raskere enn det de mykere Pure Badger og Black Fibre gjør. Siden hvert hår på disse kostene er tynnere blir busten tettere og luftboblene i skummet mindre og jevnere fordelt. Kjekt å ha in mente når du velger barberkost!",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "5. Barber med flere, korte bevegelser",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Du får en tettere og kvikkere barbering med mange, delvis overlappende tak enn med få, lange drag med barberhøvelen.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Tradisjonelle barberhøvler er så milde at de fleste kan barbere samme område flere ganger uten å risikere irritasjon, og de mange passeringene gjør at du automatisk tilpasser vinkelen på høvelen etter konturene i ansiktet. Barberhøvelen barberer dessuten på begge sider slik at du kan ta to tak før du må dyppe høvelen i vasken.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "NB: Ikke barber fortere enn du er komfortabel med. Etterhvert som du får erfaring med din høvel kan du gradvis øke tempoet uten å få småkutt. Bruk en høvel med lukket kam og milde barberblader om du er i tvil.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "6. Barber i en fast rekkefølge",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Du taper tid på å lure på hvor du allerede har barbert. Ta heller alle områder i en fast orden så du er 100 prosent sikker på at alt blir tatt.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Forsøk å ta kinnene først, så rundt munnen, langs kjeven og til slutt halsen. På denne måten har du alltid et såpefritt område du kan bruke til å stramme huden med den andre hånden dersom det er nødvendig. Hopp naturligvis over felt hvor du eventuelt sparer til bart eller skjegg!",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "7. Bruk aftershave som ansiktskrem",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Uansett hvordan du barberer deg er det vanskelig å få god hud uten aftershave, så dette er et steg vi ikke hopper over. Når vi er sent ute (og hvis huden vår tåler det) dropper vi å først desinfisere huden med etterbarberingsvann / alun og går rett på etterbarberingskremen. Dersom du har fet hud eller bor i varme strøk kan du kun bruke etterbarberingsvann eller alunstein og heller hoppe over etterbarberingskremen.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Ved å bruke en mild krem med gode fuktighetsgivende egenskaper kan du bruke den på hele ansiktet, også på issen hvis du barberer hodet. For de fleste av oss sparer dette mye tid i og med at vi uansett måtte brukt en eller annen fuktighetskrem. Til bruk i hele ansiktet kan det være lurt å velge en etterbarberingskrem uten for sterk lukt.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Kilde: grooming.no",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "732455d0-6510-47b4-8886-b748eee1245e",
+   "title": "Kan jeg få mer skjeggvekst?",
+   "slug": "mer-skjeggvekst",
+   "excerpt": "Vi får mange spørsmål om det går an å øke skjeggveksten. Enkelte forbinder evnen til å gro skjegg med manndom, så la oss derfor få det sagt ",
+   "language": "no",
+   "categoryIds": [
+    "5a51bf08-3998-4727-8671-bb09a3b15a12"
+   ],
+   "firstPublishedDate": null,
+   "contentUpdated": "2024-05-12T02:35:43.021Z",
+   "seoDescription": null,
+   "media": {
+    "id": "8c3e53_d574e17736b24f5bbf20bc2b48b2a822~mv2.jpg",
+    "url": "https://static.wixstatic.com/media/8c3e53_d574e17736b24f5bbf20bc2b48b2a822~mv2.jpg",
+    "width": 1024,
+    "height": 1536,
+    "altText": null
+   },
+   "richContent": {
+    "nodes": [
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Vi får mange spørsmål om det går an å øke skjeggveksten. Enkelte forbinder evnen til å gro skjegg med manndom, så la oss derfor få det sagt med én gang: Ingenting tyder på at menn med lite skjeggvekst er mindre karslige enn andre. Du kan helt fint leve et givende liv uten så veldig mye skjeggvekst. Når det er sagt er det morsomt med skjegg og det finnes noen enkle teknikker alle kan prøve uten skadevirkninger.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "IMAGE",
+      "imageData": {
+       "image": {
+        "src": {
+         "id": "8c3e53_d574e17736b24f5bbf20bc2b48b2a822~mv2.jpg"
+        },
+        "width": 1024,
+        "height": 1536
+       },
+       "altText": "Skjeggtrim hos J&K Barber Shop"
+      },
+      "nodes": []
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hvorfor har noen mindre skjegg enn andre?",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Kroppens produksjon av hår er en del av et komplekst samspill av hormoner, hårsekker og næringsstoffer som virker annerledes i hodebunnen enn i ansiktet. Den vanligste årsaken til at menn mister håret på hodet er dihydrotestosteron (DHT). DHT er et såkalt androgent hormon som dannes ved at testosteron binder seg til enzymet 5-alfareduktase, som blant annet finnes i svette. Dersom DHT hoper seg opp i hodebunnen vil det bidra til å “skru av” hårsekkene der.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Nå kommer det kontraintuitive: DHT hindrer hårvekst i hodebunnen, men fremmer hårvekst på andre deler av kroppen. Med alderen stiger DHT-verdiene i huden, derfor har eldre menn gjerne tynnere hår på issen og tykkere skjegg og kroppshår enn yngre. De fleste menn får sin fulle skjeggvekst i løpet av 20-årene. Noen menn er dessuten genetisk disponert for større skjeggvekst enn andre. Dette kan hvile på større lokal DHT-produksjon, men også et vell av andre faktorer.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Onkelen min sa at skjegg blir tykkere av å bli barbert. Stemmer det?",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Barbering gir en optisk illusjon av at skjegget vokser tilbake tettere enn før. Skjegghår har naturlig spisse tupper. Når du barberer deg med en god høvel kapper du tuppen av hvert hår av, slik hårene som vokser ut igjen er helt flate i enden og dermed ser tykkere ut.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hva mer kan gi fyldigere skjegg?",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Et generelt godt skjegghold gjør at skjegget du har ser fyldigere ut. Ved å mykgjøre skjeggstråene og kjemme/børste dem på plass vil skjegget dekke huden bedre, og ved å tilføre fuktighet framstår skjegget tykkere og sunnere. På samme måte vil en bart som legges sidelengs med bartevoks dekke hud bedre enn bartehår som stritter rett ut eller ned.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Kilde: grooming.no",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "e602c35b-8f66-45a9-addf-016e2a11f7a7",
+   "title": "Alt om hårstyling Del 2 Smarte teknikker",
+   "slug": "harstyling-del-2-teknikker",
+   "excerpt": "En trenger ikke frisørutdannelse for å se bra ut foran baderomsspeilet, det holder å følge noen enkle råd. Bemerk at all hårstyling fungerer",
+   "language": "no",
+   "categoryIds": [
+    "ca65403d-510a-4f3e-8f4f-41debc40ed22"
+   ],
+   "firstPublishedDate": null,
+   "contentUpdated": "2024-05-07T00:39:36.633Z",
+   "seoDescription": null,
+   "media": {
+    "id": "11062b_b0d33dc276d440aa93eba654c3bbd005~mv2.jpeg",
+    "url": "https://static.wixstatic.com/media/11062b_b0d33dc276d440aa93eba654c3bbd005~mv2.jpeg",
+    "width": 7360,
+    "height": 4912,
+    "altText": null
+   },
+   "richContent": {
+    "nodes": [
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "En trenger ikke frisørutdannelse for å se bra ut foran baderomsspeilet, det holder å følge noen enkle råd. Bemerk at all hårstyling fungerer best i friskt og sunt hår som jevnlig vaskes med sjampo og tilføres fuktighet med hårbalsam. Unngå også overdreven styling om du er rammet av hårtap.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "IMAGE",
+      "imageData": {
+       "image": {
+        "src": {
+         "id": "bb4b54c5ab834cdbbb497486e5f31fcf.jpg"
+        },
+        "width": 8688,
+        "height": 5792
+       },
+       "altText": "Hårstyling hos J&K Barber Shop",
+       "caption": ""
+      },
+      "nodes": []
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Style håret like etter dusjing",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Fuktig hår er langt lettere å forme enn knusktørt hår, enten du føner det på plass eller ei. Rent hår er også fritt for smuss som ellers blokkerer stylingen fra å feste seg.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Start med små mengder styling",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Du trenger mindre enn du tror, for mye styling kan framstå fett og seigt. Ta to fingre i hånden og gni ut for å varme den opp.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Bruk riktig verktøy",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Kam er ideelt til streng frisyre i relativt kort eller slett hår. Børste fungerer bedre til luftigere frisyre med lengre hår. Rullebørste (rund børste) kan oppheve fall og krøller samt lage mengder av volum. Styling med fingrene gir et mer naturlig utseende.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Børsting gir en siste finish",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Barberere bruker børster med stiv bust for å temme de siste, løpske hårene som ikke lar seg legge ned på annet vis. Når du har lyset i ryggen slipper du å bære en glorie av gjennomsiktig rufs.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Invester i en føner",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "En klassisk bommert er å bare tørke håret med håndkle, så klaske i masse styling. Det holder til rufsete, naturlige sveiser, men ikke til ryddige frisyrer. En profesjonell barberer vil i stedet lage selve fasongen med føner og børste, deretter holde den på plass med stylingprodukter. Håret blir dermed tørket inn i ønsket retning. Da kan man bruke en brøkdel så mye produkt, får lagt håret dit man ønsker og trenger ikke i nærheten så tung og sterk hårstyling.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Sjampo i tørt hår",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "IMAGE",
+      "imageData": {
+       "image": {
+        "src": {
+         "id": "11062b_8977a11792f544b697e8a03ff516e45e~mv2.jpg"
+        },
+        "width": 5000,
+        "height": 3333
+       },
+       "altText": "Hårvask hos J&K Barber Shop"
+      },
+      "nodes": []
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Mekanikere tar alltid håndrens på tørre hender, deretter skyller ut med vann. Olje er vannavstøtende, så ved å ta vann på først vil det danne seg en film som hindrer såpen å trenge inn til smusset. Hvis du bruker voksbasert styling blir håret på samme måte langt renere om du tar sjampoen i tørt hår. Vær obs på at dette også kan vaske bort hårets naturlige sebum (olje), så vær i så fall særlig nøye med å bruke balsam etterpå. Vurder også stylingmidler som tilfører håret næring og fuktighet.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Dropp balsam om du har det travelt",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hår og hodebunn har det absolutt best ved å få litt conditioner ved hver dusj, men om du allerede er forsinket er det nyttig å vite at håret tørker mange ganger fortere om du skipper balsamen. Dermed går det mye raskere å føne / tørke i forkant av styling.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Flere produkter kan kombineres",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Flere vannbaserte stylingprodukter kan blandes for å gi nye egenskaper. Mange av våre kunder bruker for eksempel Imperial Barber Products Gel Pomade som en base for å la andre pomader stivne og holde frisyren på plass. Teksturspray løfter også håret og gjør stylingprodukter lettere å forme.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Kilde: grooming.no",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "5906cae1-ae54-4140-8506-3e848fb6078b",
+   "title": "Alt om hårstyling Del 1",
+   "slug": "harstyling-del-1-grunnleggende",
+   "excerpt": "Vi har stått opp og skal få frisyren under kontroll. Er det “pomade” eller “paste” som vil fungere best? Og skal vi ta det i tørt eller vått",
+   "language": "no",
+   "categoryIds": [
+    "ca65403d-510a-4f3e-8f4f-41debc40ed22"
+   ],
+   "firstPublishedDate": null,
+   "contentUpdated": "2024-05-13T16:52:20.618Z",
+   "seoDescription": null,
+   "media": {
+    "id": "8c3e53_bffd676236bd44e7acbb6849a196e253~mv2.jpg",
+    "url": "https://static.wixstatic.com/media/8c3e53_bffd676236bd44e7acbb6849a196e253~mv2.jpg",
+    "width": 1024,
+    "height": 1536,
+    "altText": null
+   },
+   "richContent": {
+    "nodes": [
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Vi har stått opp og skal få frisyren under kontroll. Er det “pomade” eller “paste” som vil fungere best? Og skal vi ta det i tørt eller vått hår? Les denne guiden for å vite alt du trenger om hårstyling!",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "IMAGE",
+      "imageData": {
+       "image": {
+        "src": {
+         "id": "8c3e53_bffd676236bd44e7acbb6849a196e253~mv2.jpg"
+        },
+        "width": 1024,
+        "height": 1536
+       },
+       "altText": "Hårstyling hos J&K Barber Shop"
+      },
+      "nodes": []
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hva er hårstyling?",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hårstyling er et samlebegrep for alle midler som skal bli værende og endre utseendet på håret. Det kan dreie seg om å legge håret i en ny retning, løfte røttene eller gi en blank overflate. Noen frisyrer krever nesten ingen styling, andre trenger flere produkter etter hverandre. Til og med mange frisyrer som ser og kjennes helt naturlige ut er i virkeligheten laget ved hjelp av styling.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "I og med at hårstyling binder seg til håret avhenger resultatet av hvordan håret ditt er fra naturens side. Krøllete hår krever gjerne andre produkter og teknikker enn slett hår, og tynt hår formes annerledes enn tykt hår.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Noen sentrale begreper",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hold",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hvor sterk hårstylingen er. Produkter med mye hold kan holde striere hår i mer radikale fasonger enn produkter med lite hold. Sideskill o.l. krever naturligvis mer hold enn en rufsete look. Mer hold er ikke nødvendigvis bedre. Ved å føne håret på plass trenger du kun en brøkdel av holden som kreves i håndkletørket hår.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Shine",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hvor blankt stylingen etterlater håret. Mye shine er som hovedregel stilig på veldig definerte frisyrer i mørkt hår, men for mye shine kan fremstå “fett” i lyst hår. Lite shine gir et mer naturlig utseende.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Tyngde",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hvor mye stylingen tynger ned håret. Mye tyngde er bra til stramme, tette frisyrer og dårlig hvis man skal lage volum. Produkter med høy vekt kjennes gjerne våtere ut i håret enn produkter med lav vekt.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Tekstur",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Fasongen på hvert hårstrå, om det er krusete, bølgete, slett, tykt eller tynt.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Volum",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hvor luftig frisyren skal bli, altså hvor langt hvert hår skal stå oppover før det evt. legges i fasong.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Definisjon",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hvor markant grupper av hårstrå skal framstå. Ved å bruke definerende hårstyling vil f. eks. en kam etterlate tydelige furer i frisyren, mens krøller vil framstå som separate lokker.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Vannbasert eller voks/oljebasert?",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Vannbasert",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hårstyling som er formulert på vann og vannløselige bindemidler. Langt lettere å vaske ut enn voksbaserte stylingprodukter og ofte mildere mot håret. Som en tommelfingerregel kan de påføres ned til røttene hvis du ønsker. Ulempen er at vannbaserte produkter kan begynne å løse seg opp og renne i kraftig regnvær eller dersom du svetter mye. Vannbasert styling blir gjerne tung og blank i vått hår og mattere og luftigere i tørt hår.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Voksbasert",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Hårstyling som er basert på fett, voks, olje eller andre vannavstøtende stoffer. De kan gi kraftig hold uten å løsne i møte med vann eller svette. Ulempen er at de er vanskeligere å vaske bort, man må gjerne ta i sjampo i tørt hår eller sjamponere flere ganger. Voksbasert styling bør ikke påføres ned i røttene og skal som hovedregel tas i nokså tørt hår. Hvis du er tynn i håret, eller sliter med hårtap, anbefaler vi ikke voksbaserte produkter.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Kilde: grooming.no",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "20f64ebc-acea-477d-8123-7cd10c7b3dd1",
+   "title": "Mykt skjegg på 1-2-3",
+   "slug": "mykt-skjegg-pa-1-2-3",
+   "excerpt": "Dette er en rask guide til å få sunt og pent skjegg som du har tid til å lese mens du venter på bussen",
+   "language": "no",
+   "categoryIds": [
+    "5a51bf08-3998-4727-8671-bb09a3b15a12"
+   ],
+   "firstPublishedDate": null,
+   "contentUpdated": "2024-06-04T05:35:01.793Z",
+   "seoDescription": null,
+   "media": {
+    "id": "8c3e53_81531d25f33248bab999ae200ee31454~mv2.jpg",
+    "url": "https://static.wixstatic.com/media/8c3e53_81531d25f33248bab999ae200ee31454~mv2.jpg",
+    "width": 1024,
+    "height": 1280,
+    "altText": null
+   },
+   "richContent": {
+    "nodes": [
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Dette er en rask guide til å få sunt og pent skjegg som du har tid til å lese mens du venter på bussen.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Utfordring",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "BULLETED_LIST",
+      "nodes": [
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Skjegget klør",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Skjegget flasser",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Skjegget floker seg",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Skjegget legger seg ikke pent",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Årsaker",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "BULLETED_LIST",
+      "nodes": [
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Skjegget er mer utsatt for mat, vær og vind enn håret på hodet",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Ansiktshuden er tørrere enn hodebunnen",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Skjegghår er tørrere enn hodehår",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "LIST_ITEM",
+        "nodes": [
+         {
+          "type": "PARAGRAPH",
+          "nodes": [
+           {
+            "type": "TEXT",
+            "textData": {
+             "text": "Skjegghår er tykkere enn hodehår",
+             "decorations": []
+            },
+            "nodes": []
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "IMAGE",
+      "imageData": {
+       "image": {
+        "src": {
+         "id": "8c3e53_81531d25f33248bab999ae200ee31454~mv2.jpg"
+        },
+        "width": 1024,
+        "height": 1280
+       },
+       "altText": "Skjeggpleie hos J&K Barber Shop"
+      },
+      "nodes": []
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Løsning",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Som du ser er skjegget ganske annerledes enn håret på hodet og trenger derfor helt andre produkter for ikke å tørke ut, flasse og flise opp.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Steg 1: Skjeggsjampo",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Skjeggsjampo er det aller viktigste for å få mykt og pent skjegg. Hvis du først tørker ut skjegget med hårsjampo / ansiktssåpe / bare vann, klarer vi ikke å reparere det etterpå med skjeggolje eller andre fuktighetsmidler.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Skjeggsjampo fjerner langt mindre sebum (olje) enn hårsjampoer og bevarer dermed tøyeligheten til skjegget. Duften forsvinner nesten totalt når dusjen er over.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Bruk:",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Før en liten mengde inn i skjegget i dusjen og skyll ut med lunkent vann. 2-4 ganger i uken.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Steg 2: Fuktighetsmiddel",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "I vårt tørre klima trenger skjegg og ansiktshud å tilføres fuktighet etter en vask. Siden skjegget er i veien blir ansiktskrem bare søl, derfor kan du velge mellom tre typer fuktighetsmidler spesielt formulert for skjegg.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "De færreste bruker alle tre, det vanlige er å bruke ett eller to av dem.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Skjeggolje",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Allrounderen. Gå for skjeggolje om du er i tvil. Inneholder naturlige fettsyrer som tetter glipene mellom hud- og hårceller og mykgjør ansiktshud og skjegg. Motvirker flass og kløe samt gjør skjegget lettere å forme. Har ofte litt duft for å unngå at skjegget lukter rått. Virker best på skjegg som er minst noen cm langt.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Bruk:",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Masser noen dråper inn i håndkletørt hår (bør ikke være helt tørt), sørg for å nå inn til huden under. Aller best etter en dusj. Kan brukes hver dag, 7 ganger i uken.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Skjeggpomade",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Til langt / kraftig skjegg. Skjeggpomade inneholder det samme som skjeggolje, men også naturlig voks og plantesmør.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Drøyere enn skjeggolje og gir dessuten hold uten å stivne. Ypperlig til å holde tuppene inne i et kraftig skjegg.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Bruk:",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Gni ut en liten mengde i hendene til den smelter. Påføres akkurat som skjeggolje, opptil 7 dager i uken.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Skjegglotion",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Til kort skjegg / kalde dager. Skjegglotion er fuktighetskrem som er tyntflytende nok til å nå inn til ansiktshuden.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Perfekt til kort skjegglengde, men kan også brukes i tillegg til skjeggolje før du går ut en vinterdag. Også god til deg med fet hud som vil unngå oljer. Siden den veier litt mer enn skjeggolje gir den bittelitt hold.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Bruk:",
+         "decorations": [
+          {
+           "type": "BOLD"
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": " Masseres inn til ansiktshuden under skjegget, aller helst etter en dusj. Kan påføres flere ganger i løpet av dagen etter behov.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 2
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Steg 3: Forming",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Nå som skjegget er mykgjort, kan vi forme det.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Skjeggbørste",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Uunnværlig til alle skjegg. Skjeggbørsten legger ned tuppene og børster bort løse hår. Vær særlig obs på å legge skjegget ned på sidene.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Skjeggkam",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Blir viktigere jo lengre skjegget er. Retter ut floker og skaper volum. De fleste skjeggkammer har grove tenner for å ikke sette seg fast. Virkelig langt skjegg bør fønes mens du retter det ut med skjeggkammen.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Føner",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Føning er et must før du trimmer et langt skjegg, ellers aner du ikke hvor langt hvert hår i realiteten er og risikerer å klippe det skjevt. Et fønet skjegg er også det perfekte utgangspunkt for styling. ",
+         "decorations": []
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Les mer om hvordan du føner skjegget",
+         "decorations": [
+          {
+           "type": "LINK",
+           "linkData": {
+            "link": {
+             "url": "/post/slik-foner-du-skjegget/",
+             "target": "SELF"
+            }
+           }
+          }
+         ]
+        },
+        "nodes": []
+       },
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": ".",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "HEADING",
+      "headingData": {
+       "level": 3
+      },
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Bartevoks",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "De fleste bruker ikke bartevoks til å lage snurrebart, men til å legge barten sidelengs inn i skjegget. Må kjemmes inn for et godt resultat. En bart som har litt lengde er også langt lettere å legge på plass. Unngå å trimme den på midten, målet er at hvert hår skal kunne legges sammen og peke mot resten av skjegget.",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     },
+     {
+      "type": "PARAGRAPH",
+      "nodes": [
+       {
+        "type": "TEXT",
+        "textData": {
+         "text": "Kilde: grooming.no",
+         "decorations": []
+        },
+        "nodes": []
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="nb">
+<head>
+<meta charset="utf-8">
+<title>Avdelingsside Sandvika</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Manrope:wght@400;500;600;700&display=swap">
+<style>
+body{margin:0;background:#121110;font-family:Manrope,system-ui,sans-serif;color:#F3EDE4}
+a{color:#C9A45C}a:hover{color:#E2C27A}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:0 26px;border-radius:4px;font-weight:600;font-size:15px;text-decoration:none}
+.btn-p{background:#C9A45C;color:#121110}
+.btn-s{border:1px solid #C9A45C;color:#F3EDE4;background:transparent}
+.card{background:#1B1917;border:1px solid #2A2724;border-radius:6px}
+.eyebrow{font-size:12px;letter-spacing:2.4px;text-transform:uppercase;color:#C9A45C;font-weight:600}
+h1,h2,h3{font-family:Fraunces,Georgia,serif;font-weight:500;margin:0}
+.ph{background:#232019;border:1px dashed #4A4336;color:#8F8678;display:flex;align-items:center;justify-content:center;font-size:12px;letter-spacing:1px;text-transform:uppercase;text-align:center;padding:12px}
+.muted{color:#A39A8C}
+.wrap{max-width:1240px;margin:0 auto;padding:0 40px}
+nav a.n{color:#F3EDE4;text-decoration:none;font-size:15px;font-weight:500}
+.row{display:flex;justify-content:space-between;padding:12px 0;border-top:1px solid #2A2724;font-size:15px}
+</style>
+</helmet>
+
+<div style="width:100%;box-sizing:border-box;display:flex;flex-direction:column">
+
+<!-- Header -->
+<header style="border-bottom:1px solid #2A2724;background:#121110">
+  <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap;min-height:76px">
+    <a href="#" style="display:flex;align-items:center;gap:14px;font-family:Fraunces,serif;font-size:22px;color:#F3EDE4;text-decoration:none;letter-spacing:.5px"><img src="./jk-barber-logo-messing-600.png" alt="J&amp;K Barber Shop logo" style="height:56px;width:auto;display:block"><span>J&amp;K <span style="color:#C9A45C">Barber Shop</span></span></a>
+    <nav style="display:flex;gap:24px;flex-wrap:wrap;align-items:center">
+      <a class="n" href="#">Avdelinger</a><a class="n" href="#">Tjenester og priser</a><a class="n" href="#">Appen</a><a class="n" href="#">Gavekort</a><a class="n" href="#">Produkter</a><a class="n" href="#">Om oss</a><a class="n" href="#">Blogg</a>
+    </nav>
+    <a class="btn btn-p" href="#">Bestill time</a>
+  </div>
+</header>
+
+<div class="wrap muted" style="font-size:13px;padding-top:18px;padding-bottom:0">Hjem · Avdelinger · <span style="color:#F3EDE4">Sandvika Storsenter</span></div>
+
+<!-- Hero -->
+<section style="padding:40px 0 64px">
+  <div class="wrap" style="display:grid;grid-template-columns:minmax(0, 1.1fr) minmax(0, 1fr);gap:56px;align-items:center">
+    <div style="display:flex;flex-direction:column;gap:18px">
+      <div class="eyebrow">Sandvika Storsenter, Bærum</div>
+      <h1 style="font-size:52px;line-height:1.05">Barbershop og herrefrisør i Sandvika Storsenter</h1>
+      <p style="margin:0;font-size:18px;line-height:1.55;color:#D9D1C4">I Kjørbokollen, ved siden av Cewe Japan Photo. Skin fade, skjegg, klassisk klipp og knivbarbering, med konsultasjon først. Alle behandlingene på menyen er for både menn og kvinner. Tre minutter fra Sandvika stasjon.</p>
+      <div style="display:flex;gap:12px;flex-wrap:wrap"><a class="btn btn-p" href="#">Bestill time i Sandvika</a><a class="btn btn-s" href="#">Ring 90 80 00 86</a><a class="btn btn-s" href="#">Veibeskrivelse</a></div>
+      <div class="muted" style="font-size:14px"><span style="color:#C9A45C">★★★★★</span> 4,9 av 5 på Google, 381 anmeldelser</div>
+    </div>
+    <div class="ph" style="height:460px;border-radius:8px">Bilde: inngangen til salongen i Sandvika Storsenter (jk-barber-sandvika-fasade.jpg)</div>
+  </div>
+</section>
+
+<!-- NAP + kart -->
+<section style="padding:64px 0;background:#1B1917;border-top:1px solid #2A2724;border-bottom:1px solid #2A2724">
+  <div class="wrap" style="display:grid;grid-template-columns:repeat(3, minmax(0, 1fr));gap:24px">
+    <div class="card" style="padding:26px;display:flex;flex-direction:column;gap:10px;background:#121110"><div class="eyebrow">Her finner du oss</div><h2 style="font-size:24px">Adresse</h2><div style="font-size:15px;line-height:1.6">J&amp;K Barber Shop Sandvika Storsenter<br>Brodtkorbsgate 7, 1338 Sandvika<br>I Kjørbokollen, ved siden av Cewe Japan Photo<br><br>2 timer gratis parkering (senterets regler gjelder). Sandvika stasjon (tog og buss) 3 minutter til fots.<br><br>Tlf <a href="#">90 80 00 86</a> (felles for alle avdelinger)<br><a href="#">post@j-kbarber.no</a></div></div>
+    <div class="card" style="padding:26px;display:flex;flex-direction:column;gap:6px;background:#121110"><div class="eyebrow">Åpningstider</div><h2 style="font-size:24px;margin-bottom:8px">Vi har åpent</h2><div class="row"><span>Mandag til fredag</span><span>10 til 21</span></div><div class="row"><span>Lørdag</span><span>9 til 19</span></div><div class="row" style="border-bottom:1px solid #2A2724"><span>Søndag</span><span class="muted">Stengt</span></div><div class="muted" style="font-size:13px;margin-top:10px">Åpningstider følger senteret. Avvik ved høytider legges inn på Google og her.</div></div>
+    <div class="ph" style="min-height:300px;border-radius:6px">Google Maps-kart med markør (Google-profilens plassering)</div>
+  </div>
+</section>
+
+<!-- Tjenester med priser for denne avdelingen -->
+<section style="padding:80px 0">
+  <div class="wrap" style="display:grid;grid-template-columns:minmax(0, 1fr) minmax(0, 1.4fr);gap:56px;align-items:start">
+    <div style="display:flex;flex-direction:column;gap:14px"><div class="eyebrow">Tjenester og priser</div><h2 style="font-size:38px;line-height:1.1">Priser i Sandvika</h2><p class="muted" style="margin:0;font-size:16px;line-height:1.6">Prisene viser nivået Barber. Prisen avhenger av barberens nivå (Lærling, Junior, Barber, Senior). Endelig pris ser du i onlinebookingen. Hårvask inngår i klipp, du velger selv om du vil ha den. Alle behandlingene på menyen er for både menn og kvinner.</p><a href="#" style="font-size:15px">Slik fungerer nivåene Lærling, Junior, Barber og Senior</a></div>
+    <div class="card" style="padding:8px 28px">
+      <div class="row" style="border-top:none"><span><a href="#" style="color:#F3EDE4;text-decoration:none;font-weight:600">Klassisk herreklipp</a> <span class="muted">· 30 min</span></span><span style="color:#C9A45C;font-weight:600">639 kr</span></div>
+      <div class="row"><span><a href="#" style="color:#F3EDE4;text-decoration:none;font-weight:600">Skin fade</a> <span class="muted">· 45 min</span></span><span style="color:#C9A45C;font-weight:600">829 kr</span></div>
+      <div class="row"><span><a href="#" style="color:#F3EDE4;text-decoration:none;font-weight:600">Skjeggtrim</a> <span class="muted">· 30 min</span></span><span style="color:#C9A45C;font-weight:600">579 kr</span></div>
+      <div class="row"><span><a href="#" style="color:#F3EDE4;text-decoration:none;font-weight:600">Barbering av skjegg med kniv</a> <span class="muted">· 30 min</span></span><span style="color:#C9A45C;font-weight:600">529 kr</span></div>
+      <div class="row"><span><a href="#" style="color:#F3EDE4;text-decoration:none;font-weight:600">Barneklipp (under 12 år)</a> <span class="muted">· 30 min</span></span><span style="color:#C9A45C;font-weight:600">529 kr</span></div>
+      <div class="row"><span><a href="#" style="color:#F3EDE4;text-decoration:none;font-weight:600">Kombo I: klipp og skjegg</a> <span class="muted">· 60 min</span></span><span style="color:#C9A45C;font-weight:600">1 029 kr</span></div>
+      <div class="row"><span><a href="#" style="color:#F3EDE4;text-decoration:none;font-weight:600">Kombo II: skin fade og skjegg</a> <span class="muted">· 60 min</span></span><span style="color:#C9A45C;font-weight:600">1 279 kr</span></div>
+      <div class="row"><span><a href="#" style="color:#F3EDE4;text-decoration:none;font-weight:600">Pensjonistklipp</a> <span class="muted">· 30 min</span></span><span style="color:#C9A45C;font-weight:600">500 kr</span></div>
+      <div class="row" style="border-bottom:none"><span class="muted">Re-fresh, deluxe, voksing og student: se hele listen</span><a href="#" style="font-size:14px">Alle priser</a></div>
+    </div>
+  </div>
+</section>
+
+<!-- Velg barberer selv -->
+<section style="padding:64px 0;background:#17150F;border-top:1px solid #2A2724;border-bottom:1px solid #2A2724">
+  <div class="wrap" style="display:flex;justify-content:space-between;align-items:center;gap:32px;flex-wrap:wrap">
+    <div style="display:flex;flex-direction:column;gap:10px;max-width:760px"><div class="eyebrow">Barbererne</div><h2 style="font-size:34px;line-height:1.1">Velg barberer selv</h2><p class="muted" style="margin:0;font-size:16px;line-height:1.6">Barbererne i Sandvika er synlige i onlinebookingen. Der ser du nivået deres (Lærling, Junior, Barber, Senior), prisen og ledige tider. Velg den du vil ha, eller første ledige. Avbestilling senest 24 timer før.</p></div>
+    <a class="btn btn-p" href="#">Se barbererne og bestill</a>
+  </div>
+</section>
+
+<!-- Galleri + anmeldelser -->
+<section style="padding:80px 0">
+  <div class="wrap" style="display:flex;flex-direction:column;gap:48px">
+    <div style="display:flex;flex-direction:column;gap:20px"><h2 style="font-size:32px">Fra stolen i Sandvika</h2><div style="display:grid;grid-template-columns:repeat(4, minmax(0, 1fr));gap:14px"><div class="ph" style="height:220px">Interiør</div><div class="ph" style="height:220px">Skin fade, resultat</div><div class="ph" style="height:220px">Skjeggtrim</div><div class="ph" style="height:220px">Før og etter</div></div></div>
+    <div style="display:flex;flex-direction:column;gap:20px">
+      <div style="display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:16px"><h2 style="font-size:32px">Det kundene i Sandvika sier</h2><a href="#" style="font-size:15px">Les alle 381 anmeldelser på Google</a></div>
+      <div style="display:grid;grid-template-columns:repeat(3, minmax(0, 1fr));gap:20px">
+        <div class="card" style="padding:26px;display:flex;flex-direction:column;gap:12px"><div style="color:#C9A45C;letter-spacing:2px">★★★★★</div><p style="margin:0;font-size:15px;line-height:1.6;font-family:Fraunces,serif">"[Sitat, nevner Nicolae]"</p><div class="muted" style="font-size:13px">Fornavn E., oktober 2026</div></div>
+        <div class="card" style="padding:26px;display:flex;flex-direction:column;gap:12px"><div style="color:#C9A45C;letter-spacing:2px">★★★★★</div><p style="margin:0;font-size:15px;line-height:1.6;font-family:Fraunces,serif">"[Sitat, nevner Ibo]"</p><div class="muted" style="font-size:13px">Fornavn K., september 2026</div></div>
+        <div class="card" style="padding:26px;display:flex;flex-direction:column;gap:12px"><div style="color:#C9A45C;letter-spacing:2px">★★★★★</div><p style="margin:0;font-size:15px;line-height:1.6;font-family:Fraunces,serif">"[Sitat, barneklipp]"</p><div class="muted" style="font-size:13px">Fornavn T., august 2026</div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Lokal tekst + FAQ -->
+<section style="padding:80px 0;background:#1B1917;border-top:1px solid #2A2724;border-bottom:1px solid #2A2724">
+  <div class="wrap" style="display:grid;grid-template-columns:repeat(2, minmax(0, 1fr));gap:56px">
+    <div style="display:flex;flex-direction:column;gap:14px"><h2 style="font-size:32px;line-height:1.15">Barbershop midt i Sandvika, for hele Bærum</h2><p class="muted" style="margin:0;font-size:16px;line-height:1.65">[250 til 400 ord unik tekst om avdelingen: Sandvika Storsenter, Kjørbokollen ved Cewe Japan Photo, kundene fra Bærum, Lysaker og Asker, barbererne, drop-in og booking, 2 timer gratis parkering, kollektiv. Teksten ligger ferdig i innholdsplanen, avsnitt 4.1.]</p></div>
+    <div style="display:flex;flex-direction:column"><h2 style="font-size:32px;margin-bottom:12px">Spørsmål om Sandvika</h2>
+      <div style="padding:18px 0;border-top:1px solid #2A2724;display:flex;flex-direction:column;gap:10px"><div style="display:flex;justify-content:space-between;gap:16px;font-size:15px;font-weight:600"><span>Klipper dere bare menn?</span><span style="color:#C9A45C">−</span></div><p class="muted" style="margin:0;font-size:15px;line-height:1.55">Nei. Alle behandlingene på menyen er for både menn og kvinner. Vi er spesialister på kort hår, skin fade og moderne herreklipp. Bestill på vanlig måte og velg behandlingen du vil ha.</p></div>
+      <div class="row" style="font-weight:600;padding:18px 0"><span>Hvor parkerer jeg?</span><span style="color:#C9A45C">+</span></div>
+      <div class="row" style="font-weight:600;padding:18px 0"><span>Kan jeg komme uten time?</span><span style="color:#C9A45C">+</span></div>
+      <div class="row" style="font-weight:600;padding:18px 0"><span>Hvor i senteret ligger dere?</span><span style="color:#C9A45C">+</span></div>
+      <div class="row" style="font-weight:600;padding:18px 0"><span>Tar dere imot barn?</span><span style="color:#C9A45C">+</span></div>
+      <div class="row" style="font-weight:600;padding:18px 0;border-bottom:1px solid #2A2724"><span>Hvilke betalingsmåter tar dere?</span><span style="color:#C9A45C">+</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- Nærmeste avdelinger + CTA -->
+<section style="padding:72px 0">
+  <div class="wrap" style="display:flex;flex-direction:column;gap:28px">
+    <div class="card" style="padding:40px;display:flex;justify-content:space-between;align-items:center;gap:24px;flex-wrap:wrap;border-color:#C9A45C"><div><h2 style="font-size:30px">Klar for en klipp som sitter?</h2><p class="muted" style="margin:6px 0 0;font-size:15px">Velg barberer og tidspunkt, det tar under ett minutt.</p></div><a class="btn btn-p" href="#">Bestill time i Sandvika</a></div>
+    <div class="card" style="padding:0;overflow:hidden;display:grid;grid-template-columns:minmax(0, 1fr) minmax(0, 2fr);gap:0;background:#1B1917"><div class="ph" style="min-height:200px;border:none;border-right:1px dashed #4A4336">Bilde: J&amp;K i Kjørbokollen, Sandvika Storsenter (jk-barber-sandvika-blogg-kjorbokollen.jpg)</div><div style="padding:28px 32px;display:flex;flex-direction:column;gap:10px"><div class="eyebrow" style="color:#A39A8C">Guide</div><h3 style="font-size:24px;line-height:1.25">Barbershop i Sandvika Storsenter: slik finner du J&amp;K i Kjørbokollen</h3><p class="muted" style="margin:0;font-size:15px;line-height:1.55">Inngang, parkering og hva du kan bestille hos barbereren ved siden av Cewe Japan Photo.</p><a href="#" style="font-size:15px;margin-top:4px">Les guiden</a></div></div>
+    <div class="muted" style="font-size:14px;line-height:1.8">Våre andre avdelinger: <a href="#">Rykkinn Senter</a> · <a href="#">Ski Storsenter</a> · <a href="#">Åsenveien 3, Ski</a> · <a href="#">Kolbotn Torg</a> · <a href="#">Jessheim Storsenter</a> · <a href="#">Strømmen Storsenter</a> · <a href="#">Alle avdelinger</a></div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer style="padding:64px 0 40px;background:#0C0B0A;border-top:1px solid #2A2724">
+  <div class="wrap" style="display:grid;grid-template-columns:repeat(4, minmax(0, 1fr));gap:32px;font-size:14px;line-height:1.7">
+    <div style="display:flex;flex-direction:column;gap:12px"><img src="./jk-barber-logo-messing-600.png" alt="J&amp;K Barber Shop logo" style="height:120px;width:auto;display:block"><div style="font-family:Fraunces,serif;font-size:20px">J&amp;K <span style="color:#C9A45C">Barber Shop</span></div><div class="muted">Barbershop og herrefrisør siden 2018, for både menn og kvinner, i Follo, Bærum og Romerike.<br>Org.nr. 932 372 614<br>Åsenveien 3, 1400 Ski<br>Tlf 90 80 00 86 (felles for alle avdelinger)<br>post@j-kbarber.no</div></div>
+    <div class="muted"><div style="color:#F3EDE4;font-weight:600;margin-bottom:6px">Avdelinger</div>Sandvika Storsenter<br>Ski Storsenter<br>Åsenveien 3, Ski<br>Kolbotn Torg<br>Jessheim Storsenter<br>Strømmen Storsenter<br>Rykkinn Senter</div>
+    <div class="muted"><div style="color:#F3EDE4;font-weight:600;margin-bottom:6px">Tjenester</div>Herreklipp<br>Skin fade<br>Skjeggtrim<br>Knivbarbering<br>Barneklipp<br>Kombo<br>Hjemmebarbering</div>
+    <div class="muted"><div style="color:#F3EDE4;font-weight:600;margin-bottom:6px">J&amp;K</div>Appen og stempelkort<br>Gavekort<br>Produkter<br>Om oss<br>Jobb og franchise<br>Blogg<br>Personvern</div>
+  </div>
+</footer>
+
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":4700}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>
